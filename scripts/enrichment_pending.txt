@@ -12,7 +12,6 @@ saurabh2026field
 tian2026data
 waite2026ai
 yang2026molgen
-zhou2026autosiq
 arshad2025leveraging
 baishnab20253d
 barman2025accelerating
@@ -35,7 +34,6 @@ khara2025semi
 khara2025solving
 khara2025space
 kim2025soybean
-kimara2025maizefield3d
 ku2025sc
 laan2025genomic
 liu2025constructing
@@ -49,7 +47,6 @@ rabeh2025predicting
 saleem2025accessing
 saleem2025accessingb
 scovazzi2025preface
-shadkhah2025mpfbench
 shadkhah2025octree
 shen2025weednet
 shrestha2025plot
@@ -78,7 +75,6 @@ ganapathysubramanian2024aiira
 herron2024latent
 jignasu2024evaluating
 jignasu2024sdfconnect
-jignasu2024slice
 jignasu2024stitch
 jones2024multi
 khara2024neufenet
@@ -94,7 +90,6 @@ saadati2024out
 saleem2024class
 tali2024flowbench
 tross2024data
-yang2024biotrove
 young2024soybean
 agarwala2023machine
 berzina2023electrokinetic
@@ -215,7 +210,6 @@ parmley2019machine
 passe2019impact
 pokuri2019grate
 pokuri2019interpretable
-shah2019binary
 shah2019encoding
 sharma2019estimating
 sharma2019transfer

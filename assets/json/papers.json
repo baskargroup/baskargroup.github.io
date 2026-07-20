@@ -352,29 +352,6 @@
     "status": "published"
   },
   {
-    "bibkey": "zhou2026autosiq",
-    "title": "AutoSiQ: a curated haploid Arabidopsis thaliana inflorescence dataset with a fine-grained silique ontology and a deep learning application for haploid fertility quantification",
-    "authors": [
-      "Liming Zhou",
-      "Talukder Z. Jubery",
-      "B. Ganapathysubramanian",
-      "Thomas Lübberstedt",
-      "Siddique I. Aboobucker"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2026,
-    "venue": "Frontiers in Plant Science",
-    "doi": "10.3389/fpls.2026.1767588",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "published"
-  },
-  {
     "bibkey": "arshad2025leveraging",
     "title": "Leveraging Vision Language Models for Specialized Agricultural Tasks",
     "authors": [
@@ -929,34 +906,6 @@
     "status": "published"
   },
   {
-    "bibkey": "kimara2025maizefield3d",
-    "title": "MaizeField3D: A curated 3D point cloud and procedural model dataset of field-grown maize from a diversity panel",
-    "authors": [
-      "Elvis Kimara",
-      "Mozhgan Hadadi",
-      "Jackson Godbersen",
-      "Aditya Balu",
-      "Talukder Z. Jubery",
-      "Yawei Li",
-      "Adarsh Krishnamurthy",
-      "Patrick S. Schnable",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "mozhgan-hadadi"
-    ],
-    "year": 2025,
-    "venue": "Plant Phenomics",
-    "doi": "10.1016/j.plaphe.2025.100108",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "published"
-  },
-  {
     "bibkey": "ku2025sc",
     "title": "SC-NeRF: NeRF-Based Point Cloud Reconstruction Using a Stationary Camera for Agricultural Applications",
     "authors": [
@@ -1289,36 +1238,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "shadkhah2025mpfbench",
-    "title": "MPFBench: A Large Scale Dataset for SciML of Multi-Phase-Flows: Droplet and Bubble Dynamics",
-    "authors": [
-      "Mehdi Shadkhah",
-      "Ronak Tali",
-      "Ali Rabeh",
-      "Cheng-Hau Yang",
-      "Ethan Herron",
-      "Ajay Upadhyaya",
-      "Adarsh Krishnamurthy",
-      "Chinmay Hegde",
-      "Aditya Balu",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "mehdi-shadkhah",
-      "ronak-tali"
-    ],
-    "year": 2025,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2502.07080",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "shadkhah2025octree",
@@ -2100,32 +2019,6 @@
     "status": "published"
   },
   {
-    "bibkey": "jignasu2024slice",
-    "title": "Slice-100K: A Multimodal Dataset for Extrusion-based 3D Printing",
-    "authors": [
-      "Anushrut Jignasu",
-      "Kelly Marshall",
-      "Chinmay Hegde",
-      "Lucas Nerone Rillo",
-      "B. Ganapathysubramanian",
-      "Aditya Balu",
-      "Chinmay Hegde",
-      "Adarsh Krishnamurthy"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2024,
-    "venue": "",
-    "doi": "10.52202/079017-4083",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "jignasu2024stitch",
     "title": "STITCH: Surface reconstrucTion using Implicit neural representations with Topology Constraints and persistent Homology",
     "authors": [
@@ -2523,41 +2416,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "yang2024biotrove",
-    "title": "BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity",
-    "authors": [
-      "Chih-Hsuan Yang",
-      "B. Feuer",
-      "Zaki Jubery",
-      "Deng Zi",
-      "Andre Nakkab",
-      "Zahid Hasan",
-      "Shivani Chiranjeevi",
-      "Kelly Marshall",
-      "Nirmal Baishnab",
-      "Asheesh Kumar Singh",
-      "Arti Singh",
-      "Soumik Sarkar",
-      "Nirav Merchant",
-      "Chinmay Hegde",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "shivani-chiranjeevi",
-      "zaki-jubery"
-    ],
-    "year": 2024,
-    "venue": "",
-    "doi": "10.52202/079017-3241",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "young2024soybean",
@@ -5580,31 +5438,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "shah2019binary",
-    "title": "Binary 2D Morphologies of Polymer Phase Separation: Dataset and Python Toolbox",
-    "authors": [
-      "Viraj Shah",
-      "Ameya Joshi",
-      "Balaji Sesha Sarath Pokuri",
-      "Sambuddha Ghosal",
-      "Soumik Sarkar",
-      "B. Ganapathysubramanian",
-      "Chinmay Hegde"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2019,
-    "venue": "Iowa State University Digital Repository (Iowa State University)",
-    "doi": "",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "other"
   },
   {
     "bibkey": "shah2019encoding",
