@@ -1,7 +1,7 @@
 ---
 name: "Kunjan Theo Joseph"
 slug: kunjan-theo-joseph
-role: ms
+role: phd
 started: "Jan 2026"
 start_sort: "2026-01"
 coadvisors: ""
