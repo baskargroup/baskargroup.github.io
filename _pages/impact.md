@@ -31,6 +31,11 @@ Our research does not stay in journals. We turn computational advances into tool
 
 **Training the AI workforce.** More than fifty PhD and MS graduates have gone on to national laboratories (NASA, Argonne, ORNL, PNNL), to industry (Bayer, John Deere, Corning, Micron, Intel), and to faculty positions worldwide. See the [alumni wall](/people/).
 
+<div class="impact-cta">
+  <h3>Let's build what comes next</h3>
+  <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="https://www.engineering.iastate.edu/people/profile/baskarg/">reach out to Baskar Ganapathysubramanian</a> to start the discussion.</p>
+</div>
+
 <p class="impact-todo">TODO(baskar): specific reach numbers (growers, acres, people reached) and two or three full impact stories with a hero image each.</p>
 
 <style>
@@ -39,5 +44,8 @@ Our research does not stay in journals. We turn computational advances into tool
   .stat-value { font-size: 1.9rem; font-weight: 800; color: var(--global-theme-color, #b31b1b); line-height: 1.1; }
   .stat-label { font-size: .82rem; margin-top: .3rem; }
   .stat-note { font-size: .72rem; color: var(--global-text-color-light, #828282); margin-top: .2rem; }
+  .impact-cta { border: 1px solid var(--global-divider-color, #e0e0e0); border-left: 4px solid var(--global-theme-color, #b31b1b); border-radius: 8px; padding: 1.1rem 1.3rem; margin: 2rem 0 1rem; background: rgba(179, 27, 27, .04); }
+  .impact-cta h3 { margin: 0 0 .4rem; font-size: 1.2rem; }
+  .impact-cta p { margin: 0; }
   .impact-todo { margin-top: 1.5rem; font-size: .85rem; color: var(--global-text-color-light, #828282); }
 </style>
