@@ -76,9 +76,11 @@
     "venue": "Nature Communications",
     "doi": "10.1038/s41467-026-68890-7",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We use cryogenic electron microscopy to watch how a common conducting polymer assembles into fibers in solution and in the finished film. Seeing this nanostructure directly helps explain and improve flexible, wearable electronics.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -420,9 +422,12 @@
     "venue": "Journal of Computational Physics",
     "doi": "10.1016/j.jcp.2025.114124",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We use physics-informed neural networks to speed up space-time simulation methods, reaching accurate solutions with less computational effort.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -623,9 +628,12 @@
     "venue": "Trends in Plant Science",
     "doi": "10.1016/j.tplants.2024.12.013",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "cyberag",
+      "sciml"
+    ],
+    "summary": "We lay out how digital twins, virtual models kept in step with real plants, can change how the plant sciences predict, design, and manage crops.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -754,9 +762,12 @@
     "venue": "Computer Methods in Applied Mechanics and Engineering",
     "doi": "10.1016/j.cma.2025.118248",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We simulate fluid flow around complicated shapes by representing the geometry with a neural network instead of a traditional mesh. This makes direct simulation practical for objects that are hard to mesh.",
+    "selected": true,
     "preview": "",
     "status": "preprint"
   },
@@ -1394,9 +1405,12 @@
     "venue": "npj Science of Plants",
     "doi": "10.1038/s44383-025-00006-4",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "cyberag",
+      "built-env"
+    ],
+    "summary": "We examine the technologies that can make indoor farming more sustainable and affordable, from life cycle analysis and digital twins to flexible energy use and engineered plants. We argue that real progress needs teams that cross traditional disciplines.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -1462,9 +1476,11 @@
     "venue": "Journal of Computational Physics",
     "doi": "10.1016/j.jcp.2025.114333",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We extend the shifted boundary method, which avoids fitting a mesh exactly to complex shapes, to flows that also carry heat. It handles complicated geometries without the cost of remeshing.",
+    "selected": true,
     "preview": "",
     "status": "preprint"
   },
@@ -1762,9 +1778,12 @@
     "venue": "PNAS Nexus",
     "doi": "10.1093/pnasnexus/pgae575",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We build a machine learning system that identifies insects from ordinary photos in real time, covering both pests and beneficial species. It holds up across life stages and messy field conditions, giving growers fast, reliable identification.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -2837,9 +2856,11 @@
     "venue": "Trends in Plant Science",
     "doi": "10.1016/j.tplants.2023.08.001",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "cyberag"
+    ],
+    "summary": "We describe the cyber-agricultural system, a framework that combines widespread sensing, artificial intelligence, and smart machines to speed up crop breeding and make production more efficient and sustainable.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -3089,9 +3110,12 @@
     "venue": "Chemical Science",
     "doi": "10.1039/d2sc04676h",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We train a hierarchy of machine learning models to predict the electronic, redox, and optical properties of organic molecules. This lets researchers screen many more candidate molecules for energy and electronics uses in far less time.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -3233,9 +3257,12 @@
     "venue": "Journal of Computational Physics",
     "doi": "10.1016/j.jcp.2022.111874",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We develop a fast, stable time-stepping method for simulating two fluids that mix and separate, running on adaptive grids that add detail only where it is needed. This makes large two-phase flow simulations affordable.",
+    "selected": true,
     "preview": "",
     "status": "preprint"
   },
@@ -3371,9 +3398,12 @@
     "venue": "npj Computational Materials",
     "doi": "10.1038/s41524-022-00714-w",
     "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We introduce a graph based method to model how electric charge moves through semiconducting polymers, capturing how molecular packing shapes performance. It reproduces known results while staying fast enough for large studies.",
+    "selected": true,
     "preview": "",
     "status": "published"
   },

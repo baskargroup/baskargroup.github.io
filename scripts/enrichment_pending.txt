@@ -1,6 +1,5 @@
 arshad2026sage
 baishnab2026microstructure
-ghasemi2026cryogenic
 karki2026neural
 ku2026hs
 moola2026procedural
@@ -14,7 +13,6 @@ waite2026ai
 yang2026molgen
 arshad2025leveraging
 baishnab20253d
-barman2025accelerating
 boddepalli2025ai
 carroll2025time
 chiranjeevi2025terraincognita
@@ -22,12 +20,10 @@ duke2025evaluating
 feng2025robust
 gamdha2025gratev2
 gamdha2025high
-ganapathysubramanian2025digital
 goh2025assessing
 hadadi2025floraforge
 hadadi2025procedural
 jones2025assessing
-karki2025direct
 karki2025mechanics
 karki2025mesh
 khara2025semi
@@ -51,10 +47,8 @@ shadkhah2025octree
 shen2025weednet
 shrestha2025plot
 singh2025use
-wang2025finding
 yang2025molgen
 yang2025octree
-yang2025shifted
 yang2025simulating
 zaremehrjerdi2025large
 zaremehrjerdi2025maizeear
@@ -65,7 +59,6 @@ ayanlade2024multi
 baishnab2024identifying
 bhat2024rapid
 carroll2024leveraging
-chiranjeevi2024insectnet
 duke2024mix
 duke2024mixb
 feuer2024zero
@@ -105,7 +98,6 @@ kar2023self
 kim2023direct
 kim2023droplet
 rade2023deep
-sarkar2023cyber
 saurabh2023cyrsoxs
 saurabh2023scalable
 tan2023computational
@@ -115,19 +107,16 @@ aboobucker2022protocols
 balu2022physics
 berzina2022electrokinetic
 berzina2022out
-bhat2022electronic
 chiteri2022dissecting
 chiteri2022nappn
 hashemi2022feature
 khanwale2022breakup
 khanwale2022fully
-khanwale2022projection
 kim2022computational
 lin2022stochastic
 liu2022how
 mineroff2022optimization
 nagasubramanian2022plant
-noruzi2022graph
 pokuri2022algorithm
 pokuri2022computational
 rairdin2022deep
