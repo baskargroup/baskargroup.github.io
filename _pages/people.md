@@ -23,6 +23,7 @@ description: Members of the Baskar Group.
     <div class="person-name"><a href="{{ '/publications/' | relative_url }}?q={{ pq }}">{{ p.name }}</a></div>
     <div class="person-meta">
       {% if p.title %}{{ p.title }}{% elsif p.started != "" %}Since {{ p.started }}{% endif %}
+      {% if p.affiliation %}<br>{{ p.affiliation }}{% endif %}
       {% if p.coadvisors != "" %}<br>co-advised with {{ p.coadvisors }}{% endif %}
     </div>
   </div>
