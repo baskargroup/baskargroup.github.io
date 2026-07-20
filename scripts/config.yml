@@ -1,0 +1,43 @@
+# OpenAlex sync configuration (PLAN.md Section 6.2, AMEND-2/3/5).
+
+mailto: baskigs@gmail.com   # polite pool; sent on every OpenAlex request
+
+author:
+  orcid: "0000-0002-8931-4852"
+  name: "Baskar Ganapathysubramanian"
+
+  # AMEND-2: OpenAlex fragments one person across many author IDs. This pinned
+  # set was resolved by name + Iowa State affiliation. Fragments belonging to a
+  # DIFFERENT person are deliberately excluded: Shankar Ganapathysubramanian;
+  # the reversed-order "Ganapathysubramanian Baskar" at Central Leather Research
+  # Institute; and various hospital/Cornell/Delhi homonyms.
+  openalex_ids:
+    - A5011704511   # primary, ORCID-backed (Iowa / Iowa State), ~458 works
+    - A5115679147   # Iowa State fragment, no ORCID, 8 works
+    - A5136981853   # Iowa State fragment, ORCID, 2 works
+
+  # Highly distinctive exact-name fragments with no listed affiliation (1-2
+  # works each). Included because dedup collapses overlaps with the primary set;
+  # every work sourced ONLY from a candidate ID is logged for human review
+  # (AMEND-3, never silently added).
+  candidate_ids:
+    - A5126470931
+    - A5129361415
+    - A5140442711
+    - A5128981318
+    - A5129181666
+    - A5135938567
+    - A5140365602
+    - A5124907605
+    - A5125515347
+    - A5136027553
+
+# Work types kept in papers.bib. Datasets and software route to Products later.
+include_types:
+  - article
+  - book-chapter
+  - conference-paper
+
+# Preprint types kept ONLY when no published version shares the title (AMEND-3).
+preprint_types:
+  - preprint

@@ -1,0 +1,5 @@
+# Pinned for reproducible deterministic scripts (AMEND-4).
+requests==2.32.3
+bibtexparser==1.4.3
+PyYAML==6.0.2
+pytest==8.3.4
