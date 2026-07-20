@@ -22,10 +22,10 @@
   --global-text-color: #16181d;
   --global-text-color-light: #545b68;
   --global-divider-color: #e2e5ea;
-  --global-theme-color: #b31b1b;
-  --global-accent-hover: #8f1414;
-  --global-accent-tint: #f8e9e9;
-  --global-accent-text: #b31b1b;
+  --global-theme-color: #0e7490;
+  --global-accent-hover: #155e75;
+  --global-accent-tint: #e6f4f7;
+  --global-accent-text: #0e7490;
   --global-on-accent: #ffffff;
   --global-link: #1a5fb4;
   --global-link-hover: #14498c;
@@ -42,8 +42,8 @@
 @mixin dark-tokens {
   --global-bg-color: #0f1216; --global-surface: #171b21; --global-elevated: #1e232b;
   --global-text-color: #e7eaef; --global-text-color-light: #9aa3b2; --global-divider-color: #2a2f38;
-  --global-theme-color: #cc2f2f; --global-accent-hover: #a81f1f; --global-accent-tint: #241618;
-  --global-accent-text: #ef7a70; --global-on-accent: #ffffff;
+  --global-theme-color: #0e7490; --global-accent-hover: #0c6070; --global-accent-tint: #0c2a30;
+  --global-accent-text: #5fd3e6; --global-on-accent: #ffffff;
   --global-link: #74b0ff; --global-link-hover: #a3c9ff;
   --card-shadow: 0 1px 2px rgba(0, 0, 0, .4); --card-shadow-hover: 0 4px 14px rgba(0, 0, 0, .5);
 }

@@ -45,7 +45,7 @@ description: Software, apps, datasets, and models from the Baskar Group.
   .status-active { color: #2e7d32; }
   .product-blurb { font-size: .88rem; margin: .4rem 0; }
   .product-themes { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .5rem; }
-  .theme-chip { border: 1px solid var(--global-theme-color, #b31b1b); color: var(--global-theme-color, #b31b1b); border-radius: 999px; padding: .05rem .55rem; font-size: .72rem; text-decoration: none; }
+  .theme-chip { border: 1px solid var(--global-theme-color, #0e7490); color: var(--global-theme-color, #0e7490); border-radius: 999px; padding: .05rem .55rem; font-size: .72rem; text-decoration: none; }
   .product-links a { font-size: .82rem; margin-right: .7rem; }
   .prod-note { margin-top: 2rem; font-size: .85rem; color: var(--global-text-color-light, #828282); }
 </style>

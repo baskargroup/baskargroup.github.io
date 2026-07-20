@@ -195,7 +195,7 @@
     {% if entry.themes %}
       <div class="bib-themes" style="display:flex;flex-wrap:wrap;gap:.35rem;margin:.3rem 0;">
         {% assign _themes = entry.themes | split: "," %}
-        {% for _t in _themes %}{% assign _ts = _t | strip %}{% assign _th = site.data.themes | where: "slug", _ts | first %}<a href="{{ '/research/#' | append: _ts | relative_url }}" style="border:1px solid var(--global-theme-color,#b31b1b);color:var(--global-theme-color,#b31b1b);border-radius:999px;padding:.03rem .55rem;font-size:.72rem;text-decoration:none;">{{ _th.name | default: _ts }}</a>{% endfor %}
+        {% for _t in _themes %}{% assign _ts = _t | strip %}{% assign _th = site.data.themes | where: "slug", _ts | first %}<a href="{{ '/research/#' | append: _ts | relative_url }}" style="border:1px solid var(--global-theme-color,#0e7490);color:var(--global-theme-color,#0e7490);border-radius:999px;padding:.03rem .55rem;font-size:.72rem;text-decoration:none;">{{ _th.name | default: _ts }}</a>{% endfor %}
       </div>
     {% endif %}
 

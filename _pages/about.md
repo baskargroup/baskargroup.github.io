@@ -51,9 +51,9 @@ We are always looking for curious students, postdocs, and collaborators. See [Jo
   .home-themes-head { margin-top: 2rem; }
   .home-themes { display: grid; grid-template-columns: repeat(auto-fill, minmax(185px, 1fr)); gap: .55rem; margin: 1rem 0 .5rem; }
   .home-theme { display: flex; justify-content: space-between; align-items: center; gap: .5rem; border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: var(--radius, 8px); padding: .5rem .75rem; text-decoration: none; color: inherit; transition: border-color .15s; }
-  .home-theme:hover { border-color: var(--global-theme-color, #b31b1b); }
+  .home-theme:hover { border-color: var(--global-theme-color, #0e7490); }
   .home-theme-name { font-weight: 600; font-size: .9rem; }
-  .home-theme-count { background: var(--global-theme-color, #b31b1b); color: var(--global-on-accent, #fff); border-radius: 999px; padding: 0 .5rem; font-size: .72rem; font-weight: 600; }
+  .home-theme-count { background: var(--global-theme-color, #0e7490); color: var(--global-on-accent, #fff); border-radius: 999px; padding: 0 .5rem; font-size: .72rem; font-weight: 600; }
   @media (max-width: 576px) { .home-theme { min-height: 40px; } }
 </style>
 

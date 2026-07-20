@@ -65,6 +65,6 @@ description: Members of the Baskar Group.
   .alumni-list li { padding: .3rem 0; border-bottom: 1px solid var(--global-divider-color, #eee); font-size: .92rem; }
   .alumni-when { display: inline-block; min-width: 4.5rem; color: var(--global-text-color-light, #828282); font-variant-numeric: tabular-nums; }
   .alumni-co { color: var(--global-text-color-light, #828282); font-size: .85em; }
-  .alumni-place { color: var(--global-theme-color, #b31b1b); }
+  .alumni-place { color: var(--global-theme-color, #0e7490); }
   .people-note { margin-top: 2rem; font-size: .85rem; color: var(--global-text-color-light, #828282); }
 </style>
