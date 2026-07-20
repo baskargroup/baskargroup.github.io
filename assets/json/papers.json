@@ -427,7 +427,7 @@
       "numerics"
     ],
     "summary": "We use physics-informed neural networks to speed up space-time simulation methods, reaching accurate solutions with less computational effort.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "published"
   },
@@ -767,7 +767,7 @@
       "numerics"
     ],
     "summary": "We simulate fluid flow around complicated shapes by representing the geometry with a neural network instead of a traditional mesh. This makes direct simulation practical for objects that are hard to mesh.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "preprint"
   },
@@ -1410,7 +1410,7 @@
       "built-env"
     ],
     "summary": "We examine the technologies that can make indoor farming more sustainable and affordable, from life cycle analysis and digital twins to flexible energy use and engineered plants. We argue that real progress needs teams that cross traditional disciplines.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "published"
   },
@@ -1480,7 +1480,7 @@
       "numerics"
     ],
     "summary": "We extend the shifted boundary method, which avoids fitting a mesh exactly to complex shapes, to flows that also carry heat. It handles complicated geometries without the cost of remeshing.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "preprint"
   },
@@ -2860,7 +2860,7 @@
       "cyberag"
     ],
     "summary": "We describe the cyber-agricultural system, a framework that combines widespread sensing, artificial intelligence, and smart machines to speed up crop breeding and make production more efficient and sustainable.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "published"
   },
@@ -3115,7 +3115,7 @@
       "sciml"
     ],
     "summary": "We train a hierarchy of machine learning models to predict the electronic, redox, and optical properties of organic molecules. This lets researchers screen many more candidate molecules for energy and electronics uses in far less time.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "published"
   },
@@ -3403,7 +3403,7 @@
       "numerics"
     ],
     "summary": "We introduce a graph based method to model how electric charge moves through semiconducting polymers, capturing how molecular packing shapes performance. It reproduces known results while staying fast enough for large studies.",
-    "selected": true,
+    "selected": false,
     "preview": "",
     "status": "published"
   },
