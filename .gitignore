@@ -18,3 +18,4 @@ vendor
 
 # Baskar Group: private source materials, not for publishing or committing
 docs/source/
+.DS_Store
