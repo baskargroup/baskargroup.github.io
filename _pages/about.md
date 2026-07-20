@@ -6,8 +6,6 @@ subtitle: Computational sustainability at Iowa State University.
 
 profile:
   align: right
-  image: people/baskar.webp
-  image_circular: false # crops the image to make it circular
   more_info: >
     <p><strong>Baskar Ganapathysubramanian</strong>, Distinguished Professor of Engineering, Iowa State University.</p>
     <p>Director, <a href="https://aiira.iastate.edu/">AI Institute for Resilient Agriculture</a>. Associate Director, <a href="https://trac-ai.iastate.edu/">Translational AI Center</a>.</p>
@@ -25,7 +23,14 @@ latest_posts:
   enabled: false
 ---
 
-<img class="home-hero" src="{{ '/assets/img/hero-streamlines.webp' | relative_url }}" alt="Simulation streamlines from a Baskar Group flow computation">
+<video class="home-hero" autoplay muted loop playsinline poster="{{ '/assets/img/hero-proteus.webp' | relative_url }}" aria-label="Two-phase jet simulation from the group's Proteus solver">
+  <source src="{{ '/assets/video/phi_jet.mp4' | relative_url }}" type="video/mp4">
+</video>
+<script>
+  // Respect reduced-motion: pause the hero loop, leaving the poster frame.
+  (function () { var v = document.currentScript.previousElementSibling;
+    if (v && window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { v.removeAttribute('autoplay'); if (v.pause) v.pause(); } })();
+</script>
 
 We build computational tools that help solve national challenges in food, energy, environment, and health: identifying crop pests from a phone photo, simulating how air and heat move through buildings and cities, and designing the materials inside next generation electronics. Baskar Ganapathysubramanian directs the [AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu/), a 20 million dollar national AI institute, and is Associate Director of the [Translational AI Center (TrAC)](https://trac-ai.iastate.edu/).
 
