@@ -1,7 +1,5 @@
 # Canonical author name map (PLAN.md Section 4 and 6.3).
-# Maps every observed name variant to one canonical display form.
-# Lab members additionally carry `person: <slug>` to link their _people page.
-# Skeleton: fully populated during Phase 2 author normalization.
+# Lab members carry `person: <slug>` to link their _people page.
 - canonical: "B. Ganapathysubramanian"
   person: baskar
   variants:
@@ -9,3 +7,111 @@
     - "B Ganapathysubramanian"
     - "Ganapathysubramanian, B."
     - "B. Ganapathysubramanian"
+- canonical: "Suresh Murugaiyan"
+  person: suresh-murugaiyan
+  variants:
+    - "Suresh Murugaiyan"
+- canonical: "Antriksh Srivatsava"
+  person: antriksh-srivatsava
+  variants:
+    - "Antriksh Srivatsava"
+- canonical: "Dhruv Gamdha"
+  person: dhruv-gamdha
+  variants:
+    - "Dhruv Gamdha"
+- canonical: "Shivani Chiranjeevi"
+  person: shivani-chiranjeevi
+  variants:
+    - "Shivani Chiranjeevi"
+- canonical: "Nasla Saleem"
+  person: nasla-saleem
+  variants:
+    - "Nasla Saleem"
+- canonical: "Mojdeh Saadati"
+  person: mojdeh-saadati
+  variants:
+    - "Mojdeh Saadati"
+- canonical: "Ronak Tali"
+  person: ronak-tali
+  variants:
+    - "Ronak Tali"
+- canonical: "Bitgoeul (Chloe) Kim"
+  person: bitgoeul-kim
+  variants:
+    - "Bitgoeul (Chloe) Kim"
+- canonical: "Hossein Zaremehrjerdi"
+  person: hossein-zaremehrjerdi
+  variants:
+    - "Hossein Zaremehrjerdi"
+- canonical: "Mozhgan Hadadi"
+  person: mozhgan-hadadi
+  variants:
+    - "Mozhgan Hadadi"
+- canonical: "Mehdi Shadkhah"
+  person: mehdi-shadkhah
+  variants:
+    - "Mehdi Shadkhah"
+- canonical: "Suriya Dhakshinamoorthy"
+  person: suriya-dhakshinamoorthy
+  variants:
+    - "Suriya Dhakshinamoorthy"
+- canonical: "James Afful"
+  person: james-afful
+  variants:
+    - "James Afful"
+- canonical: "Samundra Karki"
+  person: samundra-karki
+  variants:
+    - "Samundra Karki"
+- canonical: "Marjan Saadati"
+  person: marjan-saadati
+  variants:
+    - "Marjan Saadati"
+- canonical: "Sai Harish Uthravalli"
+  person: sai-harish-uthravalli
+  variants:
+    - "Sai Harish Uthravalli"
+- canonical: "Dheeraj Thapa"
+  person: dheeraj-thapa
+  variants:
+    - "Dheeraj Thapa"
+- canonical: "Mridul Bhattarai"
+  person: mridul-bhattarai
+  variants:
+    - "Mridul Bhattarai"
+- canonical: "Prashant Kumar Gupta"
+  person: prashant-kumar-gupta
+  variants:
+    - "Prashant Kumar Gupta"
+- canonical: "Kibona Ku"
+  person: kibona-ku
+  variants:
+    - "Kibona Ku"
+- canonical: "Meherpal Singh Bhatti"
+  person: meherpal-singh-bhatti
+  variants:
+    - "Meherpal Singh Bhatti"
+- canonical: "Kunjan Theo Joseph"
+  person: kunjan-theo-joseph
+  variants:
+    - "Kunjan Theo Joseph"
+- canonical: "Elham Oliyaei"
+  person: elham-oliyaei
+  variants:
+    - "Elham Oliyaei"
+- canonical: "Yugal Shrestha"
+  person: yugal-shrestha
+  variants:
+    - "Yugal Shrestha"
+- canonical: "Md Mohammadul Hasan Mollah"
+  person: md-mohammadul-hasan-mollah
+  variants:
+    - "Md Mohammadul Hasan Mollah"
+- canonical: "Raja S N Y Y Kataru"
+  person: raja-s-n-y-y-kataru
+  variants:
+    - "Raja S N Y Y Kataru"
+- canonical: "Ravi P Singh"
+  person: ravi-p-singh
+  variants:
+    - "Ravi P Singh"
