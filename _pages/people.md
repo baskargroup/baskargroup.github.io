@@ -16,7 +16,7 @@ description: Members of the Baskar Group.
 <h2 class="people-role">{{ cur_labels[forloop.index0] }}</h2>
 <div class="people-grid">
 {% for p in members %}
-  {% assign photo = p.photo | default: "/assets/img/prof_pic.jpg" %}
+  {% assign photo = p.photo | default: "/assets/img/people/silhouette.svg" %}
   {% assign pq = p.name | url_encode %}
   <div class="person-card">
     <img class="person-photo" src="{{ photo | relative_url }}" alt="{{ p.name }}" loading="lazy">

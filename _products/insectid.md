@@ -3,7 +3,7 @@ title: "InsectID"
 slug: insectid
 type: app
 status: active
-blurb: "TODO(baskar): one line, <= 160 chars"
+blurb: "A photo-based app that puts insect identification in the hands of growers and scouts in the field."
 links:
   repo:   # TODO(baskar)
   docs:   # TODO(baskar)

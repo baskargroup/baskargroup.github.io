@@ -3,7 +3,7 @@ title: "InsectNet"
 slug: insectnet
 type: model
 status: active
-blurb: "TODO(baskar): one line, <= 160 chars"
+blurb: "A machine learning model that identifies insects from images in real time, including pests and beneficial species, to support integrated pest management."
 links:
   repo:   # TODO(baskar)
   docs:   # TODO(baskar)

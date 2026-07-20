@@ -3,7 +3,7 @@ title: "WeedID"
 slug: weedid
 type: app
 status: active
-blurb: "TODO(baskar): one line, <= 160 chars"
+blurb: "An app that identifies weeds from field images to guide targeted, lower-input management."
 links:
   repo:   # TODO(baskar)
   docs:   # TODO(baskar)

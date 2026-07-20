@@ -3,7 +3,7 @@ title: "PestIDBot"
 slug: pestidbot
 type: service
 status: active
-blurb: "TODO(baskar): one line, <= 160 chars"
+blurb: "A conversational assistant that helps identify crop pests and points to management options."
 links:
   repo:   # TODO(baskar)
   docs:   # TODO(baskar)

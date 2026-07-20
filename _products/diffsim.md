@@ -3,7 +3,7 @@ title: "DiffSim"
 slug: diffsim
 type: software
 status: active
-blurb: "TODO(baskar): one line, <= 160 chars"
+blurb: "A differentiable finite element framework for gradient-based design, control, and inverse problems."
 links:
   repo:   # TODO(baskar)
   docs:   # TODO(baskar)
