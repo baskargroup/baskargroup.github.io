@@ -25,7 +25,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "baishnab2026microstructure",
@@ -45,7 +46,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ghasemi2026cryogenic",
@@ -77,7 +79,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "karki2026neural",
@@ -98,7 +101,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ku2026hs",
@@ -119,7 +123,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "moola2026procedural",
@@ -140,7 +145,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "muralidharan2026high",
@@ -160,7 +166,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "murugaiyan2026neural",
@@ -193,7 +200,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "rillo2026adko",
@@ -208,6 +216,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2026,
@@ -217,7 +226,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saadati2026simulation",
@@ -241,7 +251,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saurabh2026field",
@@ -263,7 +274,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "tian2026data",
@@ -283,7 +295,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "waite2026ai",
@@ -312,7 +325,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "yang2026molgen",
@@ -335,7 +349,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhou2026autosiq",
@@ -357,7 +372,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "arshad2025leveraging",
@@ -376,6 +392,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2025,
@@ -385,7 +402,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "baishnab20253d",
@@ -399,6 +417,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2025,
@@ -408,7 +427,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "barman2025accelerating",
@@ -429,7 +449,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "boddepalli2025ai",
@@ -451,7 +472,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "carroll2025time",
@@ -479,7 +501,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "chiranjeevi2025terraincognita",
@@ -510,7 +533,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "duke2025evaluating",
@@ -531,7 +555,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "feng2025robust",
@@ -549,6 +574,7 @@
       "Asheesh K. Singh"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2025,
@@ -558,7 +584,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "gamdha2025gratev2",
@@ -581,7 +608,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gamdha2025high",
@@ -603,7 +631,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ganapathysubramanian2025digital",
@@ -624,7 +653,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "goh2025assessing",
@@ -646,7 +676,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "hadadi2025floraforge",
@@ -671,7 +702,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "hadadi2025procedural",
@@ -690,6 +722,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mozhgan-hadadi"
     ],
@@ -700,7 +733,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jones2025assessing",
@@ -724,7 +758,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "karki2025direct",
@@ -739,6 +774,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mehdi-shadkhah",
       "samundra-karki"
@@ -750,7 +786,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "karki2025mechanics",
@@ -772,7 +809,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "karki2025mesh",
@@ -794,7 +832,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2025semi",
@@ -819,7 +858,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2025solving",
@@ -841,7 +881,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2025space",
@@ -863,7 +904,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2025soybean",
@@ -889,7 +931,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kimara2025maizefield3d",
@@ -906,6 +949,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mozhgan-hadadi"
     ],
@@ -916,7 +960,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ku2025sc",
@@ -931,6 +976,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2025,
@@ -940,7 +986,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "laan2025genomic",
@@ -967,7 +1014,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "liu2025constructing",
@@ -989,7 +1037,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mauthe2025ai",
@@ -1024,7 +1073,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "messina2025general",
@@ -1048,7 +1098,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mishra2025real",
@@ -1069,7 +1120,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "powadi2025enhancing",
@@ -1094,7 +1146,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "rabeh20253d",
@@ -1114,7 +1167,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "rabeh2025benchmarking",
@@ -1129,6 +1183,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2025,
@@ -1138,7 +1193,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "rabeh2025predicting",
@@ -1160,7 +1216,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saleem2025accessing",
@@ -1176,6 +1233,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "nasla-saleem"
     ],
@@ -1186,7 +1244,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saleem2025accessingb",
@@ -1202,6 +1261,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "nasla-saleem"
     ],
@@ -1212,7 +1272,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "scovazzi2025preface",
@@ -1237,7 +1298,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shadkhah2025mpfbench",
@@ -1255,6 +1317,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mehdi-shadkhah",
       "ronak-tali"
@@ -1266,7 +1329,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "shadkhah2025octree",
@@ -1289,7 +1353,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shen2025weednet",
@@ -1313,6 +1378,7 @@
       "Arti Singh"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mojdeh-saadati"
     ],
@@ -1323,7 +1389,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "shrestha2025plot",
@@ -1357,7 +1424,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "singh2025use",
@@ -1396,7 +1464,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wang2025finding",
@@ -1422,7 +1491,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "yang2025molgen",
@@ -1445,7 +1515,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "yang2025octree",
@@ -1466,7 +1537,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "yang2025shifted",
@@ -1487,7 +1559,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "yang2025simulating",
@@ -1508,7 +1581,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "zaremehrjerdi2025large",
@@ -1536,6 +1610,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "hossein-zaremehrjerdi"
     ],
@@ -1546,7 +1621,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "zaremehrjerdi2025maizeear",
@@ -1573,7 +1649,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "arbab2024evaluating",
@@ -1589,6 +1666,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "james-afful"
     ],
@@ -1599,7 +1677,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "arshad2024evaluating",
@@ -1615,6 +1694,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "james-afful"
     ],
@@ -1625,7 +1705,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "arshad2024evaluatingb",
@@ -1641,6 +1722,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "james-afful"
     ],
@@ -1651,7 +1733,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ayanlade2024multi",
@@ -1679,7 +1762,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "baishnab2024identifying",
@@ -1700,7 +1784,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "bhat2024rapid",
@@ -1720,7 +1805,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "carroll2024leveraging",
@@ -1744,7 +1830,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "chiranjeevi2024insectnet",
@@ -1776,7 +1863,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "duke2024mix",
@@ -1811,7 +1899,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "duke2024mixb",
@@ -1833,7 +1922,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "feuer2024zero",
@@ -1853,6 +1943,7 @@
       "Chinmay Hegde"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "shivani-chiranjeevi"
     ],
@@ -1863,7 +1954,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fotouhi2024persistent",
@@ -1897,7 +1989,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gamdha2024gratev2",
@@ -1920,7 +2013,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ganapathysubramanian2024aiira",
@@ -1937,7 +2031,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "jessica-bell"
     ],
     "year": 2024,
     "venue": "AI Magazine",
@@ -1946,7 +2041,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "herron2024latent",
@@ -1961,6 +2057,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -1970,7 +2067,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jignasu2024evaluating",
@@ -1984,6 +2082,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -1993,7 +2092,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jignasu2024sdfconnect",
@@ -2007,6 +2107,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2016,7 +2117,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jignasu2024slice",
@@ -2032,6 +2134,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2041,7 +2144,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jignasu2024stitch",
@@ -2057,6 +2161,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2066,7 +2171,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jones2024multi",
@@ -2093,7 +2199,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2024neufenet",
@@ -2108,6 +2215,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2117,7 +2225,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2024neural",
@@ -2138,6 +2247,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "dhruv-gamdha"
     ],
@@ -2148,7 +2258,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khosravi2024aggym",
@@ -2167,6 +2278,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2176,7 +2288,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2024direct",
@@ -2199,7 +2312,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2024soybean",
@@ -2223,7 +2337,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "liu2024active",
@@ -2246,7 +2361,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "powadi2024disentangling",
@@ -2268,7 +2384,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "rabeh2024geometry",
@@ -2283,6 +2400,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2024,
@@ -2292,7 +2410,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "rabeh2024modeling",
@@ -2313,7 +2432,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saadati2024out",
@@ -2329,6 +2449,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mojdeh-saadati",
       "shivani-chiranjeevi"
@@ -2340,7 +2461,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saleem2024class",
@@ -2355,6 +2477,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "nasla-saleem"
     ],
@@ -2365,7 +2488,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "tali2024flowbench",
@@ -2386,6 +2510,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mehdi-shadkhah",
       "ronak-tali",
@@ -2398,7 +2523,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "tross2024data",
@@ -2425,7 +2551,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "yang2024biotrove",
@@ -2449,7 +2576,8 @@
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "",
@@ -2458,7 +2586,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "young2024soybean",
@@ -2486,7 +2615,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "agarwala2023machine",
@@ -2508,7 +2638,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "berzina2023electrokinetic",
@@ -2533,7 +2664,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "chattopadhyay2023comprehensive",
@@ -2557,7 +2689,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "chiranjeevi2023deep",
@@ -2588,7 +2721,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "chiteri2023dissecting",
@@ -2613,7 +2747,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "chiteri2023dissectingb",
@@ -2638,7 +2773,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "dong2023self",
@@ -2662,7 +2798,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "feng20233d",
@@ -2681,6 +2818,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar",
       "mojdeh-saadati"
     ],
@@ -2691,7 +2829,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "heisler2023generating",
@@ -2713,7 +2852,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jignasu2023foundational",
@@ -2727,6 +2867,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2023,
@@ -2736,7 +2877,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kar2023self",
@@ -2767,7 +2909,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kim2023direct",
@@ -2790,7 +2933,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2023droplet",
@@ -2812,7 +2956,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "rade2023deep",
@@ -2828,6 +2973,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2023,
@@ -2837,7 +2983,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sarkar2023cyber",
@@ -2868,7 +3015,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saurabh2023cyrsoxs",
@@ -2897,7 +3045,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saurabh2023scalable",
@@ -2919,7 +3068,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "tan2023computational",
@@ -2944,7 +3094,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "yang2023optimal",
@@ -2967,7 +3118,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "young2023canopy",
@@ -2994,7 +3146,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "aboobucker2022protocols",
@@ -3018,7 +3171,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "balu2022physics",
@@ -3030,6 +3184,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2022,
@@ -3039,7 +3194,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "berzina2022electrokinetic",
@@ -3064,7 +3220,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "berzina2022out",
@@ -3087,7 +3244,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "bhat2022electronic",
@@ -3110,7 +3268,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "chiteri2022dissecting",
@@ -3133,7 +3292,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "chiteri2022nappn",
@@ -3157,7 +3317,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "hashemi2022feature",
@@ -3179,7 +3340,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khanwale2022breakup",
@@ -3201,7 +3363,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khanwale2022fully",
@@ -3225,7 +3388,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khanwale2022projection",
@@ -3248,7 +3412,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2022computational",
@@ -3269,7 +3434,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "lin2022stochastic",
@@ -3292,7 +3458,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "liu2022how",
@@ -3315,7 +3482,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mineroff2022optimization",
@@ -3336,7 +3504,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nagasubramanian2022plant",
@@ -3358,7 +3527,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "noruzi2022graph",
@@ -3380,7 +3550,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2022algorithm",
@@ -3401,7 +3572,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2022computational",
@@ -3423,7 +3595,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "rairdin2022deep",
@@ -3451,7 +3624,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "rairdin2022nappn",
@@ -3477,7 +3651,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "reynolds2022simulation",
@@ -3506,7 +3681,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saurabh2022cyrsoxs",
@@ -3535,7 +3711,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "sudharsan2022vorticity",
@@ -3555,7 +3732,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "tran2022scalable",
@@ -3578,7 +3756,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "vaddi2022construction",
@@ -3600,7 +3779,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "yang2022multi",
@@ -3624,7 +3804,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "balu2021distributed",
@@ -3641,6 +3822,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2021,
@@ -3650,7 +3832,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "chiteri2021dissecting",
@@ -3664,7 +3847,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2021,
     "venue": "",
@@ -3673,7 +3857,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "cho2021differentiable",
@@ -3689,6 +3874,7 @@
       "Chinmay Hegde"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2021,
@@ -3698,7 +3884,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "cho2021differentiableb",
@@ -3715,6 +3902,7 @@
       "Chinmay Hegde"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2021,
@@ -3724,7 +3912,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "devarakonda2021designing",
@@ -3745,7 +3934,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "devarakonda2021impedance",
@@ -3765,7 +3955,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "guo2021uas",
@@ -3792,7 +3983,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jubery2021machine",
@@ -3817,7 +4009,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kar2021self",
@@ -3844,7 +4037,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khara2021diffnet",
@@ -3859,6 +4053,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2021,
@@ -3868,7 +4063,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kusmec2021interdisciplinary",
@@ -3893,7 +4089,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "lee2021fast",
@@ -3910,6 +4107,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2021,
@@ -3919,7 +4117,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mirnezami2021detection",
@@ -3941,7 +4140,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mukherjee2021polarized",
@@ -3968,7 +4168,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nagasubramanian2021how",
@@ -3993,7 +4194,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "riera2021deep",
@@ -4021,7 +4223,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ryno2021following",
@@ -4045,7 +4248,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saurabh2021case",
@@ -4070,7 +4274,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saurabh2021industrial",
@@ -4097,7 +4302,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "saurabh2021scalable",
@@ -4123,7 +4329,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "sharma2021contaminant",
@@ -4143,7 +4350,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shook2021crop",
@@ -4166,7 +4374,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "singh2021high",
@@ -4204,7 +4413,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "thompson2021iowa",
@@ -4235,7 +4445,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xu2021computational",
@@ -4256,7 +4467,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhou2021identification",
@@ -4283,7 +4495,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "botelho2020deep",
@@ -4308,7 +4521,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "botelho2020deepb",
@@ -4332,7 +4546,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "culp2020nanoscale",
@@ -4362,7 +4577,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "falk2020computer",
@@ -4389,7 +4605,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "falk2020soybean",
@@ -4413,7 +4630,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ghanimeh2020flow",
@@ -4435,7 +4653,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jiang2020predicting",
@@ -4457,7 +4676,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "johnson2020thinner",
@@ -4484,7 +4704,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "joshi2020invnet",
@@ -4508,7 +4729,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "khanwale2020simulating",
@@ -4530,7 +4752,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kim2020concentration",
@@ -4550,7 +4773,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kim2020inertial",
@@ -4574,7 +4798,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kim2020modeling",
@@ -4595,7 +4820,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "li2020determination",
@@ -4619,7 +4845,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mirnezami2020automated",
@@ -4647,7 +4874,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nagasubramanian2020usefulness",
@@ -4669,7 +4897,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "pfeifer2020quantifying",
@@ -4690,7 +4919,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "raju2020leaf",
@@ -4715,7 +4945,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "riera2020deep",
@@ -4743,7 +4974,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "riera2020deepb",
@@ -4771,7 +5003,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "singh2020challenges",
@@ -4795,7 +5028,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sundararajan2020women",
@@ -4816,7 +5050,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "tenneti2020equilibrium",
@@ -4836,7 +5071,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "xu2020computational",
@@ -4855,7 +5091,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xu2020octree",
@@ -4879,7 +5116,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "banovetz2019defining",
@@ -4902,7 +5140,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "birch2019micro",
@@ -4925,7 +5164,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2019enabling",
@@ -4943,7 +5183,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ghosal2019weakly",
@@ -4973,7 +5214,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "hey2019time",
@@ -4986,7 +5228,8 @@
       "Patrick S. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2019,
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
@@ -4995,7 +5238,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "ishii2019solving",
@@ -5018,7 +5262,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jubery2019silico",
@@ -5039,7 +5284,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kommajosula2019high",
@@ -5060,7 +5306,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kommajosula2019highb",
@@ -5081,7 +5328,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kommajosula2019shape",
@@ -5102,7 +5350,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "lee2019case",
@@ -5115,6 +5364,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2019,
@@ -5124,7 +5374,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ma2019hydrogel",
@@ -5151,7 +5402,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mineroff2019optimization",
@@ -5173,7 +5425,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "mirnezami2019semi",
@@ -5199,7 +5452,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "nagasubramanian2019plant",
@@ -5224,7 +5478,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "noruzi2019nurbs",
@@ -5246,7 +5501,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "parmley2019development",
@@ -5268,7 +5524,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "parmley2019machine",
@@ -5290,7 +5547,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "passe2019impact",
@@ -5314,7 +5572,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2019grate",
@@ -5336,7 +5595,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2019interpretable",
@@ -5358,7 +5618,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shah2019binary",
@@ -5382,7 +5643,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "shah2019encoding",
@@ -5406,7 +5668,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "sharma2019estimating",
@@ -5426,7 +5689,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sharma2019transfer",
@@ -5446,7 +5710,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "sharma2019transferb",
@@ -5466,7 +5731,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shoeiby2019pirm2018",
@@ -5504,7 +5770,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2019flowsculpt",
@@ -5527,7 +5794,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "tran2019soybean",
@@ -5552,7 +5820,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "vanous2019utilization",
@@ -5574,7 +5843,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xu2019immersogeometric",
@@ -5596,7 +5866,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xu2019residual",
@@ -5617,7 +5888,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zheng2019shared",
@@ -5646,7 +5918,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "akintayo2018deep",
@@ -5669,7 +5942,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "arad2018ntire",
@@ -5730,7 +6004,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "du2018microstructure",
@@ -5752,7 +6027,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "dyja2018parallel",
@@ -5772,7 +6048,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gao2018multirobot",
@@ -5799,7 +6076,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "gao2018multirobotb",
@@ -5826,7 +6104,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gao2018navigation",
@@ -5853,7 +6132,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "garcia2018linearised",
@@ -5873,7 +6153,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ghosal2018explainable",
@@ -5896,7 +6177,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jiang2018predicting",
@@ -5919,7 +6201,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "jubery2018measurements",
@@ -5941,7 +6224,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "khanwale2018simulating",
@@ -5963,7 +6247,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "lee2018flow",
@@ -5976,6 +6261,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "aditya-balu",
       "baskar"
     ],
     "year": 2018,
@@ -5985,7 +6271,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "nagasubramanian2018explaining",
@@ -6008,7 +6295,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "nagasubramanian2018hyperspectral",
@@ -6033,7 +6321,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pfeifer2018process",
@@ -6054,7 +6343,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2018interpretable",
@@ -6076,7 +6366,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "pokuri2018paryopt",
@@ -6097,7 +6388,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "pokuri2018paryoptb",
@@ -6118,7 +6410,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "senthilarumugamveilukandammal2018big",
@@ -6141,7 +6434,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sharma2018surrogate",
@@ -6163,7 +6457,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sharma2018transfer",
@@ -6184,7 +6479,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "sharma2018transferb",
@@ -6205,7 +6501,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "shete2018automated",
@@ -6228,7 +6525,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "shook2018integrating",
@@ -6251,7 +6549,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "siemianowski2018homes",
@@ -6275,7 +6574,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "siemianowski2018petri",
@@ -6299,7 +6599,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "singh2018deep",
@@ -6320,7 +6621,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "singh2018physics",
@@ -6343,7 +6645,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "stoecklein2018uflow",
@@ -6365,7 +6668,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wu2018shaped",
@@ -6389,7 +6693,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhou2018crowdsourcing",
@@ -6417,7 +6722,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhou2018semiautomated",
@@ -6443,7 +6749,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "davies2017optimizing",
@@ -6463,7 +6770,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gebhardt2017data",
@@ -6484,7 +6792,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ghosal2017interpretable",
@@ -6507,7 +6816,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "guo2017incorporating",
@@ -6526,7 +6836,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "hickey2017morphological",
@@ -6551,7 +6862,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jubery2017deploying",
@@ -6580,7 +6892,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jubery2017integrating",
@@ -6601,7 +6914,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "kosny2017thermal",
@@ -6625,7 +6939,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "li2017farm",
@@ -6646,7 +6961,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "lore2017deep",
@@ -6668,7 +6984,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "lore2017deepb",
@@ -6690,7 +7007,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nagasubramanian2017hyperspectral",
@@ -6713,7 +7031,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "nagasubramanian2017hyperspectralb",
@@ -6736,7 +7055,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "naik2017real",
@@ -6762,7 +7082,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ohara2017thermally",
@@ -6785,7 +7106,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "pfeifer2017optimization",
@@ -6805,7 +7127,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pokuri2017nanoscale",
@@ -6830,7 +7153,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "saha2017autonomous",
@@ -6856,7 +7180,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2017deep",
@@ -6878,7 +7203,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhang2017computer",
@@ -6903,7 +7229,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ackerman2016finite",
@@ -6924,7 +7251,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "ackerman2016morphology",
@@ -6943,7 +7271,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "chawla2016bayesian",
@@ -6967,7 +7296,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "dyja2016massively",
@@ -6987,7 +7317,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "fast2016microstructure",
@@ -7008,7 +7339,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2016contaminant",
@@ -7029,7 +7361,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2016development",
@@ -7051,7 +7384,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2016exploring",
@@ -7072,7 +7406,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2016methodology",
@@ -7092,7 +7427,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2016quantifying",
@@ -7113,7 +7449,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gu2016tuning",
@@ -7139,7 +7476,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "guo2016constructing",
@@ -7160,7 +7498,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "herrema2016framework",
@@ -7183,7 +7522,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kipp2016utilizing",
@@ -7204,7 +7544,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kling2016research",
@@ -7250,7 +7591,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "kommajosula2016quasi",
@@ -7272,7 +7614,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "lore2016deep",
@@ -7294,7 +7637,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "passe2016integrated",
@@ -7316,7 +7660,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "pokuri2016morphology",
@@ -7335,7 +7680,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2016automated",
@@ -7357,7 +7703,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2016publisher",
@@ -7379,7 +7726,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xie2016diffuse",
@@ -7399,7 +7747,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "xie2016incompressible",
@@ -7419,7 +7768,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zhao2016vertical",
@@ -7454,7 +7804,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "aboulhassan2015framework",
@@ -7477,7 +7828,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ackerman2015parallel",
@@ -7496,7 +7848,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "deza2015high",
@@ -7517,7 +7870,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2015constructing",
@@ -7537,7 +7891,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "gebhardt2015utilizing",
@@ -7562,7 +7917,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kipp2015achieving",
@@ -7583,7 +7939,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kipp2015polymer",
@@ -7604,7 +7961,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "lore2015hierarchical",
@@ -7626,7 +7984,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "pace2015genome",
@@ -7648,7 +8007,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pfeifer2015quantifying",
@@ -7667,7 +8027,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "pokuri2015tailoring",
@@ -7686,7 +8047,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "samudrala2015parallel",
@@ -7707,7 +8069,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "singh2015machine",
@@ -7728,7 +8091,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2015micropillar",
@@ -7749,7 +8113,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "stoecklein2015optimization",
@@ -7771,7 +8136,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "wodo2015automated",
@@ -7793,7 +8159,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2015graphs",
@@ -7812,7 +8179,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "wodo2015morphology",
@@ -7832,7 +8200,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "ackerman2014massively",
@@ -7851,7 +8220,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "diazmontes2014federated",
@@ -7874,7 +8244,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2014high",
@@ -7896,7 +8267,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "ganapathysubramanian2014revolutionizing",
@@ -7914,7 +8286,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "lee2014electrode",
@@ -7935,7 +8308,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "pace2014maize",
@@ -7957,7 +8331,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "samudrala2014software",
@@ -7979,7 +8354,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "stoecklein2014micropillar",
@@ -8002,7 +8378,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2014graph",
@@ -8021,7 +8398,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "wodo2014how",
@@ -8040,7 +8418,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "amini2013engineering",
@@ -8064,7 +8443,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "broderick2013application",
@@ -8087,7 +8467,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "diazmontes2013exploring",
@@ -8110,7 +8491,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "fontanini2013stochastic",
@@ -8130,7 +8512,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kodali2013sensitivity",
@@ -8149,7 +8532,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "samudrala2013data",
@@ -8169,7 +8553,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "samudrala2013graph",
@@ -8192,7 +8577,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2013quantifying",
@@ -8213,7 +8599,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "amini2012use",
@@ -8237,7 +8624,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "jaeger2012nanoscale",
@@ -8260,7 +8648,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kodali2012computational",
@@ -8279,7 +8668,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kodali2012computer",
@@ -8298,7 +8688,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nalwa2012enhanced",
@@ -8324,7 +8715,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "sundararajan2012wime",
@@ -8345,7 +8737,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "wodo2012computational",
@@ -8366,7 +8759,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2012graph",
@@ -8387,7 +8781,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2012modeling",
@@ -8406,7 +8801,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "zhao2012cantilever",
@@ -8426,7 +8822,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "busch2011near",
@@ -8446,7 +8843,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "busch2011rapid",
@@ -8467,7 +8865,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "fontanini2011thermal",
@@ -8487,7 +8886,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "jape2011exploring",
@@ -8507,7 +8907,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "nalwa2011dependence",
@@ -8528,7 +8929,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ren2011experimental",
@@ -8548,7 +8950,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2011computationally",
@@ -8567,7 +8970,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wodo2011graph",
@@ -8588,7 +8992,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "wodo2011graphb",
@@ -8609,7 +9014,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "wodo2011modeling",
@@ -8628,7 +9034,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "preprint"
   },
   {
     "bibkey": "rajaram2010stability",
@@ -8649,7 +9056,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "wang2010experimental",
@@ -8670,7 +9078,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2009data",
@@ -8688,7 +9097,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "kodali2009stabilized",
@@ -8707,7 +9117,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "rajan2009data",
@@ -8727,7 +9138,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "vaidya2009transfer",
@@ -8747,7 +9159,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2008non",
@@ -8766,7 +9179,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2008seamless",
@@ -8785,7 +9199,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2008stochastic",
@@ -8804,7 +9219,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zabaras2008scalable",
@@ -8823,7 +9239,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2007modeling",
@@ -8842,7 +9259,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2007sparse",
@@ -8861,7 +9279,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zabaras2006modelling",
@@ -8881,7 +9300,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zabaras2006sparse",
@@ -8900,7 +9320,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   },
   {
     "bibkey": "ganapathysubramanian2005control",
@@ -8919,7 +9340,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2004control",
@@ -8938,7 +9360,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "ganapathysubramanian2004magnetic",
@@ -8957,7 +9380,8 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "published"
   },
   {
     "bibkey": "zabaras2004melt",
@@ -8976,6 +9400,7 @@
     "themes": [],
     "summary": "",
     "selected": false,
-    "preview": ""
+    "preview": "",
+    "status": "other"
   }
 ]

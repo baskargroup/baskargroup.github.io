@@ -48,6 +48,26 @@ def split_themes(field):
     return [t.strip() for t in re.split(r"[,\s]+", field or "") if t.strip()]
 
 
+# Non-arXiv preprint-server DOI prefixes (mirrors scripts/flag_unverified.py).
+PREPRINT_DOI = {"10.1101", "10.21203", "10.2139", "10.22541", "10.26434",
+                "10.31219", "10.31234", "10.36227", "10.20944"}
+
+
+def classify_status(entry):
+    """published | preprint | other, for the publications status facet."""
+    doi = (entry.get("doi") or "").lower()
+    arxiv = entry.get("eprint") or ""
+    is_preprint_note = "preprint" in (entry.get("note") or "").lower()
+    if arxiv or doi.startswith("10.48550/arxiv") or is_preprint_note:
+        return "preprint"
+    prefix = doi.split("/")[0] if doi else ""
+    if prefix in PREPRINT_DOI:
+        return "preprint"
+    if doi:
+        return "published"
+    return "other"
+
+
 def build():
     import bibtexparser
     author_map = load_author_map()
@@ -71,6 +91,7 @@ def build():
             "summary": e.get("summary", "").strip(),
             "selected": e.get("selected", "").strip().lower() == "true",
             "preview": e.get("preview", "").strip(),
+            "status": classify_status(e),
         })
     papers.sort(key=lambda p: (-(p["year"] or 0), p["bibkey"]))
     OUT.parent.mkdir(parents=True, exist_ok=True)
