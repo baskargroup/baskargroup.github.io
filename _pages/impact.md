@@ -33,7 +33,7 @@ Our research does not stay in journals. We turn computational advances into tool
 
 <div class="impact-cta">
   <h3>Let's build what comes next</h3>
-  <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="https://www.engineering.iastate.edu/people/profile/baskarg/">reach out to Baskar Ganapathysubramanian</a> to start the discussion.</p>
+  <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="mailto:baskarg@iastate.edu?subject=Connecting%20with%20the%20Baskar%20Group">email Baskar Ganapathysubramanian</a> to start the discussion.</p>
 </div>
 
 <p class="impact-todo">TODO(baskar): specific reach numbers (growers, acres, people reached) and two or three full impact stories with a hero image each.</p>
