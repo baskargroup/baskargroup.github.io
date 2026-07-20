@@ -96,7 +96,16 @@ def build():
     papers.sort(key=lambda p: (-(p["year"] or 0), p["bibkey"]))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(papers, indent=2, ensure_ascii=False) + "\n")
-    print(f"wrote {OUT.relative_to(ROOT)} with {len(papers)} entries")
+
+    # Theme counts for the homepage research grid (only enriched papers count).
+    counts = {}
+    for p in papers:
+        for t in p["themes"]:
+            counts[t] = counts.get(t, 0) + 1
+    tc = ROOT / "_data" / "theme_counts.yml"
+    tc.write_text("".join(f"{k}: {v}\n" for k, v in sorted(counts.items())))
+    print(f"wrote {OUT.relative_to(ROOT)} with {len(papers)} entries; "
+          f"theme_counts for {len(counts)} themes")
 
 
 if __name__ == "__main__":
