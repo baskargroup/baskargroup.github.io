@@ -28,7 +28,7 @@ latest_posts:
     if (v && window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) { v.removeAttribute('autoplay'); if (v.pause) v.pause(); } })();
 </script>
 
-We build computational tools that help solve national challenges in food, energy, environment, and health: identifying crop pests from a phone photo, simulating how air and heat move through buildings, and designing the materials inside next generation electronics. Baskar Ganapathysubramanian directs the [AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu/), a 20 million dollar national AI institute, and is Associate Director of the [Translational AI Center (TrAC)](https://trac-ai.iastate.edu/).
+We build computational tools that help solve societal challenges in food, energy, environment, and health: identifying crop pests from a phone photo, simulating how air and heat move through buildings, and designing the materials inside next generation electronics. Baskar Ganapathysubramanian directs the [AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu/), a 20 million dollar national AI institute, and is Associate Director of the [Translational AI Center (TrAC)](https://trac-ai.iastate.edu/).
 
 We are always looking for curious students, postdocs, and collaborators. See [Join](/join/) to work with us.
 

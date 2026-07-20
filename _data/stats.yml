@@ -1,15 +1,15 @@
-# By-the-numbers strip (PLAN.md Section 9). No fabricated numbers.
-# Center figures are public (see AIIRA/TrAC pages); group figures are from this site.
+# By-the-numbers strip (PLAN.md Section 9). Figures from the PI's CV and
+# nomination record; center figures are public (AIIRA/TrAC). No fabrication.
+- label: Federal research funding (NSF, USDA, DOE, DARPA)
+  value: "$50M+"
 - label: National AI institute directed (AIIRA)
   value: "$20M"
   note: "NSF and USDA-NIFA, since 2021"
-- label: Federal AI research at TrAC (co-directed)
-  value: "$35M+"
-- label: Peer-reviewed publications
-  value: "374"
+- label: Citations
+  value: "13,000+"
+- label: h-index
+  value: "55"
 - label: PhD and MS graduates trained
   value: "50+"
 - label: Open tools and datasets released
   value: "12"
-- label: AIIRA partner institutions
-  value: "8"

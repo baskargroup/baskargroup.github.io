@@ -101,7 +101,6 @@ rade2023deep
 saurabh2023cyrsoxs
 saurabh2023scalable
 tan2023computational
-yang2023optimal
 young2023canopy
 aboobucker2022protocols
 balu2022physics
@@ -138,9 +137,7 @@ jubery2021machine
 kar2021self
 khara2021diffnet
 kusmec2021interdisciplinary
-lee2021fast
 mirnezami2021detection
-mukherjee2021polarized
 nagasubramanian2021how
 riera2021deep
 ryno2021following
@@ -155,7 +152,6 @@ xu2021computational
 zhou2021identification
 botelho2020deep
 botelho2020deepb
-culp2020nanoscale
 falk2020computer
 falk2020soybean
 ghanimeh2020flow
@@ -183,7 +179,6 @@ birch2019micro
 ganapathysubramanian2019enabling
 ghosal2019weakly
 hey2019time
-ishii2019solving
 jubery2019silico
 kommajosula2019high
 kommajosula2019highb
@@ -212,13 +207,11 @@ xu2019residual
 zheng2019shared
 akintayo2018deep
 arad2018ntire
-du2018microstructure
 dyja2018parallel
 gao2018multirobot
 gao2018multirobotb
 gao2018navigation
 garcia2018linearised
-ghosal2018explainable
 jiang2018predicting
 jubery2018measurements
 khanwale2018simulating
@@ -299,7 +292,6 @@ pace2015genome
 pfeifer2015quantifying
 pokuri2015tailoring
 samudrala2015parallel
-singh2015machine
 stoecklein2015micropillar
 stoecklein2015optimization
 wodo2015automated
@@ -315,14 +307,12 @@ samudrala2014software
 stoecklein2014micropillar
 wodo2014graph
 wodo2014how
-amini2013engineering
 broderick2013application
 diazmontes2013exploring
 fontanini2013stochastic
 kodali2013sensitivity
 samudrala2013data
 samudrala2013graph
-wodo2013quantifying
 amini2012use
 jaeger2012nanoscale
 kodali2012computational

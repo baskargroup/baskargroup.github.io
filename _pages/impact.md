@@ -7,7 +7,7 @@ nav_order: 5
 description: How the group's work reaches growers, industry, students, and the public.
 ---
 
-Our research does not stay in journals. We build tools that growers, engineers, and educators can use, we release open datasets and software, and we train the people who carry this work into national laboratories, industry, and academia. Baskar Ganapathysubramanian directs the [AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu/), a national AI institute working to make American agriculture more productive and resilient, and is Associate Director of the [Translational AI Center (TrAC)](https://trac-ai.iastate.edu/) at Iowa State University.
+Our research does not stay in journals. We turn computational advances into tools, datasets, and discoveries that reach growers, engineers, materials scientists, and the public. Baskar Ganapathysubramanian directs the [AI Institute for Resilient Agriculture (AIIRA)](https://aiira.iastate.edu/) and is Associate Director of the [Translational AI Center (TrAC)](https://trac-ai.iastate.edu/), and has been invited into national conversations on AI for science, including engagements connected to the White House Office of Science and Technology Policy and the National AI Research Resource (NAIRR).
 
 <div class="stats-strip">
 {% for s in site.data.stats %}
@@ -19,11 +19,15 @@ Our research does not stay in journals. We build tools that growers, engineers, 
 {% endfor %}
 </div>
 
-## How the work reaches people
+## Where the work makes a difference
 
-**Tools in growers' hands.** Products like [InsectID and WeedID](/products/) identify insects and weeds from ordinary photos, and datasets such as BioTrove and MaizeField3D give the wider research community the raw material to build their own tools.
+**Resilient agriculture.** The group helped show that deep learning for crops can be made interpretable and trustworthy, work that helped launch AI-augmented plant science and now anchors the AIIRA institute. Tools like [InsectID and WeedID](/products/) bring pest and weed identification to an ordinary phone photo.
 
-**Open science.** The group releases software and curated datasets openly, so that other researchers, companies, and agencies can build on the work rather than repeat it.
+**Water and clean energy.** Computational modeling revealed that nanoscale structure improves water transport in desalination membranes, published in Science, and the group's pipelines link the nanostructure of organic solar cells to their performance.
+
+**Materials by computation.** Graph-based methods and fast virtual instruments turn hard-to-read microscopy and X-ray data into actionable design information, letting experimentalists ask sharper questions and get quantitative answers.
+
+**Simulation at scale.** New high-performance methods solve complex-geometry flow, heat transfer, and time-dependent problems on leadership-class supercomputers, from soft-matter manufacturing to the airflow inside buildings.
 
 **Training the AI workforce.** More than fifty PhD and MS graduates have gone on to national laboratories (NASA, Argonne, ORNL, PNNL), to industry (Bayer, John Deere, Corning, Micron, Intel), and to faculty positions worldwide. See the [alumni wall](/people/).
 

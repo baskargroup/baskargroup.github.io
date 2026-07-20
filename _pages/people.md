@@ -8,7 +8,7 @@ description: Members of the Baskar Group.
 ---
 
 {% assign cur_roles = "pi,staff,postdoc,phd,ms" | split: "," %}
-{% assign cur_labels = "Principal Investigator|Research Staff|Postdoctoral Researchers|PhD Students|MS Students" | split: "|" %}
+{% assign cur_labels = "Principal Investigator|Staff|Postdoctoral Researchers|PhD Students|MS Students" | split: "|" %}
 
 {% for role in cur_roles %}
   {% assign members = site.people | where: "role", role | sort: "start_sort" %}
