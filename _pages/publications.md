@@ -28,4 +28,12 @@ nav_order: 2
   .pub-filter .pf-themes { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: .4rem; }
   .pf-chip { border: 1px solid var(--global-theme-color, #b31b1b); background: transparent; color: var(--global-theme-color, #b31b1b); border-radius: 999px; padding: .15rem .7rem; font-size: .8rem; cursor: pointer; }
   .pf-chip.active { background: var(--global-theme-color, #b31b1b); color: #fff; }
+  @media (max-width: 576px) {
+    .pub-filter { flex-direction: column; align-items: stretch; }
+    .pub-filter label { display: flex; justify-content: space-between; align-items: center; }
+    .pub-filter .pf-search input { min-width: 0; width: 100%; }
+    .pub-filter select, .pub-filter input { min-height: 40px; padding: .45rem .5rem; }
+    .pf-chip { min-height: 36px; padding: .35rem .8rem; }
+    .pf-themes { gap: .55rem; }
+  }
 </style>

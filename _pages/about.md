@@ -46,11 +46,48 @@ We are always looking for curious students, postdocs, and collaborators. See [Jo
 <style>
   .home-hero-wrap { position: relative; clear: both; margin: .5rem 0 1.4rem; }
   .home-hero { display: block; width: 100%; max-height: 44vh; object-fit: cover; border-radius: 10px; }
-  .home-hero-caption { position: absolute; left: 0; right: 0; bottom: 0; padding: 1.4rem 1.2rem .9rem; color: #fff; font-size: 1.15rem; font-weight: 600; line-height: 1.25; background: linear-gradient(to top, rgba(0,0,0,.6), rgba(0,0,0,0)); border-radius: 0 0 10px 10px; }
+  .home-hero-caption { position: absolute; left: 0; right: 0; bottom: 0; padding: 1.4rem 1.2rem .9rem; color: #fff; font-size: 1.15rem; font-weight: 600; line-height: 1.25; background: linear-gradient(to top, rgba(0,0,0,.72), rgba(0,0,0,0)); border-radius: 0 0 10px 10px; }
   .home-themes-head { margin-top: 2rem; }
   .home-themes { display: grid; grid-template-columns: repeat(auto-fill, minmax(185px, 1fr)); gap: .55rem; margin: 1rem 0 .5rem; }
   .home-theme { display: flex; justify-content: space-between; align-items: center; gap: .5rem; border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 8px; padding: .5rem .75rem; text-decoration: none; color: inherit; transition: border-color .15s; }
   .home-theme:hover { border-color: var(--global-theme-color, #b31b1b); }
   .home-theme-name { font-weight: 600; font-size: .9rem; }
   .home-theme-count { background: var(--global-theme-color, #b31b1b); color: #fff; border-radius: 999px; padding: 0 .5rem; font-size: .72rem; font-weight: 600; }
+  @media (max-width: 576px) {
+    .home-hero { max-height: 38vh; }
+    .home-hero-caption { font-size: 1rem; padding: 1rem .9rem .7rem; }
+    .home-theme { min-height: 40px; }
+  }
 </style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Baskar Group",
+  "alternateName": "Ganapathysubramanian Group",
+  "url": "https://baskar-group.github.io/",
+  "description": "Computational tools for societal challenges in food, energy, environment, and health, at Iowa State University.",
+  "parentOrganization": { "@type": "CollegeOrUniversity", "name": "Iowa State University", "url": "https://www.iastate.edu/" },
+  "founder": {
+    "@type": "Person",
+    "name": "Baskar Ganapathysubramanian",
+    "jobTitle": "Distinguished Professor of Engineering",
+    "affiliation": { "@type": "CollegeOrUniversity", "name": "Iowa State University" },
+    "memberOf": [
+      { "@type": "Organization", "name": "AI Institute for Resilient Agriculture (AIIRA)", "url": "https://aiira.iastate.edu/" },
+      { "@type": "Organization", "name": "Translational AI Center (TrAC)", "url": "https://trac-ai.iastate.edu/" }
+    ],
+    "sameAs": [
+      "https://www.engineering.iastate.edu/people/profile/baskarg/",
+      "https://scholar.google.com/citations?user=R1JIs4cAAAAJ",
+      "https://orcid.org/0000-0002-8931-4852"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "inquiries",
+    "url": "https://www.engineering.iastate.edu/people/profile/baskarg/"
+  }
+}
+</script>

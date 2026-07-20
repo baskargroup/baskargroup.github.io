@@ -43,7 +43,7 @@ Our research does not stay in journals. We turn computational advances into tool
   .stat { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; padding: 1rem; text-align: center; }
   .stat-value { font-size: 1.9rem; font-weight: 800; color: var(--global-theme-color, #b31b1b); line-height: 1.1; }
   .stat-label { font-size: .82rem; margin-top: .3rem; }
-  .stat-note { font-size: .72rem; color: var(--global-text-color-light, #828282); margin-top: .2rem; }
+  .stat-note { font-size: .75rem; color: var(--global-text-color-light, #828282); margin-top: .2rem; }
   .impact-cta { border: 1px solid var(--global-divider-color, #e0e0e0); border-left: 4px solid var(--global-theme-color, #b31b1b); border-radius: 8px; padding: 1.1rem 1.3rem; margin: 2rem 0 1rem; background: rgba(179, 27, 27, .04); }
   .impact-cta h3 { margin: 0 0 .4rem; font-size: 1.2rem; }
   .impact-cta p { margin: 0; }
