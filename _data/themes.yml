@@ -1,0 +1,30 @@
+# Research theme taxonomy (approved, PLAN.md Section 5).
+# Taxonomy changes happen only by editing this file; the validator rejects
+# unknown slugs everywhere else. Colors are placeholders, finalized in the design pass.
+- slug: sciml
+  name: Scientific machine learning
+  blurb: Neural surrogates, operator learning, and physics-informed models for scientific prediction and design.
+- slug: numerics
+  name: Numerical methods and FEM
+  blurb: Finite element methods, variational multiscale approaches, and solvers for coupled PDE systems.
+- slug: hpc
+  name: HPC and GPU computing
+  blurb: Scalable, GPU-accelerated simulation software for leadership-class and departmental clusters.
+- slug: cyberag
+  name: Cyber-agricultural systems
+  blurb: AI, sensing, and decision tools for resilient crop production.
+- slug: phenotyping
+  name: Plant phenotyping and sensing
+  blurb: Imaging, computer vision, and analytics that measure plants at scale.
+- slug: energymat
+  name: Energy materials and devices
+  blurb: Simulation and design of organic electronics, electrochemical systems, and soft matter manufacturing.
+- slug: microfluidics
+  name: Microfluidics and electrokinetics
+  blurb: Modeling and control of droplets, charge transport, and lab-on-chip devices.
+- slug: built-env
+  name: Building and urban physics
+  blurb: Flow, energy, and coupled food-energy-water modeling for buildings and cities.
+- slug: design-opt
+  name: Design, optimization, and control
+  blurb: Turning simulators and data into decisions through optimization and control.

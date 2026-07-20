@@ -1,0 +1,11 @@
+# Canonical author name map (PLAN.md Section 4 and 6.3).
+# Maps every observed name variant to one canonical display form.
+# Lab members additionally carry `person: <slug>` to link their _people page.
+# Skeleton: fully populated during Phase 2 author normalization.
+- canonical: "B. Ganapathysubramanian"
+  person: baskar
+  variants:
+    - "Baskar Ganapathysubramanian"
+    - "B Ganapathysubramanian"
+    - "Ganapathysubramanian, B."
+    - "B. Ganapathysubramanian"
