@@ -28,6 +28,8 @@ nav_order: 2
   .pub-filter .pf-themes { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: .4rem; }
   .pf-chip { border: 1px solid var(--global-theme-color, #0e7490); background: transparent; color: var(--global-theme-color, #0e7490); border-radius: 999px; padding: .15rem .7rem; font-size: .8rem; cursor: pointer; }
   .pf-chip.active { background: var(--global-theme-color, #0e7490); color: var(--global-on-accent, #fff); }
+  .pf-member-banner { margin: 1rem 0 .25rem; padding: .55rem .85rem; border-radius: 8px; background: var(--global-accent-tint, #f8ecd9); border: 1px solid var(--global-divider-color, #e0e0e0); font-size: .9rem; }
+  .pf-member-banner a.pf-clear-member { color: var(--global-accent-text, #b45309); font-weight: 600; text-decoration: underline; }
   @media (max-width: 576px) {
     .pub-filter { flex-direction: column; align-items: stretch; }
     .pub-filter label { display: flex; justify-content: space-between; align-items: center; }

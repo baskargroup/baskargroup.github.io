@@ -20,7 +20,7 @@ description: Members of the Baskar Group.
   {% assign pq = p.name | url_encode %}
   <div class="person-card">
     <img class="person-photo" src="{{ photo | relative_url }}" alt="{{ p.name }}" loading="lazy">
-    <div class="person-name"><a href="{{ '/publications/' | relative_url }}?member={{ p.slug }}">{{ p.name }}</a></div>
+    <div class="person-name"><a href="{{ '/publications/' | relative_url }}?member={{ p.slug }}&mname={{ pq }}">{{ p.name }}</a></div>
     <div class="person-meta">
       {% if p.role == "pi" or p.role == "staff" %}{{ p.title }}{% elsif p.started != "" %}Since {{ p.started }}{% endif %}
       {% if p.affiliation %}<br>{{ p.affiliation }}{% endif %}
@@ -44,7 +44,7 @@ description: Members of the Baskar Group.
   {% assign pq = p.name | url_encode %}
   <li>
     <span class="alumni-when">{% if p.alumni_type == "postdoc" and p.years %}{{ p.years }}{% else %}{{ p.grad_year }}{% endif %}</span>
-    <a href="{{ '/publications/' | relative_url }}?q={{ pq }}">{{ p.name }}</a>{% if p.coadvisors != "" %} <span class="alumni-co">(co-advised with {{ p.coadvisors }})</span>{% endif %}{% if p.placement != "" %} &rarr; <span class="alumni-place">{{ p.placement }}</span>{% endif %}
+    <a href="{{ '/publications/' | relative_url }}?member={{ p.slug }}&mname={{ pq }}">{{ p.name }}</a>{% if p.coadvisors != "" %} <span class="alumni-co">(co-advised with {{ p.coadvisors }})</span>{% endif %}{% if p.placement != "" %} &rarr; <span class="alumni-place">{{ p.placement }}</span>{% endif %}
   </li>
 {% endfor %}
 </ul>

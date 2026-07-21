@@ -61,11 +61,18 @@
           : "");
       container.parentNode.insertBefore(bar, container);
 
+      // Banner shown when filtered to one group member (via a people-page link).
+      var banner = document.createElement("div");
+      banner.className = "pf-member-banner";
+      banner.style.display = "none";
+      container.parentNode.insertBefore(banner, bar);
+
       var yearSel = bar.querySelector("#pf-year");
       var statusSel = bar.querySelector("#pf-status");
       var qInput = bar.querySelector("#pf-q");
       var countEl = bar.querySelector("#pf-count");
       var state = { year: "", status: "", q: "", theme: "", member: "" };
+      var memberName = "";
 
       function readURL() {
         var p = new URLSearchParams(location.search);
@@ -74,6 +81,7 @@
         state.q = p.get("q") || "";
         state.theme = p.get("theme") || "";
         state.member = p.get("member") || "";
+        memberName = p.get("mname") || "";
       }
       function writeURL() {
         var p = new URLSearchParams();
@@ -81,7 +89,7 @@
         if (state.status) p.set("status", state.status);
         if (state.q) p.set("q", state.q);
         if (state.theme) p.set("theme", state.theme);
-        if (state.member) p.set("member", state.member);
+        if (state.member) { p.set("member", state.member); if (memberName) p.set("mname", memberName); }
         var qs = p.toString();
         history.replaceState(null, "", qs ? "?" + qs : location.pathname);
       }
@@ -116,6 +124,22 @@
         bar.querySelectorAll(".pf-chip").forEach(function (c) {
           c.classList.toggle("active", c.getAttribute("data-theme") === state.theme);
         });
+        if (state.member) {
+          banner.style.display = "";
+          banner.textContent = "Showing publications by ";
+          var strong = document.createElement("strong");
+          strong.textContent = memberName || "this group member"; // textContent: safe from URL
+          banner.appendChild(strong);
+          banner.appendChild(document.createTextNode(". "));
+          var clear = document.createElement("a");
+          clear.href = "#";
+          clear.className = "pf-clear-member";
+          clear.textContent = "Show all publications";
+          clear.addEventListener("click", function (ev) { ev.preventDefault(); state.member = ""; memberName = ""; apply(); });
+          banner.appendChild(clear);
+        } else {
+          banner.style.display = "none";
+        }
         writeURL();
       }
 

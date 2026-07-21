@@ -1,5 +1,5 @@
-# Canonical author name map (PLAN.md Section 4 and 6.3).
-# Lab members carry `person: <slug>` to link their _people page.
+# Canonical author name map (PLAN.md Section 4 and 6.3). Rebuilt from _people/.
+# Maps each observed name variant to a person slug for cross-linking.
 - canonical: "B. Ganapathysubramanian"
   person: baskar
   variants:
@@ -7,123 +7,367 @@
     - "B Ganapathysubramanian"
     - "Ganapathysubramanian, B."
     - "B. Ganapathysubramanian"
-- canonical: "Suresh Murugaiyan"
-  person: suresh-murugaiyan
+- canonical: "Adedotun Akintayo"
+  person: adedotun-akintayo
   variants:
-    - "Suresh Murugaiyan"
+    - "Adedotun Akintayo"
+- canonical: "Aditya Kommasojula"
+  person: aditya-kommasojula
+  variants:
+    - "Aditya Kommasojula"
+- canonical: "Alec Lofquist"
+  person: alec-lofquist
+  variants:
+    - "Alec Lofquist"
+- canonical: "Ali Rabeh"
+  person: ali-rabeh
+  variants:
+    - "Ali Rabeh"
+- canonical: "Ananth Tennati"
+  person: ananth-tennati
+  variants:
+    - "Ananth Tennati"
+- canonical: "Anirudha Powadi"
+  person: anirudha-powadi
+  variants:
+    - "Anirudha Powadi"
+- canonical: "Ankush Mishra"
+  person: ankush-mishra
+  variants:
+    - "Ankush Mishra"
+- canonical: "Anthony Fontanini"
+  person: anthony-fontanini
+  variants:
+    - "Anthony Fontanini"
 - canonical: "Antriksh Srivatsava"
   person: antriksh-srivatsava
   variants:
     - "Antriksh Srivatsava"
-- canonical: "Dhruv Gamdha"
-  person: dhruv-gamdha
+- canonical: "Badrinath Balasubramaniam"
+  person: badrinath-balasubramaniam
   variants:
-    - "Dhruv Gamdha"
-- canonical: "Shivani Chiranjeevi"
-  person: shivani-chiranjeevi
+    - "Badrinath Balasubramaniam"
+- canonical: "Balaji Pokuri"
+  person: balaji-pokuri
   variants:
-    - "Shivani Chiranjeevi"
-- canonical: "Nasla Saleem"
-  person: nasla-saleem
+    - "Balaji Pokuri"
+- canonical: "Biswajit Khara"
+  person: biswajit-khara
   variants:
-    - "Nasla Saleem"
-- canonical: "Mojdeh Saadati"
-  person: mojdeh-saadati
-  variants:
-    - "Mojdeh Saadati"
-- canonical: "Ronak Tali"
-  person: ronak-tali
-  variants:
-    - "Ronak Tali"
+    - "Biswajit Khara"
 - canonical: "Bitgoeul (Chloe) Kim"
   person: bitgoeul-kim
   variants:
     - "Bitgoeul (Chloe) Kim"
-- canonical: "Hossein Zaremehrjerdi"
-  person: hossein-zaremehrjerdi
+    - "Bitgoeul Kim"
+- canonical: "Boshun Gao"
+  person: boshun-gao
   variants:
-    - "Hossein Zaremehrjerdi"
-- canonical: "Mozhgan Hadadi"
-  person: mozhgan-hadadi
+    - "Boshun Gao"
+- canonical: "Cheng-Hau Yang"
+  person: cheng-hau-yang
   variants:
-    - "Mozhgan Hadadi"
-- canonical: "Mehdi Shadkhah"
-  person: mehdi-shadkhah
+    - "Cheng-Hau Yang"
+- canonical: "Chih-Hsuan (Bella) Yang"
+  person: chih-hsuan-yang
   variants:
-    - "Mehdi Shadkhah"
-- canonical: "Suriya Dhakshinamoorthy"
-  person: suriya-dhakshinamoorthy
+    - "Chih-Hsuan (Bella) Yang"
+    - "Chih-Hsuan Yang"
+- canonical: "Daeun (Sarah) Kim"
+  person: daeun-kim
   variants:
-    - "Suriya Dhakshinamoorthy"
-- canonical: "James Afful"
-  person: james-afful
+    - "Daeun (Sarah) Kim"
+    - "Daeun Kim"
+- canonical: "Daniel Stoecklein"
+  person: daniel-stoecklein
   variants:
-    - "James Afful"
-- canonical: "Samundra Karki"
-  person: samundra-karki
+    - "Daniel Stoecklein"
+- canonical: "David Ackerman"
+  person: david-ackerman
   variants:
-    - "Samundra Karki"
-- canonical: "Marjan Saadati"
-  person: marjan-saadati
+    - "David Ackerman"
+- canonical: "David Busch"
+  person: david-busch
   variants:
-    - "Marjan Saadati"
-- canonical: "Sai Harish Uthravalli"
-  person: sai-harish-uthravalli
+    - "David Busch"
+- canonical: "Devesh Lohia"
+  person: devesh-lohia
   variants:
-    - "Sai Harish Uthravalli"
+    - "Devesh Lohia"
 - canonical: "Dheeraj Thapa"
   person: dheeraj-thapa
   variants:
     - "Dheeraj Thapa"
-- canonical: "Mridul Bhattarai"
-  person: mridul-bhattarai
+- canonical: "Dhruv Gamdha"
+  person: dhruv-gamdha
   variants:
-    - "Mridul Bhattarai"
-- canonical: "Prashant Kumar Gupta"
-  person: prashant-kumar-gupta
-  variants:
-    - "Prashant Kumar Gupta"
-- canonical: "Kibona Ku"
-  person: kibona-ku
-  variants:
-    - "Kibona Ku"
-- canonical: "Meherpal Singh Bhatti"
-  person: meherpal-singh-bhatti
-  variants:
-    - "Meherpal Singh Bhatti"
-- canonical: "Kunjan Theo Joseph"
-  person: kunjan-theo-joseph
-  variants:
-    - "Kunjan Theo Joseph"
+    - "Dhruv Gamdha"
 - canonical: "Elham Oliyaei"
   person: elham-oliyaei
   variants:
     - "Elham Oliyaei"
-- canonical: "Yugal Shrestha"
-  person: yugal-shrestha
+- canonical: "Elvis Kimara"
+  person: elvis-kimara
   variants:
-    - "Yugal Shrestha"
-- canonical: "Md Mohammadul Hasan Mollah"
-  person: md-mohammadul-hasan-mollah
+    - "Elvis Kimara"
+- canonical: "Hari Krishna Kodali"
+  person: hari-krishna-kodali
   variants:
-    - "Md Mohammadul Hasan Mollah"
-- canonical: "Raja S N Y Y Kataru"
-  person: raja-s-n-y-y-kataru
+    - "Hari Krishna Kodali"
+- canonical: "Hiep Tran"
+  person: hiep-tran
   variants:
-    - "Raja S N Y Y Kataru"
-- canonical: "Ravi P Singh"
-  person: ravi-p-singh
+    - "Hiep Tran"
+- canonical: "Himanshu Sharma"
+  person: himanshu-sharma
   variants:
-    - "Ravi P Singh"
-- canonical: "Zaki Jubery"
-  person: zaki-jubery
+    - "Himanshu Sharma"
+- canonical: "Hossein Zaremehrjerdi"
+  person: hossein-zaremehrjerdi
   variants:
-    - "Zaki Jubery"
+    - "Hossein Zaremehrjerdi"
+- canonical: "Hsiang (Marcus) Naik"
+  person: hsiang-naik
+  variants:
+    - "Hsiang (Marcus) Naik"
+    - "Hsiang Naik"
+- canonical: "James Afful"
+  person: james-afful
+  variants:
+    - "James Afful"
 - canonical: "Jessica Bell"
   person: jessica-bell
   variants:
     - "Jessica Bell"
+- canonical: "Joshua Mineroff"
+  person: joshua-mineroff
+  variants:
+    - "Joshua Mineroff"
+- canonical: "Kahnietta Pr'Out"
+  person: kahnietta-pr-out
+  variants:
+    - "Kahnietta Pr'Out"
+- canonical: "Kendrick Tan"
+  person: kendrick-tan
+  variants:
+    - "Kendrick Tan"
+- canonical: "Kibona Ku"
+  person: kibona-ku
+  variants:
+    - "Kibona Ku"
+- canonical: "Koushik Nagasubramanian"
+  person: koushik-nagasubramanian
+  variants:
+    - "Koushik Nagasubramanian"
+- canonical: "Kumar Saurabh"
+  person: kumar-saurabh
+  variants:
+    - "Kumar Saurabh"
+- canonical: "Kunjan Theo Joseph"
+  person: kunjan-theo-joseph
+  variants:
+    - "Kunjan Theo Joseph"
+- canonical: "Lucas Mutti"
+  person: lucas-mutti
+  variants:
+    - "Lucas Mutti"
+- canonical: "Makrand Khanwale"
+  person: makrand-khanwale
+  variants:
+    - "Makrand Khanwale"
+- canonical: "Marjan Saadati"
+  person: marjan-saadati
+  variants:
+    - "Marjan Saadati"
+- canonical: "Md Mohammadul Hasan Mollah"
+  person: md-mohammadul-hasan-mollah
+  variants:
+    - "Md Mohammadul Hasan Mollah"
+- canonical: "Mehdi Shadkhah"
+  person: mehdi-shadkhah
+  variants:
+    - "Mehdi Shadkhah"
+- canonical: "Meherpal Singh Bhatti"
+  person: meherpal-singh-bhatti
+  variants:
+    - "Meherpal Singh Bhatti"
+- canonical: "Minhua Long"
+  person: minhua-long
+  variants:
+    - "Minhua Long"
+- canonical: "Mirka Deza"
+  person: mirka-deza
+  variants:
+    - "Mirka Deza"
+- canonical: "Mojdeh Saadati"
+  person: mojdeh-saadati
+  variants:
+    - "Mojdeh Saadati"
+- canonical: "Mozhgan Hadadi"
+  person: mozhgan-hadadi
+  variants:
+    - "Mozhgan Hadadi"
+- canonical: "Mridul Bhattarai"
+  person: mridul-bhattarai
+  variants:
+    - "Mridul Bhattarai"
+- canonical: "Nasla Saleem"
+  person: nasla-saleem
+  variants:
+    - "Nasla Saleem"
 - canonical: "Nicole Hayungs"
   person: nicole-hayungs
   variants:
     - "Nicole Hayungs"
+- canonical: "Nigel Lee"
+  person: nigel-lee
+  variants:
+    - "Nigel Lee"
+- canonical: "Niraj Kunwar"
+  person: niraj-kunwar
+  variants:
+    - "Niraj Kunwar"
+- canonical: "Nirmal Baishnab"
+  person: nirmal-baishnab
+  variants:
+    - "Nirmal Baishnab"
+- canonical: "Olga Wodo"
+  person: olga-wodo
+  variants:
+    - "Olga Wodo"
+- canonical: "Pengfei Du"
+  person: pengfei-du
+  variants:
+    - "Pengfei Du"
+- canonical: "Prashant Kumar Gupta"
+  person: prashant-kumar-gupta
+  variants:
+    - "Prashant Kumar Gupta"
+- canonical: "Qiang Guo"
+  person: qiang-guo
+  variants:
+    - "Qiang Guo"
+- canonical: "Raghu Nandan Pratoori"
+  person: raghu-nandan-pratoori
+  variants:
+    - "Raghu Nandan Pratoori"
+- canonical: "Raja S N Y Y Kataru"
+  person: raja-s-n-y-y-kataru
+  variants:
+    - "Raja S N Y Y Kataru"
+- canonical: "Ramin Noruzi"
+  person: ramin-noruzi
+  variants:
+    - "Ramin Noruzi"
+- canonical: "Ravi P Singh"
+  person: ravi-p-singh
+  variants:
+    - "Ravi P Singh"
+- canonical: "Ritwesh Kumar"
+  person: ritwesh-kumar
+  variants:
+    - "Ritwesh Kumar"
+- canonical: "Robert Dyja"
+  person: robert-dyja
+  variants:
+    - "Robert Dyja"
+- canonical: "Robert Jaeger"
+  person: robert-jaeger
+  variants:
+    - "Robert Jaeger"
+- canonical: "Ronak Tali"
+  person: ronak-tali
+  variants:
+    - "Ronak Tali"
+- canonical: "Ryan Gebhart"
+  person: ryan-gebhart
+  variants:
+    - "Ryan Gebhart"
+- canonical: "Sai Harish Uthravalli"
+  person: sai-harish-uthravalli
+  variants:
+    - "Sai Harish Uthravalli"
+- canonical: "Sai Kiranmayee Samudrala"
+  person: sai-kiranmayee-samudrala
+  variants:
+    - "Sai Kiranmayee Samudrala"
+- canonical: "Saisree Parvathaneni"
+  person: saisree-parvathaneni
+  variants:
+    - "Saisree Parvathaneni"
+- canonical: "Sameer Jape"
+  person: sameer-jape
+  variants:
+    - "Sameer Jape"
+- canonical: "Samundra Karki"
+  person: samundra-karki
+  variants:
+    - "Samundra Karki"
+- canonical: "Sangeet Balakrishnan"
+  person: sangeet-balakrishnan
+  variants:
+    - "Sangeet Balakrishnan"
+- canonical: "Shivani Chiranjeevi"
+  person: shivani-chiranjeevi
+  variants:
+    - "Shivani Chiranjeevi"
+- canonical: "Sivaranjani Devarakonda"
+  person: sivaranjani-devarakonda
+  variants:
+    - "Sivaranjani Devarakonda"
+- canonical: "Songzhe Xu"
+  person: songzhe-xu
+  variants:
+    - "Songzhe Xu"
+- canonical: "Spencer Pfeifer"
+  person: spencer-pfeifer
+  variants:
+    - "Spencer Pfeifer"
+- canonical: "Sungu Kim"
+  person: sungu-kim
+  variants:
+    - "Sungu Kim"
+- canonical: "Suresh Murugaiyan"
+  person: suresh-murugaiyan
+  variants:
+    - "Suresh Murugaiyan"
+- canonical: "Suriya Dhakshinamoorthy"
+  person: suriya-dhakshinamoorthy
+  variants:
+    - "Suriya Dhakshinamoorthy"
+- canonical: "Therin Young"
+  person: therin-young
+  variants:
+    - "Therin Young"
+- canonical: "Travis Ramsey"
+  person: travis-ramsey
+  variants:
+    - "Travis Ramsey"
+- canonical: "Vahid Mirnezami"
+  person: vahid-mirnezami
+  variants:
+    - "Vahid Mirnezami"
+- canonical: "Vikas Chawla"
+  person: vikas-chawla
+  variants:
+    - "Vikas Chawla"
+- canonical: "Vishal Muralidharan"
+  person: vishal-muralidharan
+  variants:
+    - "Vishal Muralidharan"
+- canonical: "Xiaokai Huo"
+  person: xiaokai-huo
+  variants:
+    - "Xiaokai Huo"
+- canonical: "Yu Xie"
+  person: yu-xie
+  variants:
+    - "Yu Xie"
+- canonical: "Yugal Shrestha"
+  person: yugal-shrestha
+  variants:
+    - "Yugal Shrestha"
+- canonical: "Zaki Jubery"
+  person: zaki-jubery
+  variants:
+    - "Zaki Jubery"

@@ -37,7 +37,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nirmal-baishnab",
+      "olga-wodo"
     ],
     "year": 2026,
     "venue": "Organic Electronics",
@@ -159,7 +161,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vishal-muralidharan"
     ],
     "year": 2026,
     "venue": "",
@@ -192,6 +195,7 @@
     ],
     "members": [
       "baskar",
+      "cheng-hau-yang",
       "dhruv-gamdha",
       "suresh-murugaiyan"
     ],
@@ -266,7 +270,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2026,
     "venue": "Open MIND",
@@ -333,7 +338,7 @@
     "bibkey": "yang2026molgen",
     "title": "MolGen-Transformer: A molecule language model for the generation and latent space exploration of organic molecules",
     "authors": [
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Rebekah Duke",
       "Parker Sornberger",
       "Moses Ogbaje",
@@ -341,7 +346,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2026,
     "venue": "Computational Materials Science",
@@ -394,7 +400,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nirmal-baishnab"
     ],
     "year": 2025,
     "venue": "Digital Discovery",
@@ -416,7 +423,8 @@
       "Anupam Sharma"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2025,
     "venue": "Journal of Computational Physics",
@@ -520,12 +528,13 @@
     "title": "Evaluating Molecular Similarity Measures: Do Similarity Measures Reflect Electronic Structure Properties?",
     "authors": [
       "Rebekah Duke",
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "B. Ganapathysubramanian",
       "Chad Risko"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2025,
     "venue": "Journal of Chemical Information and Modeling",
@@ -600,7 +609,8 @@
     ],
     "members": [
       "baskar",
-      "dhruv-gamdha"
+      "dhruv-gamdha",
+      "kumar-saurabh"
     ],
     "year": 2025,
     "venue": "Finite Elements in Analysis and Design",
@@ -648,6 +658,7 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "ankush-mishra",
       "baskar"
     ],
     "year": 2025,
@@ -755,6 +766,7 @@
     ],
     "members": [
       "baskar",
+      "cheng-hau-yang",
       "mehdi-shadkhah",
       "samundra-karki"
     ],
@@ -830,6 +842,8 @@
     ],
     "members": [
       "baskar",
+      "biswajit-khara",
+      "makrand-khanwale",
       "suresh-murugaiyan",
       "suriya-dhakshinamoorthy"
     ],
@@ -854,7 +868,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara",
+      "kumar-saurabh",
+      "robert-dyja"
     ],
     "year": 2025,
     "venue": "Computers \\& Mathematics with Applications",
@@ -877,7 +894,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara",
+      "kumar-saurabh",
+      "robert-dyja"
     ],
     "year": 2025,
     "venue": "Computers \\& Mathematics with Applications",
@@ -980,7 +1000,9 @@
       "Olga Wodo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nirmal-baishnab",
+      "olga-wodo"
     ],
     "year": 2025,
     "venue": "MRS Communications",
@@ -1089,6 +1111,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anirudha-powadi",
       "baskar"
     ],
     "year": 2025,
@@ -1110,6 +1133,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar"
     ],
     "year": 2025,
@@ -1135,6 +1159,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar"
     ],
     "year": 2025,
@@ -1157,6 +1182,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar",
       "suresh-murugaiyan"
     ],
@@ -1261,6 +1287,7 @@
     ],
     "members": [
       "baskar",
+      "cheng-hau-yang",
       "mehdi-shadkhah",
       "samundra-karki"
     ],
@@ -1332,6 +1359,7 @@
       "Patrick S. Schnable"
     ],
     "members": [
+      "anirudha-powadi",
       "baskar"
     ],
     "year": 2025,
@@ -1418,7 +1446,7 @@
     "bibkey": "yang2025molgen",
     "title": "MolGen-Transformer: A molecule language model for the generation and latent space exploration of pi-conjugated molecules",
     "authors": [
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Rebekah Duke",
       "Parker Sornberger",
       "Moses Ogbaje",
@@ -1426,7 +1454,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2025,
     "venue": "ChemRxiv",
@@ -1448,7 +1477,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "cheng-hau-yang"
     ],
     "year": 2025,
     "venue": "Advances in Computational Science and Engineering",
@@ -1470,7 +1500,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "cheng-hau-yang"
     ],
     "year": 2025,
     "venue": "Journal of Computational Physics",
@@ -1494,7 +1525,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "cheng-hau-yang"
     ],
     "year": 2025,
     "venue": "Journal of Computational Physics",
@@ -1693,7 +1725,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nirmal-baishnab",
+      "olga-wodo"
     ],
     "year": 2024,
     "venue": "Computational Materials Science",
@@ -1796,7 +1830,7 @@
       "Nathan C. Stumme",
       "R. Ordikhani-Seyedlar",
       "Souradeep Chattopadhyay",
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Hsin-Jung Yang",
       "Anton S. Perera",
       "Lisa Green",
@@ -1811,7 +1845,8 @@
       "Craig M. Teague"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2024,
     "venue": "Journal of Chemical Education",
@@ -2104,7 +2139,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2024,
     "venue": "Engineering With Computers",
@@ -2124,7 +2160,7 @@
       "Ethan Herron",
       "Aditya Balu",
       "Dhruv Gamdha",
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Kumar Saurabh",
       "Anushrut Jignasu",
       "Zhanhong Jiang",
@@ -2136,7 +2172,10 @@
     ],
     "members": [
       "baskar",
-      "dhruv-gamdha"
+      "biswajit-khara",
+      "chih-hsuan-yang",
+      "dhruv-gamdha",
+      "kumar-saurabh"
     ],
     "year": 2024,
     "venue": "Computer-Aided Design",
@@ -2189,7 +2228,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2024,
     "venue": "Journal of Computational Physics",
@@ -2238,7 +2278,8 @@
       "Olga Wodo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2024,
     "venue": "Digital Discovery",
@@ -2261,6 +2302,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anirudha-powadi",
       "baskar"
     ],
     "year": 2024,
@@ -2286,6 +2328,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar"
     ],
     "year": 2024,
@@ -2308,6 +2351,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar"
     ],
     "year": 2024,
@@ -2393,7 +2437,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ali-rabeh",
       "baskar",
+      "cheng-hau-yang",
       "mehdi-shadkhah",
       "ronak-tali",
       "suriya-dhakshinamoorthy"
@@ -2502,7 +2548,8 @@
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2023,
     "venue": "ACS Sensors",
@@ -2636,7 +2683,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2023,
     "venue": "Frontiers in Plant Science",
@@ -2689,7 +2737,8 @@
       "Hari Sundar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "cheng-hau-yang"
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
@@ -2745,7 +2794,8 @@
       "Arti Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2023,
     "venue": "The Plant Phenome Journal",
@@ -2769,7 +2819,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2023,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -2850,7 +2901,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2023,
     "venue": "Trends in Plant Science",
@@ -2882,7 +2934,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2023,
     "venue": "Journal of Applied Crystallography",
@@ -2905,7 +2958,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2023,
     "venue": "",
@@ -2931,7 +2985,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "boshun-gao",
+      "cheng-hau-yang",
+      "kendrick-tan"
     ],
     "year": 2023,
     "venue": "Engineering With Computers",
@@ -2955,7 +3012,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "cheng-hau-yang",
+      "kumar-saurabh"
     ],
     "year": 2023,
     "venue": "Computer Methods in Applied Mechanics and Engineering",
@@ -3059,7 +3118,8 @@
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "ChemRxiv",
@@ -3083,7 +3143,8 @@
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "Lab on a Chip",
@@ -3205,7 +3266,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "arXiv (Cornell University)",
@@ -3230,7 +3292,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "Computer Physics Communications",
@@ -3254,7 +3317,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "Journal of Computational Physics",
@@ -3327,7 +3391,8 @@
       "Olga Wodo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2022,
     "venue": "MRS Communications",
@@ -3349,7 +3414,8 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "joshua-mineroff"
     ],
     "year": 2022,
     "venue": "International Journal for Numerical Methods in Biomedical Engineering",
@@ -3372,7 +3438,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2022,
     "venue": "The Plant Phenome Journal",
@@ -3395,7 +3462,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "ramin-noruzi"
     ],
     "year": 2022,
     "venue": "npj Computational Materials",
@@ -3420,6 +3488,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2022,
@@ -3443,7 +3512,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "ramin-noruzi"
     ],
     "year": 2022,
     "venue": "Molecular Systems Design \\& Engineering",
@@ -3529,7 +3599,8 @@
       "Michael L. Chabinyc"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "Molecular Systems Design \\& Engineering",
@@ -3559,7 +3630,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "arXiv (Cornell University)",
@@ -3604,7 +3676,8 @@
       "Hari Sundar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2022,
     "venue": "2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
@@ -3627,7 +3700,8 @@
       "Olga Wodo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2022,
     "venue": "Computational Materials Science",
@@ -3643,7 +3717,7 @@
     "bibkey": "yang2022multi",
     "title": "Multi-fidelity machine learning models for structure–property mapping of organic electronics",
     "authors": [
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Balaji Sesha Sarath Pokuri",
       "Xian Yeow Lee",
       "Sangeeth Balakrishnan",
@@ -3652,7 +3726,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2022,
     "venue": "Computational Materials Science",
@@ -3679,7 +3754,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2021,
     "venue": "",
@@ -3757,7 +3833,8 @@
       "Chinmay Hegde"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2021,
     "venue": "Neural Information Processing Systems",
@@ -3779,7 +3856,8 @@
       "Pranav Shrotriya"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sivaranjani-devarakonda"
     ],
     "year": 2021,
     "venue": "Electrochimica Acta",
@@ -3800,7 +3878,8 @@
       "Pranav Shrotriya"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sivaranjani-devarakonda"
     ],
     "year": 2021,
     "venue": "ACS Applied Materials \\& Interfaces",
@@ -3882,7 +3961,8 @@
       "Arti Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2021,
     "venue": "",
@@ -3907,7 +3987,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2021,
     "venue": "arXiv (Cornell University)",
@@ -3951,7 +4032,7 @@
     "authors": [
       "Xian Yeow Lee",
       "Joshua R. Waite",
-      "Chih-Hsuan Yang",
+      "Chih-Hsuan (Bella) Yang",
       "Balaji Sesha Sarath Pokuri",
       "Ameya Joshi",
       "Aditya Balu",
@@ -3960,7 +4041,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "chih-hsuan-yang"
     ],
     "year": 2021,
     "venue": "Nature Computational Science",
@@ -4014,7 +4096,8 @@
       "Dean M. DeLongchamp"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "kumar-saurabh"
     ],
     "year": 2021,
     "venue": "Nature Communications",
@@ -4043,7 +4126,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2021,
     "venue": "The Plant Phenome Journal",
@@ -4097,7 +4181,8 @@
       "Chad Risko"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "ramin-noruzi"
     ],
     "year": 2021,
     "venue": "Molecular Systems Design \\& Engineering",
@@ -4123,7 +4208,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "boshun-gao",
+      "kendrick-tan",
+      "kumar-saurabh"
     ],
     "year": 2021,
     "venue": "",
@@ -4151,7 +4239,11 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara",
+      "boshun-gao",
+      "kumar-saurabh",
+      "songzhe-xu"
     ],
     "year": 2021,
     "venue": "Computers \\& Mathematics with Applications",
@@ -4178,7 +4270,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "boshun-gao",
+      "kendrick-tan",
+      "kumar-saurabh"
     ],
     "year": 2021,
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -4199,7 +4294,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2021,
     "venue": "Energies",
@@ -4262,7 +4358,8 @@
       "Jiaoping Zhang"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2021,
     "venue": "Concepts and strategies in plant sciences",
@@ -4316,7 +4413,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2021,
     "venue": "Sustainable Energy Technologies and Assessments",
@@ -4370,7 +4468,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2020,
     "venue": "",
@@ -4395,7 +4494,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
@@ -4426,7 +4526,8 @@
       "Enrique D. Gomez"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara"
     ],
     "year": 2020,
     "venue": "Science",
@@ -4504,6 +4605,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "aditya-kommasojula",
       "baskar"
     ],
     "year": 2020,
@@ -4603,6 +4705,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2020,
@@ -4725,7 +4828,8 @@
       "Arti Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2020,
     "venue": "Applications in Plant Sciences",
@@ -4748,7 +4852,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
@@ -4770,7 +4875,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "spencer-pfeifer"
     ],
     "year": 2020,
     "venue": "Elsevier eBooks",
@@ -4879,7 +4986,8 @@
       "Koushik Nagasubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2020,
     "venue": "Trends in Plant Science",
@@ -4942,7 +5050,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2020,
     "venue": "Journal of Thermal Analysis and Calorimetry",
@@ -4967,7 +5076,10 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "alec-lofquist",
+      "baskar",
+      "boshun-gao",
+      "songzhe-xu"
     ],
     "year": 2020,
     "venue": "Computers \\& Fluids",
@@ -5113,7 +5225,9 @@
       "Hari Sundar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "biswajit-khara",
+      "kumar-saurabh"
     ],
     "year": 2019,
     "venue": "",
@@ -5204,7 +5318,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2019,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -5227,7 +5342,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2019,
     "venue": "Journal of Mechanical Design",
@@ -5278,7 +5394,8 @@
       "Adarsh Krishnamurthy"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "joshua-mineroff"
     ],
     "year": 2019,
     "venue": "Cardiovascular Engineering and Technology",
@@ -5331,7 +5448,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2019,
     "venue": "Plant Methods",
@@ -5354,7 +5472,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "ramin-noruzi"
     ],
     "year": 2019,
     "venue": "Computer-Aided Design",
@@ -5377,7 +5496,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2019,
     "venue": "Plant Phenomics",
@@ -5425,7 +5545,9 @@
       "Himanshu Sharma"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "boshun-gao",
+      "himanshu-sharma"
     ],
     "year": 2019,
     "venue": "",
@@ -5517,7 +5639,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2019,
     "venue": "Building and Environment",
@@ -5538,7 +5661,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2019,
     "venue": "Building and Environment",
@@ -5559,7 +5683,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2019,
     "venue": "",
@@ -5598,7 +5723,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2019,
     "venue": "Lecture notes in computer science",
@@ -5622,7 +5748,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2019,
     "venue": "Lab on a Chip",
@@ -5648,7 +5775,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2019,
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
@@ -5694,7 +5822,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2019,
     "venue": "Computers \\& Fluids",
@@ -5716,7 +5845,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "boshun-gao",
+      "songzhe-xu"
     ],
     "year": 2019,
     "venue": "Computer Methods in Applied Mechanics and Engineering",
@@ -5770,6 +5901,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "adedotun-akintayo",
       "baskar"
     ],
     "year": 2018,
@@ -5832,7 +5964,9 @@
       "Zhan Shi"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "himanshu-sharma",
+      "koushik-nagasubramanian"
     ],
     "year": 2018,
     "venue": "",
@@ -5855,7 +5989,9 @@
       "Olga Wodo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "pengfei-du"
     ],
     "year": 2018,
     "venue": "npj Computational Materials",
@@ -5879,7 +6015,8 @@
       "Kristoffer G. van der Zee"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "robert-dyja"
     ],
     "year": 2018,
     "venue": "SIAM Journal on Scientific Computing",
@@ -5907,6 +6044,7 @@
       "Sourabh Bhattacharya"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -5935,6 +6073,7 @@
       "Sourabh Bhattacharya"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -5963,6 +6102,7 @@
       "Sourabh Bhattacharya"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -6081,6 +6221,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -6104,7 +6245,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2018,
     "venue": "arXiv (Cornell University)",
@@ -6128,7 +6270,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2018,
     "venue": "arXiv (Cornell University)",
@@ -6154,7 +6297,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2018,
     "venue": "Plant Methods",
@@ -6176,7 +6320,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "pengfei-du",
+      "spencer-pfeifer"
     ],
     "year": 2018,
     "venue": "Materials Discovery",
@@ -6221,6 +6367,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -6243,6 +6390,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "alec-lofquist",
       "baskar"
     ],
     "year": 2018,
@@ -6290,7 +6438,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "anthony-fontanini",
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2018,
     "venue": "Building and Environment",
@@ -6312,7 +6462,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "anthony-fontanini",
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2018,
     "venue": "",
@@ -6334,7 +6486,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "anthony-fontanini",
+      "baskar",
+      "himanshu-sharma"
     ],
     "year": 2018,
     "venue": "arXiv (Cornell University)",
@@ -6407,7 +6561,8 @@
       "Ludovico Cademartiri"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2018,
     "venue": "Lab on a Chip",
@@ -6432,7 +6587,8 @@
       "Ludovico Cademartiri"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2018,
     "venue": "Trends in Plant Science",
@@ -6501,7 +6657,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2018,
     "venue": "Microfluidics and Nanofluidics",
@@ -6555,7 +6712,8 @@
       "Iddo Friedberg"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nigel-lee"
     ],
     "year": 2018,
     "venue": "PLoS Computational Biology",
@@ -6625,7 +6783,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "pengfei-du"
     ],
     "year": 2017,
     "venue": "Computational Materials Science",
@@ -6669,7 +6829,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "qiang-guo"
     ],
     "year": 2017,
     "venue": "Wind Energy",
@@ -6772,6 +6933,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2017,
@@ -6817,7 +6979,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2017,
     "venue": "Neural Networks",
@@ -6840,7 +7003,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2017,
     "venue": "Big Data Analytics",
@@ -6864,7 +7028,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2017,
     "venue": "arXiv (Cornell University)",
@@ -6888,7 +7053,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "koushik-nagasubramanian"
     ],
     "year": 2017,
     "venue": "arXiv (Cornell University)",
@@ -6915,7 +7081,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "alec-lofquist",
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2017,
     "venue": "Plant Methods",
@@ -6960,7 +7128,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "spencer-pfeifer"
     ],
     "year": 2017,
     "venue": "Computational Materials Science",
@@ -6986,7 +7156,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2017,
     "venue": "Advanced Energy Materials",
@@ -7036,7 +7207,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2017,
     "venue": "Scientific Reports",
@@ -7129,7 +7301,9 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "adedotun-akintayo",
+      "baskar",
+      "vikas-chawla"
     ],
     "year": 2016,
     "venue": "arXiv (Cornell University)",
@@ -7150,7 +7324,8 @@
       "Kristoffer G. van der Zee"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "robert-dyja"
     ],
     "year": 2016,
     "venue": "arXiv (Cornell University)",
@@ -7172,7 +7347,8 @@
       "Surya R. Kalidindi"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2016,
     "venue": "Acta Materialia",
@@ -7194,6 +7370,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2016,
@@ -7217,6 +7394,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2016,
@@ -7239,6 +7417,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2016,
@@ -7260,6 +7439,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2016,
@@ -7282,6 +7462,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2016,
@@ -7331,7 +7512,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "qiang-guo"
     ],
     "year": 2016,
     "venue": "arXiv (Cornell University)",
@@ -7377,7 +7559,8 @@
       "Venkat Ganesan"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2016,
     "venue": "Solar Energy Materials and Solar Cells",
@@ -7447,7 +7630,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2016,
     "venue": "Bulletin of the American Physical Society",
@@ -7470,7 +7654,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2016,
     "venue": "arXiv (Cornell University)",
@@ -7493,7 +7678,8 @@
       "Songzhe Xu"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "songzhe-xu"
     ],
     "year": 2016,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -7536,7 +7722,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2016,
     "venue": "Journal of Fluids Engineering",
@@ -7559,7 +7746,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2016,
     "venue": "Physics of Fluids",
@@ -7580,7 +7768,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "yu-xie"
     ],
     "year": 2016,
     "venue": "Modeling and simulation in science, engineering \\& technology",
@@ -7601,7 +7791,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "yu-xie"
     ],
     "year": 2016,
     "venue": "Computers \\& Fluids",
@@ -7637,7 +7829,8 @@
       "Aram Amassian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2016,
     "venue": "Advanced Functional Materials",
@@ -7661,7 +7854,8 @@
       "Markus Hadwiger"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2015,
     "venue": "Computer Graphics Forum",
@@ -7703,7 +7897,8 @@
       "Ulrike Passe"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "mirka-deza"
     ],
     "year": 2015,
     "venue": "",
@@ -7724,6 +7919,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2015,
@@ -7750,7 +7946,8 @@
       "Sumit Chaudhary"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "pengfei-du"
     ],
     "year": 2015,
     "venue": "The Journal of Physical Chemistry C",
@@ -7772,7 +7969,8 @@
       "Venkat Ganesan"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2015,
     "venue": "ACS Macro Letters",
@@ -7794,7 +7992,8 @@
       "Venkat Ganesan"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -7817,7 +8016,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2015,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -7860,7 +8060,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "spencer-pfeifer"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -7902,7 +8103,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sai-kiranmayee-samudrala"
     ],
     "year": 2015,
     "venue": "Scientific Programming",
@@ -7949,7 +8151,8 @@
       "Dino Di Carlo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -7972,7 +8175,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2015,
     "venue": "arXiv (Cornell University)",
@@ -7995,7 +8199,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo",
+      "pengfei-du"
     ],
     "year": 2015,
     "venue": "Materials Discovery",
@@ -8015,7 +8221,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -8036,7 +8243,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -8080,7 +8288,8 @@
       "Manish Parashar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "yu-xie"
     ],
     "year": 2014,
     "venue": "Computing in Science \\& Engineering",
@@ -8103,6 +8312,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2014,
@@ -8144,7 +8354,8 @@
       "Chun‐Wei Pao"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2014,
     "venue": "ACS Applied Materials \\& Interfaces",
@@ -8167,7 +8378,8 @@
       "Thomas Lübberstedt"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "nigel-lee"
     ],
     "year": 2014,
     "venue": "PLoS ONE",
@@ -8190,7 +8402,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sai-kiranmayee-samudrala"
     ],
     "year": 2014,
     "venue": "Integrating materials and manufacturing innovation",
@@ -8214,7 +8427,9 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein",
+      "yu-xie"
     ],
     "year": 2014,
     "venue": "Lab on a Chip",
@@ -8234,7 +8449,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2014,
     "venue": "APS",
@@ -8254,7 +8470,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2014,
     "venue": "Applied Physics Letters",
@@ -8279,7 +8496,8 @@
       "Dino Di Carlo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "yu-xie"
     ],
     "year": 2013,
     "venue": "Nature Communications",
@@ -8329,7 +8547,8 @@
       "Manish Parashar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "yu-xie"
     ],
     "year": 2013,
     "venue": "",
@@ -8350,6 +8569,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2013,
@@ -8370,7 +8590,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2013,
     "venue": "Solar Energy Materials and Solar Cells",
@@ -8391,7 +8612,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sai-kiranmayee-samudrala"
     ],
     "year": 2013,
     "venue": "Elsevier eBooks",
@@ -8415,7 +8637,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2013,
     "venue": "Computational Materials Science",
@@ -8437,7 +8660,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2013,
     "venue": "Energy \\& Environmental Science",
@@ -8464,7 +8688,8 @@
       "Dino Di Carlo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "yu-xie"
     ],
     "year": 2012,
     "venue": "Bulletin of the American Physical Society",
@@ -8488,7 +8713,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "yu-xie"
     ],
     "year": 2012,
     "venue": "Applied Physics Letters",
@@ -8508,7 +8734,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2012,
     "venue": "Computer Methods in Applied Mechanics and Engineering",
@@ -8528,7 +8755,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2012,
     "venue": "Modelling and Simulation in Materials Science and Engineering",
@@ -8555,7 +8783,8 @@
       "Sumit Chaudhary"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2012,
     "venue": "Energy \\& Environmental Science",
@@ -8599,7 +8828,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2012,
     "venue": "Journal of Applied Physics",
@@ -8621,7 +8851,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2012,
     "venue": "Organic Electronics",
@@ -8641,7 +8872,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2012,
     "venue": "Computational Materials Science",
@@ -8683,7 +8915,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-busch"
     ],
     "year": 2011,
     "venue": "arXiv (Cornell University)",
@@ -8705,7 +8938,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-busch"
     ],
     "year": 2011,
     "venue": "",
@@ -8726,6 +8960,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "anthony-fontanini",
       "baskar"
     ],
     "year": 2011,
@@ -8747,7 +8982,8 @@
       "J. A. Wickert"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sameer-jape"
     ],
     "year": 2011,
     "venue": "IEEE Transactions on Magnetics",
@@ -8769,7 +9005,8 @@
       "Sumit Chaudhary"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2011,
     "venue": "Applied Physics Letters",
@@ -8810,7 +9047,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2011,
     "venue": "Journal of Computational Physics",
@@ -8832,7 +9070,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2011,
     "venue": "arXiv (Cornell University)",
@@ -8854,7 +9093,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2011,
     "venue": "arXiv (Cornell University)",
@@ -8874,7 +9114,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "olga-wodo"
     ],
     "year": 2011,
     "venue": "arXiv (Cornell University)",
@@ -8957,7 +9198,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hari-krishna-kodali"
     ],
     "year": 2009,
     "venue": "Bulletin of the American Physical Society",
