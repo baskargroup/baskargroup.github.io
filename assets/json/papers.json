@@ -3737,8 +3737,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20051",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We show how deep learning can extract plant traits from images with far fewer labeled examples, making phenotyping practical when annotation is scarce.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3789,8 +3792,11 @@
     "venue": "ACM Transactions on Mathematical Software",
     "doi": "10.1145/3529517",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We release PARyOpt, a Python Bayesian optimization library built for remote, asynchronous, and expensive function evaluations such as large simulations.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3814,8 +3820,11 @@
     "venue": "Molecular Systems Design \\& Engineering",
     "doi": "10.1039/d1me00163a",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We characterize how resilient charge transport is in molecular materials by treating each molecule as a graph and measuring the centrality of its charge pathways, guiding organic electronics design.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3843,8 +3852,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2022.966244",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use deep learning to phenotype soybean disease severity from images and feed those measurements into genome-wide association studies, helping breed for disease resistance.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3901,8 +3913,11 @@
     "venue": "Molecular Systems Design \\& Engineering",
     "doi": "10.1039/d2me00096b",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We use simulation to interpret resonant soft X-ray scattering and determine the nanoscale morphology of multiblock copolymers, sharpening a chemically sensitive characterization tool.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3953,8 +3968,10 @@
     "venue": "Journal of Fluid Mechanics",
     "doi": "10.1017/jfm.2021.1149",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We propose a vorticity-based criterion, the boundary enstrophy flux, that gives a physically grounded and conservative way to detect the onset of leading-edge dynamic stall.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3978,8 +3995,11 @@
     "venue": "2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
     "doi": "10.1109/ipdps53621.2022.00011",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "hpc",
+      "numerics"
+    ],
+    "summary": "We design a scalable adaptive-matrix sparse matrix-vector product that runs efficiently across CPU and GPU architectures, speeding the core kernel of many parallel simulation codes.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4059,8 +4079,11 @@
     "venue": "",
     "doi": "10.1145/3458817.3476218",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "hpc"
+    ],
+    "summary": "We train large neural PDE solvers across many GPUs using a distributed multigrid scheme, producing full-field solutions on very large three-dimensional domains.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4138,8 +4161,10 @@
     "venue": "Neural Information Processing Systems",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml"
+    ],
+    "summary": "We extend gradient-based optimization to splines and other piecewise-smooth models by deriving accurate differentiable approximations, broadening what differentiable programming can fit.",
     "selected": false,
     "preview": "",
     "status": "preprint"

@@ -15,6 +15,12 @@ version, merge identifiers, and remove the rest.
 | `jignasu2024stitch` (STITCH) | `jignasu2024sdfconnect` (same work: sparse point cloud + persistent homology, single connected component) | Topology-constrained neural surface reconstruction |
 | `chiteri2023dissecting` (Plant Phenome J.) | `chiteri2023dissectingb` (ISU repo) | Genetic architecture of mungbean leaf morphology |
 | `berzina2023electrokinetic` (ACS Sensors) | `berzina2022electrokinetic` (ChemRxiv) | Electrokinetic enrichment + electrochemical nucleic acid detection |
+| `saurabh2023cyrsoxs` (J. Appl. Cryst.) | `saurabh2022cyrsoxs` (arXiv) | CyRSoXS GPU virtual instrument for P-RSoXS |
+| `chiteri2022dissecting` (Frontiers Plant Sci.) | `chiteri2021dissecting` (ISU repo) | Root phenotypic/genotypic variability of Iowa mung bean |
+| `rairdin2022deep` (Frontiers Plant Sci.) | `rairdin2022nappn` (NAPPN conf. abstract) | Deep-learning phenotyping + GWAS of soybean sudden death syndrome |
+| `cho2021differentiableb` (NeurIPS) | `cho2021differentiable` (ISU repo, "Piecewise Polynomial Functions") | Differentiable spline approximations |
+
+Also note: `chiteri2022nappn` (NAPPN conf. abstract, already enriched) is the conference-abstract precursor of `chiteri2023dissecting` (leaf morphology GWAS) and is a dedup candidate too.
 
 Note: a fuller dedup pass over the whole bibliography (fuzzy-title, arXiv-vs-DOI)
 would likely find more; this list is only what enrichment happened to surface.
