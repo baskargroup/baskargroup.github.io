@@ -22,8 +22,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "10.48550/arxiv.2605.09768",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We build an AI system that uses vision-language models as reasoning agents to diagnose crop diseases across many crops and field conditions, even where labeled disease images are scarce.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -102,8 +105,11 @@
     "venue": "Open MIND",
     "doi": "10.48550/arxiv.2602.02271",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We study when neural network representations of shapes are smooth enough to trust in physics simulations, and prove the conditions under which they give reliable, convergent results.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -126,8 +132,10 @@
     "venue": "Open MIND",
     "doi": "10.48550/arxiv.2602.16950",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping"
+    ],
+    "summary": "We reconstruct produce and plants in 3D and across the full color spectrum from a fixed hyperspectral camera and a rotating sample, giving high-throughput measurements of quality and traits without moving the camera.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -149,8 +157,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "numerics"
+    ],
+    "summary": "We generate detailed 3D models of plant branching that are ready for engineering simulation, providing the geometry needed to study water and nutrient transport, light capture, and structural loads.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -171,8 +182,11 @@
     "venue": "",
     "doi": "10.26868/30680611.2026.1334",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "hpc"
+    ],
+    "summary": "We build a portable high-throughput system that runs large ensembles of building energy simulations at scale, turning a slow tool into one usable for optimization, city-scale modeling, and training AI surrogates.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -206,8 +220,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "10.48550/arxiv.2605.30659",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "microfluidics"
+    ],
+    "summary": "We train a neural network to represent the complex viscosity of printing materials, so simulations of non-Newtonian multiphase flows can handle new materials without hand-tuning a rheology model.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -231,8 +248,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "10.48550/arxiv.2605.07863",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We introduce a framework where independent agents jointly optimize a shared goal without sharing their private data, combining their Gaussian process models efficiently.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -256,8 +276,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "10.48550/arxiv.2605.22848",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "sciml"
+    ],
+    "summary": "We build a fast neural emulator of a detailed crop model that predicts how maize responds to climate and genetics, making large-scale exploration of genotype and environment practical.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -281,8 +304,11 @@
     "venue": "Open MIND",
     "doi": "10.48550/arxiv.2602.07817",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We develop an adaptive mesh method that keeps conserved quantities from drifting over long simulations, so large parallel runs stay physically accurate as the mesh refines and coarsens.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -332,8 +358,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2607.07759",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "design-opt"
+    ],
+    "summary": "We build an AI tool that links economic and crop models so policy makers and markets can ask how shocks ripple through agricultural supply chains.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -387,8 +416,11 @@
     "venue": "",
     "doi": "10.1109/wacv61041.2025.00616",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We create a benchmark, AgEval, that measures how well vision-language models handle specialized plant-stress tasks, guiding their use in agriculture where labeled data is limited.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -412,8 +444,11 @@
     "venue": "Digital Discovery",
     "doi": "10.1039/d5dd00159e",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We use a conditional diffusion model to generate 3D multiphase material microstructures on demand with targeted properties, speeding up the design of advanced materials.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -462,8 +497,11 @@
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
     "doi": "10.1101/2025.11.06.687031",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use AI image analysis to measure mungbean pod traits across hundreds of varieties and map the genetics behind them, supporting breeding for plant-based protein.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -491,8 +529,11 @@
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
     "doi": "10.1101/2025.05.30.657051",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use drone imagery collected over time to score iron deficiency chlorosis in soybean and map the genetics of tolerance, replacing slow visual ratings.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -524,8 +565,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2506.03182",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We introduce TerraIncognita, a benchmark that tests how well frontier AI can discover unknown insect species from images, a task central to tracking biodiversity loss.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -547,8 +591,11 @@
     "venue": "Journal of Chemical Information and Modeling",
     "doi": "10.1021/acs.jcim.5c00175",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We test whether common molecular similarity measures actually reflect the electronic properties that matter for chemistry, an important check for machine learning in molecular design.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -575,8 +622,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2025.1554193",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We estimate soybean seed yield by counting seeds in video from a ground robot using computer vision, a faster and cheaper alternative to traditional yield measurement.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -599,8 +649,11 @@
     "venue": "Materials Advances",
     "doi": "10.1039/d5ma00409h",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We build a near real-time pipeline that extracts structural measurements from high-resolution electron microscopy of polymers, auto-tuning itself and signaling when enough data has been collected.",
     "selected": false,
     "preview": "",
     "status": "published"
