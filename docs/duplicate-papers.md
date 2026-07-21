@@ -23,6 +23,12 @@ version, merge identifiers, and remove the rest.
 | `riera2021deep` (Plant Phenomics) | `riera2020deep`, `riera2020deepb` (both arXiv) | Deep multiview image fusion for soybean yield estimation |
 | `botelho2020deepb` (arXiv) | `botelho2020deep` (ISU repo) | Deep generative models that solve PDEs (distributed training) |
 | `kommajosula2019high` (arXiv) | `kommajosula2019highb` (arXiv, identical) | Automated prediction of inertial-microfluidic focusing patterns |
+| `gao2018multirobotb` (Robotics) | `gao2018multirobot` (Preprints.org) | Multirobot system for distributed plant phenotyping |
+| `pokuri2022algorithm` (ACM TOMS) | `pokuri2018paryopt`, `pokuri2018paryoptb` (both arXiv) | PARyOpt parallel asynchronous Bayesian optimization software |
+| `pokuri2019interpretable` (npj Comput. Mater.) | `pokuri2018interpretable` (arXiv) | Interpretable deep learning for microstructure-property exploration |
+| `sharma2018transferb` (arXiv) | `sharma2018transfer` (ISU repo) | Transfer-operator framework for monitoring building indoor environments |
+| `nagasubramanian2019plant` (Plant Methods) | `nagasubramanian2018explaining` (arXiv) | Explainable hyperspectral plant disease identification (charcoal rot) |
+| `shook2021crop` (PLoS ONE) | `shook2018integrating` (bioRxiv) | Integrating genotype + weather for soybean yield prediction |
 
 Also note: `chiteri2022nappn` (NAPPN conf. abstract, already enriched) is the conference-abstract precursor of `chiteri2023dissecting` (leaf morphology GWAS) and is a dedup candidate too.
 

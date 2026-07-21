@@ -6265,8 +6265,11 @@
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We study soybean root phenomics, characterizing below-ground root traits and root-soil interactions that traditional above-ground selection overlooks.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -6289,8 +6292,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.2135/tppj2018.10.0008",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use the reduced vigor of haploid embryos to discriminate them phenotypically, offering a non-transgenic way to select haploids in doubled-haploid breeding.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6368,8 +6374,11 @@
     "venue": "PLANT PHYSIOLOGY",
     "doi": "10.1104/pp.19.00752",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We find shared genetic control of root system architecture between maize and sorghum by extracting root traits from thousands of images and mapping the underlying genetics.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6393,8 +6402,11 @@
     "venue": "Scientific Reports",
     "doi": "10.1038/s41598-018-27272-w",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build a deep learning framework that identifies and counts microscopic nematode eggs in images, automating detection of a destructive crop pest.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6457,8 +6469,10 @@
     "venue": "",
     "doi": "10.1109/cvprw.2018.00138",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml"
+    ],
+    "summary": "We review the first NTIRE challenge on reconstructing full hyperspectral images from ordinary RGB photos, benchmarking methods that recover spectral detail from three channels.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6507,8 +6521,11 @@
     "venue": "SIAM Journal on Scientific Computing",
     "doi": "10.1137/16m108985x",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We build a parallel-in-space-and-time adaptive finite element framework for nonlinear time-dependent PDEs, tailored for massively parallel computation.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6565,8 +6582,11 @@
     "venue": "Robotics",
     "doi": "10.3390/robotics7040061",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We design and demonstrate a multi-robot system for distributed plant phenotyping, cutting the labor and cost of collecting large field datasets.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6594,8 +6614,11 @@
     "venue": "",
     "doi": "10.1115/dscc2018-9096",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We develop sampling-based navigation strategies for a team of ground robots doing row-crop phenotyping, coordinating where each robot samples the field.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6615,8 +6638,11 @@
     "venue": "Journal of Fluid Mechanics",
     "doi": "10.1017/jfm.2018.843",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "numerics"
+    ],
+    "summary": "We derive a linearised model for the inertial forces on a particle in a porous channel at moderate Reynolds number, informing particle transport in filtration and biology.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -6666,8 +6692,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1805.12044",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We predict county-level corn yields with deep long short-term memory networks, giving useful pre-harvest forecasts from public data.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -6690,8 +6719,11 @@
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
     "doi": "10.1101/380592",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We measure how maize roots adjust their depth, diameter, and density under water stress in hydroponics, quantifying root plasticity relevant to drought.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -6739,8 +6771,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1811.12444",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We design microfluidic flow shapes using deep reinforcement learning, letting an agent discover pillar sequences that sculpt flow for diagnostics and other uses.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -6791,8 +6826,11 @@
     "venue": "Plant Methods",
     "doi": "10.1186/s13007-018-0349-9",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We select the most informative hyperspectral bands with a genetic algorithm and support vector machine to detect charcoal rot in soybean, simplifying disease sensing.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6912,8 +6950,10 @@
     "venue": "Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences",
     "doi": "10.24251/hicss.2018.352",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml"
+    ],
+    "summary": "We apply big data analytics to clinical and laboratory data for Parkinson's disease, exploring how large-scale analysis can support earlier detection.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6985,8 +7025,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1807.04781",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "numerics"
+    ],
+    "summary": "We develop a Perron-Frobenius transfer operator framework for monitoring indoor building environments, addressing analysis and design of airflow and contaminant problems.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -7010,8 +7053,11 @@
     "venue": "",
     "doi": "10.1145/3293353.3293380",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build an automated pipeline that detects maize tassels and extracts their traits from field images, supporting plant breeding and precision agriculture.",
     "selected": false,
     "preview": "",
     "status": "published"
