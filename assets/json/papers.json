@@ -5540,8 +5540,10 @@
     "venue": "Micromachines",
     "doi": "10.3390/mi10040271",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We use dielectrophoretic capture at a microelectrode array to define the size of biological cell clusters, a step toward studying cluster behavior in insulin release and cancer spread.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5614,8 +5616,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2019/1525874",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build a weakly supervised deep learning framework that detects and counts sorghum crop-heads from images, easing a yield-related measurement that is tedious by hand.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5638,8 +5643,11 @@
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use time-lapse photography for high-throughput phenotyping of corn, capturing plant performance across the season without repeated manual field measurements.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -5690,8 +5698,11 @@
     "venue": "Food and Energy Security",
     "doi": "10.1002/fes3.167",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "design-opt"
+    ],
+    "summary": "We design crop ideotypes in silico across a wide range of water availability, searching for plant traits that stay optimal and sustainable under a changing climate.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5712,8 +5723,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1901.05561",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "sciml"
+    ],
+    "summary": "We automatically predict particle focusing patterns in inertial microfluidic flows at high throughput, replacing error-prone visual inspection of stable focusing positions.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -5757,8 +5771,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We numerically design microparticle shapes that stabilize at the channel centerline in inertial flows, guiding the engineering of particles for microfluidic sorting.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -5781,8 +5798,11 @@
     "venue": "Journal of Mechanical Design",
     "doi": "10.1115/1.4044397",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We apply deep reinforcement learning to engineering design, showing how a learning agent can efficiently explore large design spaces.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5810,8 +5830,10 @@
     "venue": "Proceedings of the National Academy of Sciences",
     "doi": "10.1073/pnas.1820334116",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping"
+    ],
+    "summary": "We develop transparent hydrogel-based soils that let roots be imaged in vivo, making root phenotypes easier to measure than in opaque soil or sand.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5862,8 +5884,11 @@
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We extract sorghum panicle features semi-automatically from RGB images, quantifying inflorescence architecture that influences cereal yield.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -5889,8 +5914,11 @@
     "venue": "Plant Methods",
     "doi": "10.1186/s13007-019-0479-8",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We identify plant diseases with an explainable 3D deep learning model on hyperspectral images, improving accuracy while revealing which spectral bands drive the prediction.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5937,8 +5965,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2019/5809404",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We develop optimized phenomic predictors that make phenomic-assisted plant breeding more efficient, narrowing the gap with genomic selection.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5960,8 +5991,11 @@
     "venue": "Scientific Reports",
     "doi": "10.1038/s41598-019-53451-4",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We fuse high-dimensional phenotypic data with machine learning to enable prescriptive plant breeding, supporting in-season yield prediction and selection.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6035,8 +6069,11 @@
     "venue": "npj Computational Materials",
     "doi": "10.1038/s41524-019-0231-y",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We use interpretable deep learning to link the microstructure of organic solar cell films to their photovoltaic performance, guiding the search for better morphologies.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6061,8 +6098,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1906.01626",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "design-opt"
+    ],
+    "summary": "We encode geometric and statistical invariances into generative adversarial networks so they can be trained reliably from limited scientific data.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -6127,8 +6167,11 @@
     "venue": "",
     "doi": "10.23919/acc.2019.8814649",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "numerics"
+    ],
+    "summary": "We estimate the spread of a contaminant after its release from limited sensor data using a transfer operator approach, supporting rapid response in built environments.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -6192,8 +6235,11 @@
     "venue": "Lab on a Chip",
     "doi": "10.1039/c9lc00658c",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We release FlowSculpt, software that efficiently designs inertial flow sculpting devices by predicting how sequences of pillars shape a microfluidic stream.",
     "selected": false,
     "preview": "",
     "status": "published"

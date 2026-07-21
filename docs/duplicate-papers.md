@@ -22,6 +22,7 @@ version, merge identifiers, and remove the rest.
 
 | `riera2021deep` (Plant Phenomics) | `riera2020deep`, `riera2020deepb` (both arXiv) | Deep multiview image fusion for soybean yield estimation |
 | `botelho2020deepb` (arXiv) | `botelho2020deep` (ISU repo) | Deep generative models that solve PDEs (distributed training) |
+| `kommajosula2019high` (arXiv) | `kommajosula2019highb` (arXiv, identical) | Automated prediction of inertial-microfluidic focusing patterns |
 
 Also note: `chiteri2022nappn` (NAPPN conf. abstract, already enriched) is the conference-abstract precursor of `chiteri2023dissecting` (leaf morphology GWAS) and is a dedup candidate too.
 
