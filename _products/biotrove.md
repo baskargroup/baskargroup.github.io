@@ -3,11 +3,14 @@ title: "BioTrove"
 slug: biotrove
 type: dataset
 status: active
-blurb: "BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity"
+blurb: "162M biodiversity images across 366K species with taxonomic metadata, plus CLIP models and benchmarks. A NeurIPS 2024 Datasets and Benchmarks spotlight."
 links:
-  data: https://doi.org/10.52202/079017-3241
+  site: https://baskargroup.github.io/BioTrove/
+  repo: https://github.com/baskargroup/BioTrove
+  data: https://huggingface.co/datasets/BGLab/BioTrove
+  demo: https://huggingface.co/spaces/BGLab/BioTrove-CLIP-Demo
 image:    # TODO(baskar): assets/img/products/<slug>.webp
-themes: [phenotyping]
-papers: []   # routed from bibkey yang2024biotrove
+themes: [phenotyping, cyberag]
+papers: []
 people: [baskar]
 ---

@@ -9,8 +9,8 @@ description: Software, apps, datasets, and models from the Baskar Group.
 
 <p>Software, apps, datasets, and models from the group, cross-linked to research themes and papers.</p>
 
-{% assign types = "software,app,model,service,dataset" | split: "," %}
-{% assign labels = "Software|Apps|Models|Services|Datasets" | split: "|" %}
+{% assign types = "software,app,model,benchmark,service,dataset" | split: "," %}
+{% assign labels = "Software|Apps|Models|Benchmarks|Services|Datasets" | split: "|" %}
 {% for t in types %}
   {% assign items = site.products | where: "type", t | sort: "title" %}
   {% if items.size > 0 %}
@@ -22,10 +22,13 @@ description: Software, apps, datasets, and models from the Baskar Group.
     <p class="product-blurb">{{ p.blurb }}</p>
     {% if p.themes.size > 0 %}<div class="product-themes">{% for th in p.themes %}<a class="theme-chip" href="{{ '/research/#' | append: th | relative_url }}">{{ th }}</a>{% endfor %}</div>{% endif %}
     <div class="product-links">
-      {% if p.links.repo %}<a href="{{ p.links.repo }}">Repo</a>{% endif %}
+      {% if p.links.site %}<a href="{{ p.links.site }}">Site</a>{% endif %}
+      {% if p.links.paper %}<a href="{{ p.links.paper }}">Paper</a>{% endif %}
+      {% if p.links.repo %}<a href="{{ p.links.repo }}">Code</a>{% endif %}
       {% if p.links.docs %}<a href="{{ p.links.docs }}">Docs</a>{% endif %}
       {% if p.links.app %}<a href="{{ p.links.app }}">App</a>{% endif %}
       {% if p.links.data %}<a href="{{ p.links.data }}">Data</a>{% endif %}
+      {% if p.links.demo %}<a href="{{ p.links.demo }}">Demo</a>{% endif %}
     </div>
   </div>
 {% endfor %}
@@ -33,7 +36,7 @@ description: Software, apps, datasets, and models from the Baskar Group.
   {% endif %}
 {% endfor %}
 
-<p class="prod-note">TODO(baskar): repository and documentation links, images, and related papers for each product.</p>
+<p class="prod-note">Live links are from the group's GitHub repositories. TODO(baskar): product preview images, and repository/demo links for the seed tools (FASTEST, DiffSim, InsectID, WeedID, PestIDBot).</p>
 
 <style>
   .prod-type { margin-top: 2rem; }
