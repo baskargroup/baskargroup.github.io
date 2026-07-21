@@ -21,7 +21,7 @@ Our research does not stay in journals. We turn computational advances into tool
 
 ## Where the work makes a difference
 
-**Resilient agriculture.** The group helped show that deep learning for crops can be made interpretable and trustworthy, work that helped launch AI-augmented plant science and now anchors the AIIRA institute. Tools like [InsectID and WeedID](/products/) bring pest and weed identification to an ordinary phone photo.
+**Resilient agriculture.** The group helped show that deep learning for crops can be made interpretable and trustworthy, work that helped launch AI-augmented plant science and now anchors the AIIRA institute. Group [tools, models, and benchmarks](/products/) bring insect, weed, and crop-stress identification from images to growers and researchers.
 
 **Water and clean energy.** Computational modeling revealed that nanoscale structure improves water transport in desalination membranes, published in Science, and the group's pipelines link the nanostructure of organic solar cells to their performance.
 

@@ -36,7 +36,7 @@ description: Software, apps, datasets, and models from the Baskar Group.
   {% endif %}
 {% endfor %}
 
-<p class="prod-note">Live links are from the group's GitHub repositories. TODO(baskar): product preview images, and repository/demo links for the seed tools (FASTEST, DiffSim, InsectID, WeedID, PestIDBot).</p>
+<p class="prod-note">Live links are from the group's GitHub repositories. TODO(baskar): product preview images; add FASTEST and any other tools that have a public site or repo.</p>
 
 <style>
   .prod-type { margin-top: 2rem; }
