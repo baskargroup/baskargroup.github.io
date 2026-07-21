@@ -14,6 +14,7 @@ version, merge identifiers, and remove the rest.
 | `rabeh2025benchmarking` (Comms. Eng.) | `rabeh2024geometry` (arXiv, "Geometry Matters") | Benchmarking SciML for flow around complex geometries |
 | `jignasu2024stitch` (STITCH) | `jignasu2024sdfconnect` (same work: sparse point cloud + persistent homology, single connected component) | Topology-constrained neural surface reconstruction |
 | `chiteri2023dissecting` (Plant Phenome J.) | `chiteri2023dissectingb` (ISU repo) | Genetic architecture of mungbean leaf morphology |
+| `berzina2023electrokinetic` (ACS Sensors) | `berzina2022electrokinetic` (ChemRxiv) | Electrokinetic enrichment + electrochemical nucleic acid detection |
 
 Note: a fuller dedup pass over the whole bibliography (fuzzy-title, arXiv-vs-DOI)
 would likely find more; this list is only what enrichment happened to surface.

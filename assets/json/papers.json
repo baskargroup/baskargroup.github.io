@@ -3191,8 +3191,11 @@
     "venue": "Journal of Applied Crystallography",
     "doi": "10.1107/s1600576723002790",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "hpc"
+    ],
+    "summary": "We build CyRSoXS, a GPU-accelerated virtual instrument that simulates polarized resonant soft X-ray scattering, letting researchers link molecular structure to scattering signatures far faster than before.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3216,8 +3219,11 @@
     "venue": "",
     "doi": "10.1109/ipdps54959.2023.00065",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We develop scalable adaptive algorithms for high-fidelity multiphase flow simulation, refining the mesh only where the interface needs it so large runs stay efficient on parallel machines.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3304,8 +3310,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2023.1141153",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We introduce canopy fingerprints, compact descriptors of three-dimensional plant canopy point clouds that capture fine structural detail for high-throughput phenotyping.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3406,8 +3415,10 @@
     "venue": "Lab on a Chip",
     "doi": "10.1039/d1lc01011e",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We demonstrate out-of-plane faradaic ion concentration polarization, a microfluidic technique that stably focuses charged biomolecules for preconcentration and bioanalysis.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3459,8 +3470,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2021.808001",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We characterize root traits across the Iowa mung bean diversity panel and map their genetics, supporting the breeding of this drought-tolerant, protein-rich crop.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3485,8 +3499,11 @@
     "venue": "",
     "doi": "10.22541/au.166497110.08549156/v1",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We combine image-based leaf trait measurement with genome-wide association to dissect the genetics of mung bean leaf morphology.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3533,8 +3550,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2209.13142",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "microfluidics"
+    ],
+    "summary": "We perform interface-resolved simulations of jet breakup in two-phase flows using an adaptively refined Cahn-Hilliard Navier-Stokes method that sharpens the interface where it matters.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3638,8 +3658,11 @@
     "venue": "2022 IEEE 61st Conference on Decision and Control (CDC)",
     "doi": "10.1109/cdc51059.2022.9993209",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "design-opt"
+    ],
+    "summary": "We formulate conservative contextual linear bandits for real-time decisions under adversarial contexts, guaranteeing safety constraints are met while the model keeps learning.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3687,8 +3710,11 @@
     "venue": "International Journal for Numerical Methods in Biomedical Engineering",
     "doi": "10.1002/cnm.3665",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We build an optimization-based uncertainty quantification framework for calibrating patient-specific computational models from unreliable clinical data.",
     "selected": false,
     "preview": "",
     "status": "published"
