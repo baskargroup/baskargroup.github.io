@@ -1406,8 +1406,11 @@
     "venue": "Advances in Computational Science and Engineering",
     "doi": "10.3934/acse.2025014",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We study how removing hanging nodes in octree-based adaptive meshes affects the accuracy and convergence of the shifted boundary method, sharpening finite element analysis over complex geometries.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1441,8 +1444,11 @@
     "venue": "Research Square",
     "doi": "10.21203/rs.3.rs-7435620/v1",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We build WeedNet, a foundation-model approach that identifies weed species from images in real time, combining global and local recognition to support weed management.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1478,8 +1484,11 @@
     "venue": "Plants People Planet",
     "doi": "10.1002/ppp3.10613",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We show that plot-level satellite imagery can stand in for drones when assessing maize traits across many sites, making large multistate breeding trials easier to phenotype.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1574,8 +1583,11 @@
     "venue": "ChemRxiv",
     "doi": "10.26434/chemrxiv-2025-n0tnl",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We build a molecular language model that generates and explores new pi-conjugated molecules, widening the space of candidate materials for organic electronics.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1597,8 +1609,11 @@
     "venue": "Advances in Computational Science and Engineering",
     "doi": "10.3934/acse.2025012",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We combine octree-based adaptive mesh refinement with the shifted boundary method to simulate incompressible and thermal flows efficiently, refining the mesh where the flow is most active.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1684,8 +1699,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2505.19259",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "sciml"
+    ],
+    "summary": "We develop large reasoning models tailored to agriculture, where sound decisions depend on local climate, economics, and practice, going beyond what general language models handle.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1713,8 +1731,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2502.13399",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use a zero-shot segmentation model to measure maize ear yield traits from images without task-specific training, supporting genetics research and breeding.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1769,8 +1790,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/plantphenomics.0235",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "sciml"
+    ],
+    "summary": "We evaluate neural radiance field methods for reconstructing plants in 3D from indoor to field conditions, showing where they capture the fine geometric detail phenotyping needs.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1872,8 +1896,11 @@
     "venue": "The Journal of Physical Chemistry Letters",
     "doi": "10.1021/acs.jpclett.4c01309",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We rapidly estimate the electronic couplings and charge mobilities of crystalline organic semiconductors, speeding the screening of candidate materials for electronics.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1897,8 +1924,11 @@
     "venue": "Crop Science",
     "doi": "10.1002/csc2.21336",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We use soil maps and machine learning to correct for field variability in plant breeding trials, giving more accurate yield estimates and better variety selection.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1971,8 +2001,10 @@
     "venue": "Journal of Chemical Education",
     "doi": "10.1021/acs.jchemed.4c00727",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We describe In the Mix, a graduate-student-led workshop that brings together computational chemistry, electrochemistry, and data science to train researchers in cross-disciplinary work.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2025,8 +2057,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20107",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We detect insects in images with little labeled data by using weak language supervision, tapping large citizen-science image collections to build agricultural AI.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2060,8 +2095,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2024.1484587",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We continuously monitor insect pests on sticky traps using transfer learning and image slicing, giving reliable automated pest counts for crop protection.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2112,8 +2150,11 @@
     "venue": "AI Magazine",
     "doi": "10.1002/aaai.12151",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "sciml"
+    ],
+    "summary": "We lay out the vision of AIIRA, the AI Institute for Resilient Agriculture, which fuses diverse data with domain knowledge to model plants across scales for more resilient farming.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2161,8 +2202,11 @@
     "venue": "",
     "doi": "10.1109/lad62341.2024.10691700",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We test how well large language models can read, debug, and manipulate G-code, the language that controls 3D printers, toward more reliable additive manufacturing.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2211,8 +2255,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2412.18696",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We reconstruct surfaces from sparse, irregular point clouds while guaranteeing a single connected shape, using persistent homology to enforce the right topology.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2240,8 +2287,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.70009",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We combine multiple sensors over time for high-throughput phenotyping that detects water stress in soybean early, helping breeders and growers respond to drought.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2330,8 +2380,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2409.00735",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "design-opt"
+    ],
+    "summary": "We build AgGym, a simulation environment for crop biotic stress that lets managers plan ultra-precise, targeted use of fungicides, insecticides, and herbicides.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2409,8 +2462,11 @@
     "venue": "Digital Discovery",
     "doi": "10.1039/d4dd00073k",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We develop an active-learning workflow that chooses which microstructures to evaluate, calibrating structure-property models with far fewer expensive property calculations.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2434,8 +2490,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2024.1476070",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We separate genotype-specific and environment-specific features when predicting plant traits, improving trait prediction over standard dimensionality-reduction methods.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2484,8 +2543,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2406.17933",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "microfluidics"
+    ],
+    "summary": "We simulate high-density-ratio two-phase flows, such as molten metal oscillating in microgravity, using a projection-based Cahn-Hilliard Navier-Stokes method.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2513,8 +2575,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/plantphenomics.0170",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We add out-of-distribution detection to insect classifiers so they flag unfamiliar species instead of guessing, making image-based pest identification more trustworthy.",
     "selected": false,
     "preview": "",
     "status": "preprint"

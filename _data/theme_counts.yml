@@ -1,9 +1,9 @@
 built-env: 2
-cyberag: 20
-design-opt: 3
-energymat: 12
-hpc: 5
-microfluidics: 2
-numerics: 16
-phenotyping: 18
-sciml: 18
+cyberag: 32
+design-opt: 5
+energymat: 16
+hpc: 7
+microfluidics: 3
+numerics: 20
+phenotyping: 28
+sciml: 26
