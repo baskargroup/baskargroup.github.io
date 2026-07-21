@@ -135,12 +135,13 @@
     "title": "Procedural Volumetric Modeling of Plant Branching Structures for Finite Element Analysis",
     "authors": [
       "Ajith Moola",
-      "Prashant Gupta",
+      "Prashant Kumar Gupta",
       "B. Ganapathysubramanian",
       "Aishwarya Pawar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "prashant-kumar-gupta"
     ],
     "year": 2026,
     "venue": "arXiv (Cornell University)",
@@ -264,14 +265,15 @@
     "title": "Field conserving adaptive mesh refinement (AMR) scheme on massively parallel adaptive octree meshes",
     "authors": [
       "Kumar Saurabh",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Masado Ishii",
       "Hari Sundar",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale"
     ],
     "year": 2026,
     "venue": "Open MIND",
@@ -995,11 +997,12 @@
     "authors": [
       "Hao Liu",
       "Nirmal Baishnab",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "B. Ganapathysubramanian",
       "Olga Wodo"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "nirmal-baishnab",
       "olga-wodo"
@@ -1019,7 +1022,7 @@
     "title": "AI-guided high-throughput investigation of conjugated polymer doping reveals importance of local polymer order and dopant-polymer separation",
     "authors": [
       "Jacob P. Mauthe",
-      "Ankush Kumar Mishra",
+      "Ankush Mishra",
       "Abhradeep Sarkar",
       "Boyu Guo",
       "Gaurab J. Thapa",
@@ -1038,6 +1041,7 @@
       "Aram Amassian"
     ],
     "members": [
+      "ankush-mishra",
       "baskar"
     ],
     "year": 2025,
@@ -1079,12 +1083,13 @@
     "bibkey": "mishra2025real",
     "title": "Real time 3D reconstruction for enhanced cybersecurity of additive manufacturing processes",
     "authors": [
-      "Ankush Kumar Mishra",
+      "Ankush Mishra",
       "Shi Yong Goh",
       "B. Ganapathysubramanian",
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "ankush-mishra",
       "baskar"
     ],
     "year": 2025,
@@ -1720,11 +1725,12 @@
     "title": "Identifying representative sub-domains in 3D microstructures for accelerated structure–property mapping in organic photovoltaic",
     "authors": [
       "Nirmal Baishnab",
-      "Ankush Kumar Mishra",
+      "Ankush Mishra",
       "Olga Wodo",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "ankush-mishra",
       "baskar",
       "nirmal-baishnab",
       "olga-wodo"
@@ -2220,16 +2226,18 @@
     "bibkey": "kim2024direct",
     "title": "Direct numerical simulation of electrokinetic transport phenomena in fluids: Variational multi-scale stabilization and octree-based mesh refinement",
     "authors": [
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "Kumar Saurabh",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Ali Mani",
       "Robbyn K. Anand",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale",
+      "sungu-kim"
     ],
     "year": 2024,
     "venue": "Journal of Computational Physics",
@@ -2346,13 +2354,14 @@
     "title": "Modeling and simulations of high-density two-phase flows using projection-based Cahn-Hilliard Navier-Stokes equations",
     "authors": [
       "Ali Rabeh",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Lee, John J.",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "ali-rabeh",
-      "baskar"
+      "baskar",
+      "makrand-khanwale"
     ],
     "year": 2024,
     "venue": "arXiv (Cornell University)",
@@ -2426,10 +2435,10 @@
       "Ali Rabeh",
       "Cheng-Hau Yang",
       "Mehdi Shadkhah",
-      "Karki, Samundra",
+      "Samundra Karki",
       "Ajay Upadhyaya",
       "Suriya Dhakshinamoorthy",
-      "Saadati, Marjan",
+      "Marjan Saadati",
       "Soumik Sarkar",
       "Adarsh Krishnamurthy",
       "Chinmay Hegde",
@@ -2440,8 +2449,10 @@
       "ali-rabeh",
       "baskar",
       "cheng-hau-yang",
+      "marjan-saadati",
       "mehdi-shadkhah",
       "ronak-tali",
+      "samundra-karki",
       "suriya-dhakshinamoorthy"
     ],
     "year": 2024,
@@ -2486,7 +2497,7 @@
     "bibkey": "young2024soybean",
     "title": "Soybean Canopy Stress Classification Using 3D Point Cloud Data",
     "authors": [
-      "Therin J. Young",
+      "Therin Young",
       "Shivani Chiranjeevi",
       "Dinakaran Elango",
       "Soumik Sarkar",
@@ -2499,7 +2510,8 @@
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "therin-young"
     ],
     "year": 2024,
     "venue": "Agronomy",
@@ -2540,7 +2552,7 @@
     "authors": [
       "Beatrise Bērziņa",
       "Umesha Peramune",
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "Kumar Saurabh",
       "Echo L. Claus",
       "Madison Strait",
@@ -2549,7 +2561,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "sungu-kim"
     ],
     "year": 2023,
     "venue": "ACS Sensors",
@@ -2811,16 +2824,18 @@
     "bibkey": "kim2023direct",
     "title": "Direct numerical simulation of electrokinetic transport phenomena: variational multi-scale stabilization and octree-based mesh refinement",
     "authors": [
-      "SungU. Kim",
+      "Sungu Kim",
       "Kumar Saurabh",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Ali Mani",
       "Robbyn K. Anand",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale",
+      "sungu-kim"
     ],
     "year": 2023,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -2836,14 +2851,15 @@
     "bibkey": "kim2023droplet",
     "title": "In-Droplet Electromechanical Cell Lysis and Enhanced Enzymatic Assay Driven by Ion Concentration Polarization",
     "authors": [
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "Aparna Krishnamurthy",
       "Pooja Kasiviswanathan",
       "B. Ganapathysubramanian",
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sungu-kim"
     ],
     "year": 2023,
     "venue": "Analytical Chemistry",
@@ -2953,13 +2969,14 @@
     "authors": [
       "Kumar Saurabh",
       "Masado Ishii",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Hari Sundar",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale"
     ],
     "year": 2023,
     "venue": "",
@@ -3033,7 +3050,7 @@
     "bibkey": "young2023canopy",
     "title": "“Canopy fingerprints” for characterizing three-dimensional point cloud data of soybean canopies",
     "authors": [
-      "Therin J. Young",
+      "Therin Young",
       "Talukder Z. Jubery",
       "Clayton N. Carley",
       "Matthew E. Carroll",
@@ -3045,7 +3062,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "therin-young"
     ],
     "year": 2023,
     "venue": "Frontiers in Plant Science",
@@ -3111,7 +3129,7 @@
       "Beatrise Bērziņa",
       "Umesha Peramune",
       "Echo L. Claus",
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "Kumar Saurabh",
       "Madison Strait",
       "B. Ganapathysubramanian",
@@ -3119,7 +3137,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "sungu-kim"
     ],
     "year": 2022,
     "venue": "ChemRxiv",
@@ -3136,7 +3155,7 @@
     "title": "Out-of-plane faradaic ion concentration polarization: stable focusing of charged analytes at a three-dimensional porous electrode",
     "authors": [
       "Beatrise Bērziņa",
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "Umesha Peramune",
       "Kumar Saurabh",
       "B. Ganapathysubramanian",
@@ -3144,7 +3163,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "sungu-kim"
     ],
     "year": 2022,
     "venue": "Lab on a Chip",
@@ -3162,12 +3182,13 @@
     "authors": [
       "Vinayak Bhat",
       "Parker Sornberger",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Rebekah Duke",
       "B. Ganapathysubramanian",
       "Chad Risko"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2022,
@@ -3259,7 +3280,7 @@
     "bibkey": "khanwale2022breakup",
     "title": "Breakup dynamics in primary jet atomization using mesh- and interface- refined Cahn-Hilliard Navier-Stokes",
     "authors": [
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Kumar Saurabh",
       "Masado Ishii",
       "Hari Sundar",
@@ -3267,7 +3288,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale"
     ],
     "year": 2022,
     "venue": "arXiv (Cornell University)",
@@ -3283,7 +3305,7 @@
     "bibkey": "khanwale2022fully",
     "title": "A fully-coupled framework for solving Cahn-Hilliard Navier-Stokes equations: Second-order, energy-stable numerical methods on adaptive octree based meshes",
     "authors": [
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Kumar Saurabh",
       "Milinda Fernando",
       "Victor M. Calo",
@@ -3293,7 +3315,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale"
     ],
     "year": 2022,
     "venue": "Computer Physics Communications",
@@ -3309,7 +3332,7 @@
     "bibkey": "khanwale2022projection",
     "title": "A projection-based, semi-implicit time-stepping approach for the Cahn-Hilliard Navier-Stokes equations on adaptive octree meshes",
     "authors": [
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Kumar Saurabh",
       "Masado Ishii",
       "Hari Sundar",
@@ -3318,7 +3341,8 @@
     ],
     "members": [
       "baskar",
-      "kumar-saurabh"
+      "kumar-saurabh",
+      "makrand-khanwale"
     ],
     "year": 2022,
     "venue": "Journal of Computational Physics",
@@ -3337,13 +3361,15 @@
     "bibkey": "kim2022computational",
     "title": "Computational framework for resolving boundary layers in electrochemical systems using weak imposition of Dirichlet boundary conditions",
     "authors": [
-      "Sun-Gu Kim",
-      "Makrand A. Khanwale",
+      "Sungu Kim",
+      "Makrand Khanwale",
       "Robbyn K. Anand",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "makrand-khanwale",
+      "sungu-kim"
     ],
     "year": 2022,
     "venue": "Finite Elements in Analysis and Design",
@@ -3409,11 +3435,12 @@
     "title": "Optimization framework for <scp>patient‐specific</scp> modeling under uncertainty",
     "authors": [
       "Joshua Mineroff",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "B. Ganapathysubramanian",
       "Adarsh Krishnamurthy"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "joshua-mineroff"
     ],
@@ -3457,11 +3484,12 @@
     "authors": [
       "Ramin Noruzi",
       "Eunhee Lim",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Michael L. Chabinyc",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "ramin-noruzi"
     ],
@@ -3482,13 +3510,14 @@
     "bibkey": "pokuri2022algorithm",
     "title": "Algorithm 1025: PARyOpt: A Software for <u>P</u> arallel <u>A</u> synchronous <u>R</u> emote Ba <u>y</u> esian <u>Opt</u> imization",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Alec Lofquist",
       "Chad Risko",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "alec-lofquist",
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2022,
@@ -3505,13 +3534,14 @@
     "bibkey": "pokuri2022computational",
     "title": "Computational characterization of charge transport resiliency in molecular solids",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Sean M. Ryno",
       "Ramin Noruzi",
       "Chad Risko",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "ramin-noruzi"
     ],
@@ -3695,11 +3725,12 @@
     "authors": [
       "Kiran Vaddi",
       "Hao Liu",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "B. Ganapathysubramanian",
       "Olga Wodo"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "olga-wodo"
     ],
@@ -3718,7 +3749,7 @@
     "title": "Multi-fidelity machine learning models for structure–property mapping of organic electronics",
     "authors": [
       "Chih-Hsuan (Bella) Yang",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Xian Yeow Lee",
       "Sangeeth Balakrishnan",
       "Chinmay Hegde",
@@ -3726,6 +3757,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "chih-hsuan-yang"
     ],
@@ -3851,13 +3883,14 @@
     "title": "Designing asymmetrically modified nanochannel sensors using virtual EIS",
     "authors": [
       "Sivaranjani Devarakonda",
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "B. Ganapathysubramanian",
       "Pranav Shrotriya"
     ],
     "members": [
       "baskar",
-      "sivaranjani-devarakonda"
+      "sivaranjani-devarakonda",
+      "sungu-kim"
     ],
     "year": 2021,
     "venue": "Electrochimica Acta",
@@ -4033,7 +4066,7 @@
       "Xian Yeow Lee",
       "Joshua R. Waite",
       "Chih-Hsuan (Bella) Yang",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Ameya Joshi",
       "Aditya Balu",
       "Chinmay Hegde",
@@ -4041,6 +4074,7 @@
       "Soumik Sarkar"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "chih-hsuan-yang"
     ],
@@ -4175,12 +4209,13 @@
       "Sean M. Ryno",
       "Ramin Noruzi",
       "Chamikara Karunasena",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Shi Li",
       "B. Ganapathysubramanian",
       "Chad Risko"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "ramin-noruzi"
     ],
@@ -4231,7 +4266,7 @@
       "Boshun Gao",
       "Milinda Fernando",
       "Songzhe Xu",
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Biswajit Khara",
       "Ming‐Chen Hsu",
       "Adarsh Krishnamurthy",
@@ -4243,6 +4278,7 @@
       "biswajit-khara",
       "boshun-gao",
       "kumar-saurabh",
+      "makrand-khanwale",
       "songzhe-xu"
     ],
     "year": 2021,
@@ -4354,12 +4390,13 @@
       "Ashlyn Rairdin",
       "Johnathon M. Shook",
       "Liza Van der Laan",
-      "Therin J. Young",
+      "Therin Young",
       "Jiaoping Zhang"
     ],
     "members": [
       "baskar",
-      "koushik-nagasubramanian"
+      "koushik-nagasubramanian",
+      "therin-young"
     ],
     "year": 2021,
     "venue": "Concepts and strategies in plant sciences",
@@ -4676,12 +4713,13 @@
       "Ameya Joshi",
       "Minsu Cho",
       "Viraj Shah",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Soumik Sarkar",
       "B. Ganapathysubramanian",
       "Chinmay Hegde"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2020,
@@ -4698,7 +4736,7 @@
     "bibkey": "khanwale2020simulating",
     "title": "Simulating two-phase flows with thermodynamically consistent energy stable Cahn-Hilliard Navier-Stokes equations on parallel adaptive octree based meshes",
     "authors": [
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Alec Lofquist",
       "Hari Sundar",
       "James A. Rossmanith",
@@ -4706,7 +4744,8 @@
     ],
     "members": [
       "alec-lofquist",
-      "baskar"
+      "baskar",
+      "makrand-khanwale"
     ],
     "year": 2020,
     "venue": "Journal of Computational Physics",
@@ -4722,12 +4761,13 @@
     "bibkey": "kim2020concentration",
     "title": "Concentration Enrichment, Separation, and Cation Exchange in Nanoliter-Scale Water-in-Oil Droplets",
     "authors": [
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "B. Ganapathysubramanian",
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sungu-kim"
     ],
     "year": 2020,
     "venue": "Journal of the American Chemical Society",
@@ -4768,13 +4808,15 @@
     "bibkey": "kim2020modeling",
     "title": "Modeling electrochemical systems with weakly imposed Dirichlet boundary conditions",
     "authors": [
-      "Sun-Gu Kim",
-      "Khanwale, Makrand A.",
+      "Sungu Kim",
+      "Makrand Khanwale",
       "Robbyn K. Anand",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "makrand-khanwale",
+      "sungu-kim"
     ],
     "year": 2020,
     "venue": "arXiv (Cornell University)",
@@ -4791,7 +4833,7 @@
     "title": "Determination of the Free Energies of Mixing of Organic Solutions through a Combined Molecular Dynamics and Bayesian Statistics Approach",
     "authors": [
       "Shi Li",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Sean M. Ryno",
       "Asare Nkansah",
       "Camron De’Vine",
@@ -4799,6 +4841,7 @@
       "Chad Risko"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2020,
@@ -4816,7 +4859,7 @@
     "title": "Automated trichome counting in soybean using advanced image‐processing techniques",
     "authors": [
       "Seyed Vahid Mirnezami",
-      "Therin J. Young",
+      "Therin Young",
       "Teshale Assefa",
       "Shelby Prichard",
       "Koushik Nagasubramanian",
@@ -4829,7 +4872,8 @@
     ],
     "members": [
       "baskar",
-      "koushik-nagasubramanian"
+      "koushik-nagasubramanian",
+      "therin-young"
     ],
     "year": 2020,
     "venue": "Applications in Plant Sciences",
@@ -4870,11 +4914,12 @@
     "title": "Quantifying the effects of noise on early states of spinodal decomposition:",
     "authors": [
       "Spencer Pfeifer",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Olga Wodo",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "olga-wodo",
       "spencer-pfeifer"
@@ -5026,11 +5071,12 @@
     "title": "Equilibrium microstructures of diblock copolymers under 3D confinement",
     "authors": [
       "Ananth Tenneti",
-      "David M. Ackerman",
+      "David Ackerman",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2020,
     "venue": "Computational Materials Science",
@@ -5098,12 +5144,13 @@
       "Joseph T. Banovetz",
       "Min Li",
       "Darshna Pagariya",
-      "Sun-Gu Kim",
+      "Sungu Kim",
       "B. Ganapathysubramanian",
       "Robbyn K. Anand"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sungu-kim"
     ],
     "year": 2019,
     "venue": "Micromachines",
@@ -5563,13 +5610,14 @@
     "bibkey": "pokuri2019grate",
     "title": "GRATE: A framework and software for GRaph based Analysis of Transmission Electron Microscopy images of polymer films",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Jacob Stimes",
       "Kathryn O’Hara",
       "Michael L. Chabinyc",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2019,
@@ -5586,13 +5634,14 @@
     "bibkey": "pokuri2019interpretable",
     "title": "Interpretable deep learning for guided microstructure-property explorations in photovoltaics",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Sambuddha Ghosal",
       "Apurva Kokate",
       "Soumik Sarkar",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2019,
@@ -5612,12 +5661,13 @@
       "Viraj Shah",
       "Ameya Joshi",
       "Sambuddha Ghosal",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Soumik Sarkar",
       "B. Ganapathysubramanian",
       "Chinmay Hegde"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2019,
@@ -6214,7 +6264,7 @@
     "bibkey": "khanwale2018simulating",
     "title": "Simulating two-phase flows using a thermodynamically consistent coupled Cahn-Hilliard Navier-Stokes framework",
     "authors": [
-      "Makrand A. Khanwale",
+      "Makrand Khanwale",
       "Alec Lofquist",
       "Soojung Hur",
       "H. G. Keshava Sundar",
@@ -6222,7 +6272,8 @@
     ],
     "members": [
       "alec-lofquist",
-      "baskar"
+      "baskar",
+      "makrand-khanwale"
     ],
     "year": 2018,
     "venue": "Bulletin of the American Physical Society",
@@ -6315,11 +6366,12 @@
     "title": "Process optimization for microstructure-dependent properties in thin film organic electronics",
     "authors": [
       "Spencer Pfeifer",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Pengfei Du",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "pengfei-du",
       "spencer-pfeifer"
@@ -6338,13 +6390,14 @@
     "bibkey": "pokuri2018interpretable",
     "title": "Interpretable deep learning for guided structure-property explorations in photovoltaics",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Sambuddha Ghosal",
       "Apurva Kokate",
       "B. Ganapathysubramanian",
       "Soumik Sarkar"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2018,
@@ -6361,13 +6414,14 @@
     "bibkey": "pokuri2018paryopt",
     "title": "PARyOpt: A software for Parallel Asynchronous Remote Bayesian Optimization",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Alec Lofquist",
       "Chad Risko",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "alec-lofquist",
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2018,
@@ -6384,13 +6438,14 @@
     "bibkey": "pokuri2018paryoptb",
     "title": "PARyOpt: A software for Parallel Asynchronous Remote Bayesian\\n Optimization",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Alec Lofquist",
       "Chad M Risko",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "alec-lofquist",
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2018,
@@ -6628,12 +6683,13 @@
     "authors": [
       "Rahul Singh",
       "Viraj Shah",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Soumik Sarkar",
       "B. Ganapathysubramanian",
       "Chinmay Hegde"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2018,
@@ -6848,7 +6904,7 @@
     "authors": [
       "Raymond T. Hickey",
       "Erin Jedlicka",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Adam E. Colbert",
       "Zaira I. Bedolla‐Valdez",
       "B. Ganapathysubramanian",
@@ -6856,6 +6912,7 @@
       "Adam J. Moulé"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2017,
@@ -6876,7 +6933,7 @@
       "Johnathon M. Shook",
       "Kyle Parmley",
       "Jiaoping Zhang",
-      "Hsiang Sing Naik",
+      "Hsiang (Marcus) Naik",
       "R. Higgins",
       "Soumik Sarkar",
       "Arti Singh",
@@ -6886,7 +6943,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hsiang-naik"
     ],
     "year": 2017,
     "venue": "Frontiers in Plant Science",
@@ -7070,7 +7128,7 @@
     "bibkey": "naik2017real",
     "title": "A real-time phenotyping framework using machine learning for plant stress severity rating in soybean",
     "authors": [
-      "Hsiang Sing Naik",
+      "Hsiang (Marcus) Naik",
       "Jiaoping Zhang",
       "Alec Lofquist",
       "Teshale Assefa",
@@ -7083,7 +7141,8 @@
     "members": [
       "alec-lofquist",
       "baskar",
-      "david-ackerman"
+      "david-ackerman",
+      "hsiang-naik"
     ],
     "year": 2017,
     "venue": "Plant Methods",
@@ -7100,13 +7159,14 @@
     "title": "Thermally induced texture flip in semiconducting polymer stabilized by epitaxial relationship.",
     "authors": [
       "Kathryn O’Hara",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Christopher J. Takacs",
       "Pierre M. Beaujuge",
       "B. Ganapathysubramanian",
       "Michael L. Chabinyc"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2017,
@@ -7146,7 +7206,7 @@
     "bibkey": "pokuri2017nanoscale",
     "title": "Nanoscale Morphology of Doctor Bladed versus Spin‐Coated Organic Photovoltaic Films",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Joseph Sit",
       "Olga Wodo",
       "Derya Baran",
@@ -7156,6 +7216,7 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "olga-wodo"
     ],
@@ -7225,7 +7286,7 @@
     "title": "Computer vision and machine learning for robust phenotyping in genome-wide studies",
     "authors": [
       "Jiaoping Zhang",
-      "Hsiang Sing Naik",
+      "Hsiang (Marcus) Naik",
       "Teshale Assefa",
       "Soumik Sarkar",
       "Ramya Reddy",
@@ -7234,7 +7295,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "hsiang-naik"
     ],
     "year": 2017,
     "venue": "Scientific Reports",
@@ -7250,13 +7312,14 @@
     "bibkey": "ackerman2016finite",
     "title": "A finite element approach to self-consistent field theory calculations of multiblock polymers",
     "authors": [
-      "David M. Ackerman",
+      "David Ackerman",
       "Kris T. Delaney",
       "Glenn H. Fredrickson",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2016,
     "venue": "Journal of Computational Physics",
@@ -7272,11 +7335,12 @@
     "bibkey": "ackerman2016morphology",
     "title": "Morphology of diblock copolymers under confinement",
     "authors": [
-      "David M. Ackerman",
+      "David Ackerman",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2016,
     "venue": "Bulletin of the American Physical Society",
@@ -7293,7 +7357,7 @@
     "title": "A Bayesian Network approach to County-Level Corn Yield Prediction using historical data and expert knowledge",
     "authors": [
       "Vikas Chawla",
-      "Hsiang Sing Naik",
+      "Hsiang (Marcus) Naik",
       "Adedotun Akintayo",
       "Dermot J. Hayes",
       "Patrick S. Schnable",
@@ -7303,6 +7367,7 @@
     "members": [
       "adedotun-akintayo",
       "baskar",
+      "hsiang-naik",
       "vikas-chawla"
     ],
     "year": 2016,
@@ -7695,10 +7760,11 @@
     "bibkey": "pokuri2016morphology",
     "title": "Morphology control in polymer blend fibers—a high throughput computing approach",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2016,
@@ -7871,11 +7937,12 @@
     "bibkey": "ackerman2015parallel",
     "title": "Parallel framework for wormlike chains using self consistent field theory",
     "authors": [
-      "David M. Ackerman",
+      "David Ackerman",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2015,
     "venue": "Bulletin of the American Physical Society",
@@ -8077,10 +8144,11 @@
     "bibkey": "pokuri2015tailoring",
     "title": "Tailoring the morphology of polymer blend particles: 3D simulations and linear stability analysis",
     "authors": [
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar"
     ],
     "year": 2015,
@@ -8194,11 +8262,12 @@
     "authors": [
       "Olga Wodo",
       "Jarosław Żola",
-      "Balaji Sesha Sarath Pokuri",
+      "Balaji Pokuri",
       "Pengfei Du",
       "B. Ganapathysubramanian"
     ],
     "members": [
+      "balaji-pokuri",
       "baskar",
       "olga-wodo",
       "pengfei-du"
@@ -8373,12 +8442,13 @@
     "authors": [
       "Jordon Pace",
       "Nigel Lee",
-      "Hsiang Sing Naik",
+      "Hsiang (Marcus) Naik",
       "B. Ganapathysubramanian",
       "Thomas Lübberstedt"
     ],
     "members": [
       "baskar",
+      "hsiang-naik",
       "nigel-lee"
     ],
     "year": 2014,
@@ -8705,7 +8775,7 @@
     "bibkey": "jaeger2012nanoscale",
     "title": "Nanoscale surface roughness affects low Reynolds number flow: Experiments and modeling",
     "authors": [
-      "Robert G. Jaeger",
+      "Robert Jaeger",
       "Juan Ren",
       "Yu Xie",
       "Sriram Sundararajan",
@@ -8714,6 +8784,7 @@
     ],
     "members": [
       "baskar",
+      "robert-jaeger",
       "yu-xie"
     ],
     "year": 2012,

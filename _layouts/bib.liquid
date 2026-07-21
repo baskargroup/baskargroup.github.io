@@ -187,9 +187,12 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Plain-language summary (Baskar Group custom field) -->
+    <!-- Plain-language summary (Baskar Group custom field): click to expand; open on home -->
     {% if entry.summary %}
-      <div class="bib-summary" style="margin:.35rem 0;font-size:.92rem;">{{ entry.summary }}</div>
+      <details class="bib-summary-wrap"{% if page.url == '/' %} open{% endif %}>
+        <summary class="bib-summary-toggle">Summary</summary>
+        <div class="bib-summary">{{ entry.summary }}</div>
+      </details>
     {% endif %}
     <!-- Theme chips (Baskar Group custom field) -->
     {% if entry.themes %}

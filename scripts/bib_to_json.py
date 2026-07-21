@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -16,8 +17,30 @@ AUTHORS_YML = ROOT / "_data" / "authors.yml"
 OUT = ROOT / "assets" / "json" / "papers.json"
 
 
+def _fold(tok):
+    nfkd = unicodedata.normalize("NFKD", tok or "")
+    stripped = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]", "", stripped.lower())
+
+
+def norm_key(name):
+    """Normalize an author name to 'firstname lastname' (ascii, no middle names/
+    initials, order-insensitive). Matches 'Makrand A. Khanwale' to 'Makrand
+    Khanwale' and handles 'Last, First'."""
+    name = (name or "").strip()
+    if "," in name:  # "Last, First"
+        last, first = name.split(",", 1)
+        toks = (first + " " + last).split()
+    else:
+        toks = name.split()
+    toks = [t for t in (_fold(x) for x in toks) if t]
+    if len(toks) >= 2:
+        return toks[0] + " " + toks[-1]
+    return " ".join(toks)
+
+
 def load_author_map():
-    """Return {variant_lower: (canonical, person_slug_or_None)}."""
+    """Return {norm_key: (canonical, person_slug_or_None)}, keyed on first+last."""
     import yaml
     mapping = {}
     if AUTHORS_YML.exists():
@@ -25,8 +48,9 @@ def load_author_map():
             canonical = row.get("canonical", "")
             person = row.get("person")
             for variant in [canonical, *row.get("variants", [])]:
-                if variant:
-                    mapping[variant.strip().lower()] = (canonical, person)
+                key = norm_key(variant)
+                if key:
+                    mapping[key] = (canonical, person)
     return mapping
 
 
@@ -37,7 +61,7 @@ def split_authors(field):
 def canonicalize(authors, author_map):
     canon, members = [], []
     for name in authors:
-        canonical, person = author_map.get(name.lower(), (name, None))
+        canonical, person = author_map.get(norm_key(name), (name, None))
         canon.append(canonical)
         if person:
             members.append(person)
