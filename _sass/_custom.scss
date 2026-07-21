@@ -27,6 +27,7 @@
   --global-accent-tint: #e6f4f7;
   --global-accent-text: #0e7490;
   --global-on-accent: #ffffff;
+  --global-highlight: #b45309; // amber, reserved for value/impact moments
   --global-link: #1a5fb4;
   --global-link-hover: #14498c;
 
@@ -42,8 +43,10 @@
 @mixin dark-tokens {
   --global-bg-color: #0f1216; --global-surface: #171b21; --global-elevated: #1e232b;
   --global-text-color: #e7eaef; --global-text-color-light: #9aa3b2; --global-divider-color: #2a2f38;
-  --global-theme-color: #0e7490; --global-accent-hover: #0c6070; --global-accent-tint: #0c2a30;
-  --global-accent-text: #5fd3e6; --global-on-accent: #ffffff;
+  // brighter cyan fill pops on black; dark text sits on the bright fill
+  --global-theme-color: #22d3ee; --global-accent-hover: #67e8f9; --global-accent-tint: #0c2a30;
+  --global-accent-text: #22d3ee; --global-on-accent: #06232b;
+  --global-highlight: #fbbf24;
   --global-link: #74b0ff; --global-link-hover: #a3c9ff;
   --card-shadow: 0 1px 2px rgba(0, 0, 0, .4); --card-shadow-hover: 0 4px 14px rgba(0, 0, 0, .5);
 }
@@ -80,6 +83,7 @@ h3 { font-weight: 500; line-height: 1.3; letter-spacing: -.005em; }
 /* ---- Wordmark ---- */
 .bg-wordmark { display: inline-flex; align-items: center; gap: .5rem; text-decoration: none; color: inherit; }
 .bg-mark { color: var(--global-theme-color); flex: 0 0 auto; border-radius: 6px; }
+.bg-mark g { stroke: var(--global-on-accent); } // mesh strokes adapt to the tile fill (light/dark)
 .bg-wordmark-txt { font-size: 1.15rem; font-weight: 500; color: var(--global-text-color); line-height: 1; }
 .bg-wordmark-txt b { font-weight: 700; }
 

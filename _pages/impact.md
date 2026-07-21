@@ -41,10 +41,10 @@ Our research does not stay in journals. We turn computational advances into tool
 <style>
   .stats-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
   .stat { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; padding: 1rem; text-align: center; }
-  .stat-value { font-size: 1.9rem; font-weight: 800; color: var(--global-accent-text, #0e7490); line-height: 1.1; }
+  .stat-value { font-size: 1.9rem; font-weight: 800; color: var(--global-highlight, #b45309); line-height: 1.1; }
   .stat-label { font-size: .82rem; margin-top: .3rem; }
   .stat-note { font-size: .75rem; color: var(--global-text-color-light, #828282); margin-top: .2rem; }
-  .impact-cta { border: 1px solid var(--global-divider-color, #e0e0e0); border-left: 4px solid var(--global-theme-color, #0e7490); border-radius: 8px; padding: 1.1rem 1.3rem; margin: 2rem 0 1rem; background: rgba(14, 116, 144, .04); }
+  .impact-cta { border: 1px solid var(--global-divider-color, #e0e0e0); border-left: 4px solid var(--global-highlight, #b45309); border-radius: 8px; padding: 1.1rem 1.3rem; margin: 2rem 0 1rem; background: rgba(180, 83, 9, .06); }
   .impact-cta h3 { margin: 0 0 .4rem; font-size: 1.2rem; }
   .impact-cta p { margin: 0; }
   .impact-todo { margin-top: 1.5rem; font-size: .85rem; color: var(--global-text-color-light, #828282); }
