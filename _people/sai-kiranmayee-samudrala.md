@@ -1,5 +1,6 @@
 ---
 name: "Sai Kiranmayee Samudrala"
+name_variants: ["S.K. Samudrala"]
 slug: sai-kiranmayee-samudrala
 role: alumni
 alumni_type: phd

@@ -1,5 +1,6 @@
 ---
 name: "Kahnietta Pr'Out"
+name_variants: ["Kahntinetta Monique Pr'Out"]
 slug: kahnietta-pr-out
 role: alumni
 alumni_type: ms

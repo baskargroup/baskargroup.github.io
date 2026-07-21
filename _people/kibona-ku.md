@@ -1,5 +1,6 @@
 ---
 name: "Kibona Ku"
+name_variants: ["Kibon Ku"]
 slug: kibona-ku
 role: phd
 started: "Aug 2024"

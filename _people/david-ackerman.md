@@ -1,5 +1,6 @@
 ---
 name: "David Ackerman"
+name_variants: ["D L Ackerman"]
 slug: david-ackerman
 role: alumni
 alumni_type: postdoc

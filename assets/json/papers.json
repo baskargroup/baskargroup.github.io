@@ -112,13 +112,14 @@
     "bibkey": "ku2026hs",
     "title": "HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs",
     "authors": [
-      "Kibon Ku",
+      "Kibona Ku",
       "Zaki Jubery",
       "Krishnamurthy, Adarsh",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
+      "kibona-ku",
       "zaki-jubery"
     ],
     "year": 2026,
@@ -921,7 +922,7 @@
     "bibkey": "kim2025soybean",
     "title": "Soybean maturity prediction using two‐dimensional contour plots from drone‐based time series imagery",
     "authors": [
-      "B. F. Kim",
+      "Bitgoeul (Chloe) Kim",
       "Samuel W. Blair",
       "Zaki Jubery",
       "Soumik Sarkar",
@@ -933,6 +934,7 @@
     ],
     "members": [
       "baskar",
+      "bitgoeul-kim",
       "zaki-jubery"
     ],
     "year": 2025,
@@ -949,7 +951,7 @@
     "bibkey": "ku2025sc",
     "title": "SC-NeRF: NeRF-Based Point Cloud Reconstruction Using a Stationary Camera for Agricultural Applications",
     "authors": [
-      "Kibon Ku",
+      "Kibona Ku",
       "Zaki Jubery",
       "Eduardo Rodríguez-Martínez",
       "Aditya Balu",
@@ -959,6 +961,7 @@
     ],
     "members": [
       "baskar",
+      "kibona-ku",
       "zaki-jubery"
     ],
     "year": 2025,
@@ -2272,7 +2275,7 @@
     "bibkey": "kim2024soybean",
     "title": "Soybean Maturity Prediction using 2D Contour Plots from Drone based Time\\n Series Imagery",
     "authors": [
-      "B. F. Kim",
+      "Bitgoeul (Chloe) Kim",
       "Samuel W. Blair",
       "Zaki Jubery",
       "Soumik Sarkar",
@@ -2282,6 +2285,7 @@
     ],
     "members": [
       "baskar",
+      "bitgoeul-kim",
       "zaki-jubery"
     ],
     "year": 2024,
@@ -3786,7 +3790,7 @@
       "Chih-Hsuan (Bella) Yang",
       "Balaji Pokuri",
       "Xian Yeow Lee",
-      "Sangeeth Balakrishnan",
+      "Sangeet Balakrishnan",
       "Chinmay Hegde",
       "Soumik Sarkar",
       "B. Ganapathysubramanian"
@@ -3794,7 +3798,8 @@
     "members": [
       "balaji-pokuri",
       "baskar",
-      "chih-hsuan-yang"
+      "chih-hsuan-yang",
+      "sangeet-balakrishnan"
     ],
     "year": 2022,
     "venue": "Computational Materials Science",
@@ -4131,14 +4136,15 @@
     "bibkey": "mirnezami2021detection",
     "title": "Detection of the Progression of Anthesis in Field-Grown Maize Tassels: A Case Study",
     "authors": [
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Srikant Srinivasan",
       "Yan Zhou",
       "Patrick S. Schnable",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vahid-mirnezami"
     ],
     "year": 2021,
     "venue": "Plant Phenomics",
@@ -4189,7 +4195,7 @@
       "Koushik Nagasubramanian",
       "Zaki Jubery",
       "Fateme Fotouhi Ardakani",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Asheesh K. Singh",
       "Arti Singh",
       "Soumik Sarkar",
@@ -4198,6 +4204,7 @@
     "members": [
       "baskar",
       "koushik-nagasubramanian",
+      "vahid-mirnezami",
       "zaki-jubery"
     ],
     "year": 2021,
@@ -4421,7 +4428,7 @@
       "Kevin G. Falk",
       "Sarah E. Jones",
       "Zaki Jubery",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Koushik Nagasubramanian",
       "Kyle Parmley",
       "Ashlyn Rairdin",
@@ -4434,6 +4441,7 @@
       "baskar",
       "koushik-nagasubramanian",
       "therin-young",
+      "vahid-mirnezami",
       "zaki-jubery"
     ],
     "year": 2021,
@@ -4507,7 +4515,7 @@
     "authors": [
       "Yan Zhou",
       "Aaron Kusmec",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Lakshmi Attigala",
       "Srikant Srinivasan",
       "Zaki Jubery",
@@ -4518,6 +4526,7 @@
     ],
     "members": [
       "baskar",
+      "vahid-mirnezami",
       "zaki-jubery"
     ],
     "year": 2021,
@@ -4623,7 +4632,7 @@
     "authors": [
       "Kevin G. Falk",
       "Zaki Jubery",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Kyle Parmley",
       "Soumik Sarkar",
       "Arti Singh",
@@ -4634,6 +4643,7 @@
     ],
     "members": [
       "baskar",
+      "vahid-mirnezami",
       "zaki-jubery"
     ],
     "year": 2020,
@@ -4678,13 +4688,14 @@
     "authors": [
       "Sophia Ghanimeh",
       "Charbel Abou Khalil",
-      "D Wilfried Stoecklein",
+      "Daniel Stoecklein",
       "Aditya Kommasojula",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "aditya-kommasojula",
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2020,
     "venue": "Renewable Energy",
@@ -4899,7 +4910,7 @@
     "bibkey": "mirnezami2020automated",
     "title": "Automated trichome counting in soybean using advanced image‐processing techniques",
     "authors": [
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Therin Young",
       "Teshale Assefa",
       "Shelby Prichard",
@@ -4914,7 +4925,8 @@
     "members": [
       "baskar",
       "koushik-nagasubramanian",
-      "therin-young"
+      "therin-young",
+      "vahid-mirnezami"
     ],
     "year": 2020,
     "venue": "Applications in Plant Sciences",
@@ -5453,14 +5465,15 @@
       "Oskar Siemianowski",
       "Bin Yuan",
       "Timothy K. Egner",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Kara R. Lind",
       "B. Ganapathysubramanian",
       "Vincenzo Venditti",
       "Ludovico Cademartiri"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vahid-mirnezami"
     ],
     "year": 2019,
     "venue": "Proceedings of the National Academy of Sciences",
@@ -5500,7 +5513,7 @@
     "bibkey": "mirnezami2019semi",
     "title": "Semi-Automated Feature Extraction from RGB Images for Sorghum Panicle Architecture",
     "authors": [
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "B. Ganapathysubramanian",
       "Yan Zhou",
       "Aaron Kusmec",
@@ -5511,7 +5524,8 @@
       "Patrick S. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vahid-mirnezami"
     ],
     "year": 2019,
     "venue": "Iowa State University Research and Demonstration Farms Progress Reports",
@@ -6606,13 +6620,14 @@
     "authors": [
       "Snehal Shete",
       "Srikant Srinivasan",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "B. Ganapathysubramanian",
       "Patrick S. Schnable",
       "Timothy A. Gonsalves"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vahid-mirnezami"
     ],
     "year": 2018,
     "venue": "",
@@ -6776,7 +6791,7 @@
     "title": "Shaped 3D microcarriers for adherent cell culture and analysis",
     "authors": [
       "Chueh‐Yu Wu",
-      "D Wilfried Stoecklein",
+      "Daniel Stoecklein",
       "Aditya Kommajosula",
       "Jonathan Lin",
       "Keegan Owsley",
@@ -6784,7 +6799,8 @@
       "Dino Di Carlo"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "daniel-stoecklein"
     ],
     "year": 2018,
     "venue": "Microsystems \\& Nanoengineering",
@@ -6832,7 +6848,7 @@
     "authors": [
       "Yan Zhou",
       "Srikant Srinivasan",
-      "Seyed Vahid Mirnezami",
+      "Vahid Mirnezami",
       "Aaron Kusmec",
       "Qi Fu",
       "Lakshmi Attigala",
@@ -6841,7 +6857,8 @@
       "Patrick S. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "vahid-mirnezami"
     ],
     "year": 2018,
     "venue": "PLANT PHYSIOLOGY",
@@ -7525,13 +7542,14 @@
     "title": "Exploring future climate trends on the thermal performance of attics: Part 1 – Standard roofs",
     "authors": [
       "Anthony Fontanini",
-      "Kahntinetta Monique Pr'Out",
+      "Kahnietta Pr'Out",
       "Jan Kośny",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "anthony-fontanini",
-      "baskar"
+      "baskar",
+      "kahnietta-pr-out"
     ],
     "year": 2016,
     "venue": "Energy and Buildings",
@@ -8377,11 +8395,12 @@
     "bibkey": "ackerman2014massively",
     "title": "A massively parallel space-time formulation for SCFT",
     "authors": [
-      "D L Ackerman",
+      "David Ackerman",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "david-ackerman"
     ],
     "year": 2014,
     "venue": "Bulletin of the American Physical Society",
@@ -8635,13 +8654,14 @@
     "authors": [
       "Scott Broderick",
       "Joaquín Peralta",
-      "S.K. Samudrala",
+      "Sai Kiranmayee Samudrala",
       "Kaustubh Kaluskar",
       "B. Ganapathysubramanian",
       "K. Rajan"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "sai-kiranmayee-samudrala"
     ],
     "year": 2013,
     "venue": "Microscopy and Microanalysis",
@@ -8747,7 +8767,7 @@
     "bibkey": "samudrala2013graph",
     "title": "A graph-theoretic approach for characterization of precipitates from atom probe tomography data",
     "authors": [
-      "S.K. Samudrala",
+      "Sai Kiranmayee Samudrala",
       "Olga Wodo",
       "Santosh K. Suram",
       "Scott Broderick",
@@ -8756,7 +8776,8 @@
     ],
     "members": [
       "baskar",
-      "olga-wodo"
+      "olga-wodo",
+      "sai-kiranmayee-samudrala"
     ],
     "year": 2013,
     "venue": "Computational Materials Science",

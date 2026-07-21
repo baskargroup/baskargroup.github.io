@@ -1,5 +1,6 @@
 ---
 name: "Daniel Stoecklein"
+name_variants: ["D Wilfried Stoecklein"]
 slug: daniel-stoecklein
 role: alumni
 alumni_type: phd

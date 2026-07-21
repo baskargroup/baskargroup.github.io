@@ -1,5 +1,6 @@
 ---
 name: "Sangeet Balakrishnan"
+name_variants: ["Sangeeth Balakrishnan"]
 slug: sangeet-balakrishnan
 role: alumni
 alumni_type: ms

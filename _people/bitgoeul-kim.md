@@ -1,5 +1,6 @@
 ---
 name: "Bitgoeul (Chloe) Kim"
+name_variants: ["B. F. Kim"]
 slug: bitgoeul-kim
 role: phd
 started: "Aug 2022"
