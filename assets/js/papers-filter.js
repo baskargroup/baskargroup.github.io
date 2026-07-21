@@ -65,7 +65,7 @@
       var statusSel = bar.querySelector("#pf-status");
       var qInput = bar.querySelector("#pf-q");
       var countEl = bar.querySelector("#pf-count");
-      var state = { year: "", status: "", q: "", theme: "" };
+      var state = { year: "", status: "", q: "", theme: "", member: "" };
 
       function readURL() {
         var p = new URLSearchParams(location.search);
@@ -73,6 +73,7 @@
         state.status = p.get("status") || "";
         state.q = p.get("q") || "";
         state.theme = p.get("theme") || "";
+        state.member = p.get("member") || "";
       }
       function writeURL() {
         var p = new URLSearchParams();
@@ -80,6 +81,7 @@
         if (state.status) p.set("status", state.status);
         if (state.q) p.set("q", state.q);
         if (state.theme) p.set("theme", state.theme);
+        if (state.member) p.set("member", state.member);
         var qs = p.toString();
         history.replaceState(null, "", qs ? "?" + qs : location.pathname);
       }
@@ -87,6 +89,8 @@
         if (state.year && String(e.data.year) !== state.year) return false;
         if (state.status && e.data.status !== state.status) return false;
         if (state.theme && (e.data.themes || []).indexOf(state.theme) < 0) return false;
+        // member: filter by group-member slug (robust, from papers.json members)
+        if (state.member && (e.data.members || []).indexOf(state.member) < 0) return false;
         if (state.q) {
           var hay = (e.data.title + " " + (e.data.authors || []).join(" ") + " " + (e.data.summary || "")).toLowerCase();
           if (hay.indexOf(state.q.toLowerCase()) < 0) return false;
