@@ -29,6 +29,10 @@ version, merge identifiers, and remove the rest.
 | `sharma2018transferb` (arXiv) | `sharma2018transfer` (ISU repo) | Transfer-operator framework for monitoring building indoor environments |
 | `nagasubramanian2019plant` (Plant Methods) | `nagasubramanian2018explaining` (arXiv) | Explainable hyperspectral plant disease identification (charcoal rot) |
 | `shook2021crop` (PLoS ONE) | `shook2018integrating` (bioRxiv) | Integrating genotype + weather for soybean yield prediction |
+| `nagasubramanian2018hyperspectral` (Plant Methods) | `nagasubramanian2017hyperspectral`, `nagasubramanian2017hyperspectralb` (both arXiv) | Hyperspectral band selection (GA + SVM) for charcoal rot |
+| `dyja2018parallel` (SIAM J. Sci. Comput.) | `dyja2016massively` (arXiv) | Massively parallel-in-space-time adaptive finite element framework |
+| `busch2011near` (arXiv) | `busch2011rapid` (repo, likely same work) | Real-time tip-sample force estimation for high-speed AFM |
+| `wodo2011graph` (arXiv) | `wodo2011graphb` (arXiv, identical) | Graph-based morphology characterization for organic solar cells |
 
 Also note: `chiteri2022nappn` (NAPPN conf. abstract, already enriched) is the conference-abstract precursor of `chiteri2023dissecting` (leaf morphology GWAS) and is a dedup candidate too.
 

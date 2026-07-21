@@ -7308,8 +7308,11 @@
     "venue": "Applied Physics Letters",
     "doi": "10.1063/1.4979315",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "design-opt"
+    ],
+    "summary": "We combine a genetic algorithm with molecular dynamics to design isotope-engineered graphene, systematically tuning its structure to control thermal conductivity.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7356,8 +7359,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1710.08619",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "sciml"
+    ],
+    "summary": "We apply interpretable deep learning to plant stress phenotyping, building a model that identifies specific stresses while showing which image features drive its decisions.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -7377,8 +7383,11 @@
     "venue": "Wind Energy",
     "doi": "10.1002/we.2108",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We add a stochastic, data-driven inflow model to wind turbine analysis, capturing the natural variability of wind for more realistic design under uncertainty.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7436,8 +7445,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2016.02066",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use Fourier coefficients to quantify soybean canopy shape, capturing diversity in light interception and canopy closure that affects crop growth and yield.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7459,8 +7471,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1704.05885",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "design-opt"
+    ],
+    "summary": "We integrate optimization, parallel computing, and plant physiology into a framework for designing crop ideotypes, exploring which trait combinations perform best.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -7508,8 +7523,11 @@
     "venue": "PLoS ONE",
     "doi": "10.1371/journal.pone.0174680",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "design-opt"
+    ],
+    "summary": "We build a farm-level precision land management framework that integrates seed selection and irrigation decisions to guide farmland planning.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7556,8 +7574,11 @@
     "venue": "Big Data Analytics",
     "doi": "10.1201/b21822-7",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "design-opt"
+    ],
+    "summary": "We recast engineering problems as inverse and design problems and use deep learning to solve them, learning the conditions that produce desired outcomes.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7636,8 +7657,11 @@
     "venue": "Plant Methods",
     "doi": "10.1186/s13007-017-0173-7",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build a real-time machine learning phenotyping framework that collects plant traits accurately and quickly, accelerating the pace of plant research.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7712,8 +7736,10 @@
     "venue": "Advanced Energy Materials",
     "doi": "10.1002/aenm.201701269",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We compare the nanoscale morphology of doctor-bladed and spin-coated organic photovoltaic films, linking processing method to the structure that governs efficiency.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7739,8 +7765,11 @@
     "venue": "",
     "doi": "10.1115/dscc2017-5207",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We design an autonomous ground-based mobile platform that collects multi-modal data for spatio-temporal plant phenotyping in agricultural research fields.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7763,8 +7792,11 @@
     "venue": "Scientific Reports",
     "doi": "10.1038/srep46368",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "sciml"
+    ],
+    "summary": "We use deep learning for flow sculpting, learning efficient representations that speed the design of pillar sequences that shape microfluidic flow.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7790,8 +7822,11 @@
     "venue": "Scientific Reports",
     "doi": "10.1038/srep44048",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use computer vision and machine learning for robust plant stress phenotyping, replacing slow manual evaluation and enabling genetic studies of stress response.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -7862,8 +7897,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1608.05127",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We predict county-level corn yields before harvest with a Bayesian network, giving probabilistic forecasts useful for production and market decisions.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -7954,8 +7992,10 @@
     "venue": "Journal of Building Performance Simulation",
     "doi": "10.1080/19401493.2015.1134669",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env"
+    ],
+    "summary": "We develop and verify a thermal model of attic spaces, one of the most dynamic parts of the building envelope, to help evaluate attic designs and materials.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8073,8 +8113,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1603.08135",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We construct low-dimensional stochastic wind models from high-fidelity data, reproducing wind variability that standard turbine simulations miss.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -8167,8 +8210,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "built-env"
+    ],
+    "summary": "We report research needs for coupled food-energy-water systems, identifying where economic and biophysical models must be linked to address sustainability.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -8215,8 +8261,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1605.05368",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "design-opt"
+    ],
+    "summary": "We use deep recurrent networks to learn action sequences that cause a target shape transformation, applying sequence learning to design problems like flow sculpting.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -8239,8 +8288,10 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env"
+    ],
+    "summary": "We combine experiments and computation to study how building shape affects passive cooling by natural ventilation, comparing a conical-roofed house design.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -8260,8 +8311,11 @@
     "venue": "Modelling and Simulation in Materials Science and Engineering",
     "doi": "10.1088/0965-0393/24/6/065012",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We model and control the morphology of polymer blend fibers with a high-throughput computational approach, guiding the manufacture of functional fibers.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8284,8 +8338,11 @@
     "venue": "Journal of Fluids Engineering",
     "doi": "10.1115/1.4034953",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We automate the design of microfluidic flow sculpting devices with a multiresolution search that finds pillar sequences producing target flow shapes.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8391,8 +8448,10 @@
     "venue": "Advanced Functional Materials",
     "doi": "10.1002/adfm.201503943",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We study vertical phase separation in small-molecule and polymer blends, showing how stratification governs the performance of organic thin-film transistors.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8416,8 +8475,10 @@
     "venue": "Computer Graphics Forum",
     "doi": "10.1111/cgf.12652",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We build a visualization framework that detects and explores performance-related features in organic photovoltaic bulk heterojunction morphologies.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8460,8 +8521,11 @@
     "venue": "",
     "doi": "10.1115/imece2015-53491",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "numerics"
+    ],
+    "summary": "We use high-fidelity CFD to model natural ventilation in a solar house, quantifying how airflow supports thermal comfort and air quality in sustainable buildings.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8509,8 +8573,10 @@
     "venue": "The Journal of Physical Chemistry C",
     "doi": "10.1021/acs.jpcc.5b08581",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We show, in experiment and theory, that high-dielectric BaTiO3 nanoparticle additives change charge behavior in polythiophene and fullerene solar cells.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8532,8 +8598,10 @@
     "venue": "ACS Macro Letters",
     "doi": "10.1021/acsmacrolett.5b00007",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We create bicontinuous, microemulsion-like morphologies in organic solar cells, forming the interpenetrating donor and acceptor domains thought to be optimal.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8579,8 +8647,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "sciml"
+    ],
+    "summary": "We use deep neural networks to learn hierarchical features for the efficient design of microfluidic flow sculpting devices.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -8602,8 +8673,11 @@
     "venue": "BMC Genomics",
     "doi": "10.1186/s12864-015-1226-9",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We map the genetics of maize seedling root development through a genome-wide association study, linking root traits to nutrient uptake and productivity.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8667,8 +8741,11 @@
     "venue": "Scientific Programming",
     "doi": "10.1155/2015/180214",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "hpc",
+      "sciml"
+    ],
+    "summary": "We build a parallel framework for dimensionality reduction of large-scale data, preserving key properties while cutting computational cost.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8739,8 +8816,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1506.01111",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We optimize sequences of micropillars for flow sculpting, searching the rich design space to produce desired inertial flow deformations.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -8854,8 +8934,10 @@
     "venue": "Computing in Science \\& Engineering",
     "doi": "10.1109/mcse.2013.134",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "hpc"
+    ],
+    "summary": "We aggregate distributed computing resources through federation, giving ordinary users access to capacity beyond a single center for demanding problems.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8878,8 +8960,10 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env"
+    ],
+    "summary": "We perform high-resolution performance analysis of a large building's thermal loads, showing how better thermal management can cut its substantial energy use.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -8920,8 +9004,10 @@
     "venue": "ACS Applied Materials \\& Interfaces",
     "doi": "10.1021/am506015r",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We show how electrode materials and thermal annealing sequences control the sensitive bulk-heterojunction morphology of polymer solar cells.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8945,8 +9031,11 @@
     "venue": "PLoS ONE",
     "doi": "10.1371/journal.pone.0108255",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We analyze maize seedling roots with a high-throughput platform, quantifying the genetic and phenotypic variation in root architecture that affects establishment.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8969,8 +9058,11 @@
     "venue": "Integrating materials and manufacturing innovation",
     "doi": "10.1186/s40192-014-0017-5",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "hpc"
+    ],
+    "summary": "We release a software framework for data dimensionality reduction applied to materials science, helping establish process-structure-property relationships.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -8995,8 +9087,11 @@
     "venue": "Lab on a Chip",
     "doi": "10.1039/c4lc00653d",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "design-opt"
+    ],
+    "summary": "We design micropillar sequences that produce fundamental inertial flow transformations, enabling passive flow control for reactions, separation, and materials.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9037,8 +9132,11 @@
     "venue": "Applied Physics Letters",
     "doi": "10.1063/1.4898136",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We reveal how evaporating thin films phase-separate as they dry, connecting solvent-based processing to the morphology of the resulting polymer film.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9115,8 +9213,10 @@
     "venue": "",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "hpc"
+    ],
+    "summary": "We use elastic federations of computing resources to run uncertainty quantification, design optimization, and parametric studies that map onto many machines.",
     "selected": false,
     "preview": "",
     "status": "other"
@@ -9283,8 +9383,11 @@
     "venue": "Applied Physics Letters",
     "doi": "10.1063/1.4764293",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics",
+      "numerics"
+    ],
+    "summary": "We show that nanoscale surface roughness alters low Reynolds number flow, and that this stochastic roughness can be harnessed to direct microfluidic transport.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9325,8 +9428,11 @@
     "venue": "Modelling and Simulation in Materials Science and Engineering",
     "doi": "10.1088/0965-0393/20/3/035015",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We simulate heterogeneous polymer photovoltaic devices computationally, linking the blended active-layer structure to device efficiency.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9353,8 +9459,10 @@
     "venue": "Energy \\& Environmental Science",
     "doi": "10.1039/c2ee03478f",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We show that doping organic photovoltaic films enhances the separation of photogenerated electron-hole pairs, a key step for efficient solar cells.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9398,8 +9506,11 @@
     "venue": "Journal of Applied Physics",
     "doi": "10.1063/1.4752864",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We computationally characterize the bulk-heterojunction nanomorphology of organic solar cells, quantifying the structure that controls device efficiency.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9463,8 +9574,10 @@
     "venue": "Journal of Applied Physics",
     "doi": "10.1063/1.3698204",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We model the deflection of a microcantilever caused by molecular binding such as DNA hybridization, informing the design of label-free biosensors.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9485,8 +9598,10 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1109.0334",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We build a near real-time framework that extracts tip-sample forces in atomic force microscopy, supporting high-speed nanoscale imaging.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -9575,8 +9690,10 @@
     "venue": "Applied Physics Letters",
     "doi": "10.1063/1.3671999",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat"
+    ],
+    "summary": "We study how charge recombination mechanisms and strength in polymer solar cells depend on processing conditions, informing more efficient device fabrication.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9596,8 +9713,10 @@
     "venue": "Journal of Micromechanics and Microengineering",
     "doi": "10.1088/0960-1317/21/2/025012",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We experimentally analyze how the surface roughness of etched microchannels evolves, since roughness shapes fluid behavior in micro and nanoscale devices.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -9640,8 +9759,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1106.3536",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We introduce a graph-based formulation to characterize the morphology of organic solar cells, turning complex nanostructure into quantitative descriptors.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -9684,8 +9806,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.1109.3239",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "numerics"
+    ],
+    "summary": "We model how morphology evolves during solvent-based fabrication of organic films, tracking phase separation as the solvent evaporates.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -9810,8 +9935,10 @@
     "venue": "",
     "doi": "10.1109/cdc.2009.5400476",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We present a transfer operator method, drawn from ergodic theory, for the optimal control of complex fluid flows.",
     "selected": false,
     "preview": "",
     "status": "published"
