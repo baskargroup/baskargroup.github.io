@@ -12,7 +12,8 @@ version, merge identifiers, and remove the rest.
 | `gamdha2025gratev2` (Materials Advances) | `gamdha2024gratev2` (arXiv) | GRATEv2 |
 | `kim2025soybean` (Plant Phenome J.) | `kim2024soybean` (arXiv) | Soybean maturity from 2D contour plots |
 | `rabeh2025benchmarking` (Comms. Eng.) | `rabeh2024geometry` (arXiv, "Geometry Matters") | Benchmarking SciML for flow around complex geometries |
-| `jignasu2024stitch` (STITCH) | `jignasu2024sdfconnect` (likely same work, verify) | Topology-constrained neural surface reconstruction |
+| `jignasu2024stitch` (STITCH) | `jignasu2024sdfconnect` (same work: sparse point cloud + persistent homology, single connected component) | Topology-constrained neural surface reconstruction |
+| `chiteri2023dissecting` (Plant Phenome J.) | `chiteri2023dissectingb` (ISU repo) | Genetic architecture of mungbean leaf morphology |
 
 Note: a fuller dedup pass over the whole bibliography (fuzzy-title, arXiv-vs-DOI)
 would likely find more; this list is only what enrichment happened to surface.

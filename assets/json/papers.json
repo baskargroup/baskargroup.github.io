@@ -2605,8 +2605,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20112",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We develop a class-specific data augmentation strategy that picks the most effective image transformations for each plant stress category, improving deep learning classifiers for stress identification.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2643,8 +2646,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2409.18032",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We release FlowBench, a large benchmark of fluid flow simulations over complex geometries, so scientific machine learning models can be trained and tested on realistic flow physics.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2672,8 +2678,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20106",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use hyperspectral leaf reflectance to derive plant traits that are otherwise slow or costly to measure by hand, discovering and quantifying reflectance-based phenotypes.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2703,8 +2712,11 @@
     "venue": "Agronomy",
     "doi": "10.3390/agronomy14061181",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We classify canopy stress in soybean from three-dimensional point cloud data, capturing plant structure that flat top-down drone images miss.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2726,8 +2738,11 @@
     "venue": "Macromolecules",
     "doi": "10.1021/acs.macromol.3c00987",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We use machine learning to find the local molecular arrangements that create strong electronic coupling in semiconducting polymers, guiding the design of better organic electronic materials.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2754,8 +2769,10 @@
     "venue": "ACS Sensors",
     "doi": "10.1021/acssensors.2c02480",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We combine electrokinetic pre-enrichment of nucleic acids on probe-modified microbeads with label-free electrochemical detection, improving sensitivity for nucleic acid sensing.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2779,8 +2796,11 @@
     "venue": "Preprints.org",
     "doi": "10.20944/preprints202310.1232.v1",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We predict soybean yield by combining soil data with hyperspectral reflectance from plants and soil, comparing models to see which data sources help breeders most.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2812,8 +2832,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2306.02507",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We build a deep learning system that identifies insects in real time from citizen-science images, recognizing both beneficial insects and harmful pests for integrated pest management.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2839,8 +2862,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20062",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We map the genetics of leaf shape in mungbean, an increasingly important protein crop, linking measurable leaf traits to the genomic regions that control them.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2893,8 +2919,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2023.1108355",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We use self-supervised learning to classify and segment maize kernels and identify the embryo without heavy manual labeling, supporting seed quality and food security work.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2948,8 +2977,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2305.19398",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We build a domain-specific language that generates finite element code on adaptive octree meshes for complex geometries, letting scientists write high-level PDE solvers that run efficiently in parallel.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2972,8 +3004,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2309.02465",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt",
+      "sciml"
+    ],
+    "summary": "We explore large language models as a foundation for additive manufacturing, testing how well they read and reason about the G-code that drives 3D printers.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3005,8 +3040,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20079",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We show that self-supervised learning improves classification of agriculturally important insects when labeled images are scarce, helping automate pest monitoring.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -3032,8 +3070,11 @@
     "venue": "Iowa State University Digital Repository (Iowa State University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "microfluidics"
+    ],
+    "summary": "We develop a variational finite element method for direct numerical simulation of electrokinetic transport governed by the Poisson-Nernst-Planck equations, aiding the design of electrochemical and electrokinetic devices.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -3056,8 +3097,10 @@
     "venue": "Analytical Chemistry",
     "doi": "10.1021/acs.analchem.3c02414",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We drive cell lysis and enzymatic assays inside individual droplets using electromechanical forces, enabling molecular analysis of small numbers of cells.",
     "selected": false,
     "preview": "",
     "status": "published"

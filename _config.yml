@@ -232,6 +232,9 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - tests/
+  - scripts/
+  - .venv/
 keep_files:
   - CNAME
   - .nojekyll
