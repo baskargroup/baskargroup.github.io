@@ -113,12 +113,13 @@
     "title": "HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs",
     "authors": [
       "Kibon Ku",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Krishnamurthy, Adarsh",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2026,
     "venue": "Open MIND",
@@ -366,7 +367,7 @@
     "title": "Leveraging Vision Language Models for Specialized Agricultural Tasks",
     "authors": [
       "Muhammad Arshad",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Tirtho Roy",
       "Rim Nassiri",
       "Asheesh Kumar Singh",
@@ -378,7 +379,8 @@
       "Soumik Sarkar"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "",
@@ -446,13 +448,14 @@
     "title": "AI-assisted Image-Based Phenotyping Reveals Genetic Architecture of Pod Traits in Mungbean ( <i>Vigna radiata</i> L.)",
     "authors": [
       "Venkata Naresh Boddepalli",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Somak Dutta",
       "B. Ganapathysubramanian",
       "Arti Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
@@ -500,7 +503,7 @@
       "Shivani Chiranjeevi",
       "Hossein Zaremehrjerdi",
       "Zi K. Deng",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ari Grele",
       "Arti Singh",
       "Asheesh Kumar Singh",
@@ -513,7 +516,8 @@
     "members": [
       "baskar",
       "hossein-zaremehrjerdi",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "arXiv (Cornell University)",
@@ -678,7 +682,7 @@
     "title": "FloraForge: LLM-Assisted Procedural Generation of Editable and Analysis-Ready 3D Plant Geometric Models For Agricultural Applications",
     "authors": [
       "Mozhgan Hadadi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Patrick S. Schnable",
       "Arti Singh",
       "Bedřich Beneš",
@@ -687,7 +691,8 @@
     ],
     "members": [
       "baskar",
-      "mozhgan-hadadi"
+      "mozhgan-hadadi",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "arXiv (Cornell University)",
@@ -706,7 +711,7 @@
       "Mozhgan Hadadi",
       "Mehdi Saraeian",
       "Jackson Godbersen",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Yawei Li",
       "Lakshmi Attigala",
       "Aditya Balu",
@@ -717,7 +722,8 @@
     ],
     "members": [
       "baskar",
-      "mozhgan-hadadi"
+      "mozhgan-hadadi",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "Computers and Electronics in Agriculture",
@@ -917,7 +923,7 @@
     "authors": [
       "B. F. Kim",
       "Samuel W. Blair",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Soumik Sarkar",
       "Arti Singh",
       "Asheesh K. Singh",
@@ -926,7 +932,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "The Plant Phenome Journal",
@@ -943,7 +950,7 @@
     "title": "SC-NeRF: NeRF-Based Point Cloud Reconstruction Using a Stationary Camera for Agricultural Applications",
     "authors": [
       "Kibon Ku",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Eduardo Rodríguez-Martínez",
       "Aditya Balu",
       "Soumik Sarkar",
@@ -951,7 +958,8 @@
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "",
@@ -1107,7 +1115,7 @@
     "title": "Enhancing yield prediction from plot-level satellite imagery through genotype and environment feature disentanglement",
     "authors": [
       "Anirudha Powadi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Michael C. Tross",
       "Nikee Shrestha",
       "Lisa Coffey",
@@ -1117,7 +1125,8 @@
     ],
     "members": [
       "anirudha-powadi",
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "Frontiers in Plant Science",
@@ -1206,7 +1215,7 @@
     "title": "Accessing the effect of phyllotaxy and planting density on light interception in field-grown maize using 3D reconstructions",
     "authors": [
       "Nasla Saleem",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Aditya Balu",
       "Yan Zhou",
       "Yawei Li",
@@ -1216,7 +1225,8 @@
     ],
     "members": [
       "baskar",
-      "nasla-saleem"
+      "nasla-saleem",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "Smart Agricultural Technology",
@@ -1233,7 +1243,7 @@
     "title": "Accessing the Effect of Phyllotaxy and Planting Density on Light Use Efficiency in Field-Grown Maize Using 3d Reconstructions",
     "authors": [
       "Nasla Saleem",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Aditya Balu",
       "Yan Zhou",
       "Yawei Li",
@@ -1243,7 +1253,8 @@
     ],
     "members": [
       "baskar",
-      "nasla-saleem"
+      "nasla-saleem",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "SSRN Electronic Journal",
@@ -1356,7 +1367,7 @@
       "Lina López‐Corona",
       "Jonathan Turkus",
       "Lisa Coffey",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Yufeng Ge",
       "Soumik Sarkar",
       "James C. Schnable",
@@ -1365,7 +1376,8 @@
     ],
     "members": [
       "anirudha-powadi",
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "Plants People Planet",
@@ -1395,7 +1407,7 @@
       "Juan Di Salvo",
       "Dinakaran Elango",
       "Leonardo de Azevedo Peixoto",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Adarsh Krishnamurthy",
       "Arti Singh",
       "Arti Singh",
@@ -1405,7 +1417,8 @@
     "members": [
       "baskar",
       "hossein-zaremehrjerdi",
-      "nasla-saleem"
+      "nasla-saleem",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "Advances in agronomy",
@@ -1588,7 +1601,7 @@
     "authors": [
       "Hossein Zaremehrjerdi",
       "Lisa Coffey",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Huyu Liu",
       "Jon Turkus",
       "Kyle Linders",
@@ -1598,7 +1611,8 @@
     ],
     "members": [
       "baskar",
-      "hossein-zaremehrjerdi"
+      "hossein-zaremehrjerdi",
+      "zaki-jubery"
     ],
     "year": 2025,
     "venue": "arXiv (Cornell University)",
@@ -1615,7 +1629,7 @@
     "title": "Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions",
     "authors": [
       "Muhammad Arshad Arbab",
-      "Talukder Jubery",
+      "Zaki Jubery",
       "James Afful",
       "Anushrut Jignasu",
       "Aditya Balu",
@@ -1625,7 +1639,8 @@
     ],
     "members": [
       "baskar",
-      "james-afful"
+      "james-afful",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -1642,7 +1657,7 @@
     "title": "Evaluating Neural Radiance Fields for 3D Plant Geometry Reconstruction in Field Conditions",
     "authors": [
       "Muhammad Arshad",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "James Afful",
       "Anushrut Jignasu",
       "Aditya Balu",
@@ -1652,7 +1667,8 @@
     ],
     "members": [
       "baskar",
-      "james-afful"
+      "james-afful",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "Plant Phenomics",
@@ -1669,7 +1685,7 @@
     "title": "Evaluating Neural Radiance Fields (NeRFs) for 3D Plant Geometry Reconstruction in Field Conditions",
     "authors": [
       "Muhammad Arshad",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "James Afful",
       "Anushrut Jignasu",
       "Aditya Balu",
@@ -1679,7 +1695,8 @@
     ],
     "members": [
       "baskar",
-      "james-afful"
+      "james-afful",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "arXiv (Cornell University)",
@@ -1799,7 +1816,7 @@
       "Mojdeh Saadati",
       "Zi K. Deng",
       "Jayanth Koushik",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Daren S. Mueller",
       "Matthew E. O’Neal",
       "Nirav Merchant",
@@ -1812,7 +1829,8 @@
     "members": [
       "baskar",
       "mojdeh-saadati",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "PNAS Nexus",
@@ -2111,7 +2129,7 @@
       "Sarah Jones",
       "Timilehin T. Ayanlade",
       "Benjamin Fallen",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Arti Singh",
       "Arti Singh",
       "B. Ganapathysubramanian",
@@ -2120,7 +2138,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "The Plant Phenome Journal",
@@ -2255,14 +2274,15 @@
     "authors": [
       "B. F. Kim",
       "Samuel W. Blair",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Soumik Sarkar",
       "Arti Singh",
       "Asheesh Kumar Singh",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "arXiv (Cornell University)",
@@ -2304,14 +2324,15 @@
     "title": "Disentangling genotype and environment specific latent features for improved trait prediction using a compositional autoencoder",
     "authors": [
       "Anirudha Powadi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Michael C. Tross",
       "James C. Schnable",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "anirudha-powadi",
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "Frontiers in Plant Science",
@@ -2380,7 +2401,7 @@
       "Mojdeh Saadati",
       "Aditya Balu",
       "Shivani Chiranjeevi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Asheesh K. Singh",
       "Soumik Sarkar",
       "Arti Singh",
@@ -2389,7 +2410,8 @@
     "members": [
       "baskar",
       "mojdeh-saadati",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "Plant Phenomics",
@@ -2407,7 +2429,7 @@
     "authors": [
       "Nasla Saleem",
       "Aditya Balu",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Arti Singh",
       "Asheesh K. Singh",
       "Soumik Sarkar",
@@ -2415,7 +2437,8 @@
     ],
     "members": [
       "baskar",
-      "nasla-saleem"
+      "nasla-saleem",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "The Plant Phenome Journal",
@@ -2471,7 +2494,7 @@
     "authors": [
       "Michael C. Tross",
       "Marcin Grzybowski",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ryleigh J. Grove",
       "Aime V. Nishimwe",
       "J. Vladimir Torres‐Rodríguez",
@@ -2481,7 +2504,8 @@
       "James C. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "The Plant Phenome Journal",
@@ -2506,12 +2530,13 @@
       "Arti Singh",
       "Arti Singh",
       "B. Ganapathysubramanian",
-      "Talukder Z. Jubery"
+      "Zaki Jubery"
     ],
     "members": [
       "baskar",
       "shivani-chiranjeevi",
-      "therin-young"
+      "therin-young",
+      "zaki-jubery"
     ],
     "year": 2024,
     "venue": "Agronomy",
@@ -2607,7 +2632,7 @@
       "Mojdeh Sadaati",
       "Zi K. Deng",
       "Jayanth Koushik",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Daren S. Mueller",
       "Matthew E O Neal",
       "Nirav Merchant",
@@ -2619,7 +2644,8 @@
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "arXiv (Cornell University)",
@@ -2637,7 +2663,7 @@
     "authors": [
       "Kevin O. Chiteri",
       "Shivani Chiranjeevi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ashlyn Rairdin",
       "Somak Dutta",
       "B. Ganapathysubramanian",
@@ -2645,7 +2671,8 @@
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "The Plant Phenome Journal",
@@ -2663,7 +2690,7 @@
     "authors": [
       "Kevin O. Chiteri",
       "Shivani Chiranjeevi",
-      "Talukder Zaki Jubery",
+      "Zaki Jubery",
       "Ashlyn Rairdin",
       "Somak Dutta",
       "B. Ganapathysubramanian",
@@ -2671,7 +2698,8 @@
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "Iowa State University Digital Repository (Iowa State University)",
@@ -2691,13 +2719,14 @@
       "Koushik Nagasubramanian",
       "Ruidong Wang",
       "Ursula K. Frei",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Thomas Lübberstedt",
       "B. Ganapathysubramanian"
     ],
     "members": [
       "baskar",
-      "koushik-nagasubramanian"
+      "koushik-nagasubramanian",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "Frontiers in Plant Science",
@@ -2715,7 +2744,7 @@
     "authors": [
       "Jiale Feng",
       "Mojdeh Saadati",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Anushrut Jignasu",
       "Aditya Balu",
       "Yawei Li",
@@ -2727,7 +2756,8 @@
     ],
     "members": [
       "baskar",
-      "mojdeh-saadati"
+      "mojdeh-saadati",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "Computers and Electronics in Agriculture",
@@ -3051,7 +3081,7 @@
     "title": "“Canopy fingerprints” for characterizing three-dimensional point cloud data of soybean canopies",
     "authors": [
       "Therin Young",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Clayton N. Carley",
       "Matthew E. Carroll",
       "Soumik Sarkar",
@@ -3063,7 +3093,8 @@
     ],
     "members": [
       "baskar",
-      "therin-young"
+      "therin-young",
+      "zaki-jubery"
     ],
     "year": 2023,
     "venue": "Frontiers in Plant Science",
@@ -3080,7 +3111,7 @@
     "title": "Protocols for In Vivo Doubled Haploid (DH) Technology in Maize Breeding: From Haploid Inducer Development to Haploid Genome Doubling",
     "authors": [
       "Siddique I. Aboobucker",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ursula K. Frei",
       "Yu-Ru Chen",
       "Tyler L. Foster",
@@ -3088,7 +3119,8 @@
       "Thomas Lübberstedt"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2022,
     "venue": "Methods in molecular biology",
@@ -3209,14 +3241,15 @@
     "title": "Dissecting the Root Phenotypic and Genotypic Variability of the Iowa Mung Bean Diversity Panel",
     "authors": [
       "Kevin O. Chiteri",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Somak Dutta",
       "B. Ganapathysubramanian",
       "Steven B. Cannon",
       "Arti Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2022,
     "venue": "Frontiers in Plant Science",
@@ -3234,14 +3267,15 @@
     "authors": [
       "Kevin O. Chiteri",
       "Shivani Chiranjeevi",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ashlyn Rairdin",
       "B. Ganapathysubramanian",
       "Arti Singh"
     ],
     "members": [
       "baskar",
-      "shivani-chiranjeevi"
+      "shivani-chiranjeevi",
+      "zaki-jubery"
     ],
     "year": 2022,
     "venue": "",
@@ -3387,13 +3421,14 @@
     "authors": [
       "Jiabin Lin",
       "Xian Yeow Lee",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Shana Moothedath",
       "Soumik Sarkar",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2022,
     "venue": "2022 IEEE 61st Conference on Decision and Control (CDC)",
@@ -3956,7 +3991,7 @@
     "bibkey": "jubery2021machine",
     "title": "Using Machine Learning to Develop a Fully Automated Soybean Nodule Acquisition Pipeline (SNAP)",
     "authors": [
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Clayton N. Carley",
       "Arti Singh",
       "Arti Singh",
@@ -3966,7 +4001,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2021,
     "venue": "Plant Phenomics",
@@ -4151,7 +4187,7 @@
     "title": "How useful is active learning for image‐based plant phenotyping?",
     "authors": [
       "Koushik Nagasubramanian",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Fateme Fotouhi Ardakani",
       "Seyed Vahid Mirnezami",
       "Asheesh K. Singh",
@@ -4161,7 +4197,8 @@
     ],
     "members": [
       "baskar",
-      "koushik-nagasubramanian"
+      "koushik-nagasubramanian",
+      "zaki-jubery"
     ],
     "year": 2021,
     "venue": "The Plant Phenome Journal",
@@ -4383,7 +4420,7 @@
       "Kevin O. Chiteri",
       "Kevin G. Falk",
       "Sarah E. Jones",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Seyed Vahid Mirnezami",
       "Koushik Nagasubramanian",
       "Kyle Parmley",
@@ -4396,7 +4433,8 @@
     "members": [
       "baskar",
       "koushik-nagasubramanian",
-      "therin-young"
+      "therin-young",
+      "zaki-jubery"
     ],
     "year": 2021,
     "venue": "Concepts and strategies in plant sciences",
@@ -4472,14 +4510,15 @@
       "Seyed Vahid Mirnezami",
       "Lakshmi Attigala",
       "Srikant Srinivasan",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "James C. Schnable",
       "Maria G. Salas Fernandez",
       "B. Ganapathysubramanian",
       "Patrick S. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2021,
     "venue": "The Plant Cell",
@@ -4583,7 +4622,7 @@
     "title": "Computer vision and machine learning enabled soybean root phenotyping pipeline",
     "authors": [
       "Kevin G. Falk",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Seyed Vahid Mirnezami",
       "Kyle Parmley",
       "Soumik Sarkar",
@@ -4594,7 +4633,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2020,
     "venue": "Plant Methods",
@@ -4611,7 +4651,7 @@
     "title": "Soybean Root System Architecture Trait Study through Genotypic, Phenotypic, and Shape-Based Clusters",
     "authors": [
       "Kevin G. Falk",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Jamie A. O’Rourke",
       "Arti Singh",
       "Soumik Sarkar",
@@ -4619,7 +4659,8 @@
       "Asheesh K. Singh"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2020,
     "venue": "Plant Phenomics",
@@ -5293,13 +5334,14 @@
     "bibkey": "jubery2019silico",
     "title": "In silico design of crop ideotypes under a wide range of water availability",
     "authors": [
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "B. Ganapathysubramanian",
       "Matthew E. Gilbert",
       "Daniel Attinger"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2019,
     "venue": "Food and Energy Security",
@@ -5843,13 +5885,14 @@
     "title": "Utilization of Reduced Haploid Vigor for Phenomic Discrimination of Haploid and Diploid Maize Seedlings",
     "authors": [
       "Kimberly Vanous",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Ursula K. Frei",
       "B. Ganapathysubramanian",
       "Thomas Lübberstedt"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2019,
     "venue": "The Plant Phenome Journal",
@@ -5915,7 +5958,7 @@
     "authors": [
       "Zihao Zheng",
       "Stefan Hey",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Huyu Liu",
       "Yang Yu",
       "Lisa Coffey",
@@ -5927,7 +5970,8 @@
       "Patrick S. Schnable"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2019,
     "venue": "PLANT PHYSIOLOGY",
@@ -6241,14 +6285,15 @@
     "bibkey": "jubery2018measurements",
     "title": "Measurements of maize root plasticity under water stress in hydroponic chambers",
     "authors": [
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Sisi Liu",
       "Thomas Lübberstedt",
       "B. Ganapathysubramanian",
       "Daniel Attinger"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2018,
     "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
@@ -6929,7 +6974,7 @@
     "bibkey": "jubery2017deploying",
     "title": "Deploying Fourier Coefficients to Unravel Soybean Canopy Diversity",
     "authors": [
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "Johnathon M. Shook",
       "Kyle Parmley",
       "Jiaoping Zhang",
@@ -6944,7 +6989,8 @@
     ],
     "members": [
       "baskar",
-      "hsiang-naik"
+      "hsiang-naik",
+      "zaki-jubery"
     ],
     "year": 2017,
     "venue": "Frontiers in Plant Science",
@@ -6960,13 +7006,14 @@
     "bibkey": "jubery2017integrating",
     "title": "Integrating optimization with thermodynamics and plant physiology for crop ideotype design",
     "authors": [
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "B. Ganapathysubramanian",
       "Matthew E. Gilbert",
       "Daniel Attinger"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2017,
     "venue": "arXiv (Cornell University)",
@@ -7010,11 +7057,12 @@
     "authors": [
       "Qi Li",
       "Guiping Hu",
-      "Talukder Z. Jubery",
+      "Zaki Jubery",
       "B. Ganapathysubramanian"
     ],
     "members": [
-      "baskar"
+      "baskar",
+      "zaki-jubery"
     ],
     "year": 2017,
     "venue": "PLoS ONE",
