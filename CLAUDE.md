@@ -6,6 +6,8 @@ Project memory for Claude Code. Loaded automatically every session. Keep it unde
 
 The Baskar Group website (Iowa State University), built on the al-folio Jekyll theme and served at `https://baskar-group.github.io`. The master spec is `docs/PLAN.md`; the pre-execution evaluation and amendments are in `docs/plan-evaluation.md`. Work strictly phase by phase (PLAN.md Section 14). The approved launch target is an MVP: Phases 0-4 plus a minimal homepage, then layer the rest.
 
+**Resume point: read `docs/STATUS.md` first** — current state, what is in flight (member photos), and next steps.
+
 ## Golden rules
 
 - PR only. Never push to `main`. Every change goes through a feature branch and a pull request, for humans, scripts, and Claude Code alike.
