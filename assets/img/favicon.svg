@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Baskar Group">
-  <rect x="1" y="1" width="30" height="30" rx="7" fill="#0e7490"/>
-  <g fill="none" stroke="#ffffff" stroke-width="1.9" stroke-linejoin="round">
+  <rect x="1" y="1" width="30" height="30" rx="7" fill="#f59e0b"/>
+  <g fill="none" stroke="#231a02" stroke-width="1.9" stroke-linejoin="round">
     <path d="M16 7 L25 23 L7 23 Z"/>
     <path d="M11.5 15 L20.5 15 L16 23 Z"/>
   </g>

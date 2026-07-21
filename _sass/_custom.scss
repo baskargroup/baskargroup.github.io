@@ -22,12 +22,12 @@
   --global-text-color: #16181d;
   --global-text-color-light: #545b68;
   --global-divider-color: #e2e5ea;
-  --global-theme-color: #0e7490;
-  --global-accent-hover: #155e75;
-  --global-accent-tint: #e6f4f7;
-  --global-accent-text: #0e7490;
+  --global-theme-color: #b45309;
+  --global-accent-hover: #92400e;
+  --global-accent-tint: #f8ecd9;
+  --global-accent-text: #b45309;
   --global-on-accent: #ffffff;
-  --global-highlight: #b45309; // amber, reserved for value/impact moments
+  --global-highlight: #0e7490; // cyan, reserved for value/impact moments
   --global-link: #1a5fb4;
   --global-link-hover: #14498c;
 
@@ -43,10 +43,10 @@
 @mixin dark-tokens {
   --global-bg-color: #0f1216; --global-surface: #171b21; --global-elevated: #1e232b;
   --global-text-color: #e7eaef; --global-text-color-light: #9aa3b2; --global-divider-color: #2a2f38;
-  // brighter cyan fill pops on black; dark text sits on the bright fill
-  --global-theme-color: #22d3ee; --global-accent-hover: #67e8f9; --global-accent-tint: #0c2a30;
-  --global-accent-text: #22d3ee; --global-on-accent: #06232b;
-  --global-highlight: #fbbf24;
+  // bright gold fill pops on black; near-black text sits on the bright fill
+  --global-theme-color: #fbbf24; --global-accent-hover: #fcd34d; --global-accent-tint: #2a1f05;
+  --global-accent-text: #fbbf24; --global-on-accent: #231a02;
+  --global-highlight: #22d3ee;
   --global-link: #74b0ff; --global-link-hover: #a3c9ff;
   --card-shadow: 0 1px 2px rgba(0, 0, 0, .4); --card-shadow-hover: 0 4px 14px rgba(0, 0, 0, .5);
 }
