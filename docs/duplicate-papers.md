@@ -1,9 +1,16 @@
-# Duplicate publications to reconcile
+# Duplicate publications (RECONCILED 2026-07-21)
 
-Surfaced during enrichment: the same paper appears under multiple bibkeys because
-the preprint/repository title differs slightly from the published title, so the
-AMEND-3 dedup (normalized-title match) did not catch them. Keep the published
-version, merge identifiers, and remove the rest.
+Surfaced during enrichment: the same paper appeared under multiple bibkeys because
+the preprint/repository title differed slightly from the published title, so the
+AMEND-3 dedup (normalized-title match) did not catch them.
+
+**Status: reconciled.** `scripts/dedup.py` removed the 30 duplicate entries below
+(374 -> 344 publications), merging the arXiv `eprint` identifier into the kept
+entry where the kept version lacked one (11 entries gained a preprint pointer:
+arshad2024evaluating, gamdha2025gratev2, kim2025soybean, rabeh2025benchmarking,
+saurabh2023cyrsoxs, riera2021deep, pokuri2022algorithm, pokuri2019interpretable,
+nagasubramanian2019plant, nagasubramanian2018hyperspectral, dyja2018parallel).
+The table below is retained as the record of what was merged into what.
 
 | Keep (published) | Duplicates to remove | Paper |
 | --- | --- | --- |

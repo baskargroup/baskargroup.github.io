@@ -656,7 +656,7 @@
     "summary": "We build a near real-time pipeline that extracts structural measurements from high-resolution electron microscopy of polymers, auto-tuning itself and signaling when enough data has been collected.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "gamdha2025high",
@@ -1011,7 +1011,7 @@
     "summary": "We predict soybean days to maturity from drone image time series using two-dimensional contour plots, giving breeders an automated alternative to visual maturity ratings.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "ku2025sc",
@@ -1273,7 +1273,7 @@
     "summary": "We benchmark scientific machine learning methods for predicting flow around complex geometries, moving the field beyond the simple shapes most studies rely on.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "rabeh2025predicting",
@@ -1741,34 +1741,6 @@
     "status": "preprint"
   },
   {
-    "bibkey": "arbab2024evaluating",
-    "title": "Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions",
-    "authors": [
-      "Muhammad Arshad Arbab",
-      "Zaki Jubery",
-      "James Afful",
-      "Anushrut Jignasu",
-      "Aditya Balu",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "Adarsh Krishnamurthy"
-    ],
-    "members": [
-      "baskar",
-      "james-afful",
-      "zaki-jubery"
-    ],
-    "year": 2024,
-    "venue": "Iowa State University Digital Repository (Iowa State University)",
-    "doi": "",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "arshad2024evaluating",
     "title": "Evaluating Neural Radiance Fields for 3D Plant Geometry Reconstruction in Field Conditions",
     "authors": [
@@ -1795,34 +1767,6 @@
       "sciml"
     ],
     "summary": "We evaluate neural radiance field methods for reconstructing plants in 3D from indoor to field conditions, showing where they capture the fine geometric detail phenotyping needs.",
-    "selected": false,
-    "preview": "",
-    "status": "published"
-  },
-  {
-    "bibkey": "arshad2024evaluatingb",
-    "title": "Evaluating Neural Radiance Fields (NeRFs) for 3D Plant Geometry Reconstruction in Field Conditions",
-    "authors": [
-      "Muhammad Arshad",
-      "Zaki Jubery",
-      "James Afful",
-      "Anushrut Jignasu",
-      "Aditya Balu",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "Adarsh Krishnamurthy"
-    ],
-    "members": [
-      "baskar",
-      "james-afful",
-      "zaki-jubery"
-    ],
-    "year": 2024,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2402.10344",
-    "url": "",
-    "themes": [],
-    "summary": "",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2010,29 +1954,6 @@
     "status": "published"
   },
   {
-    "bibkey": "duke2024mixb",
-    "title": "In the Mix: A Workshop Merging Computational Chemistry and Electrochemistry Alongside Data Science",
-    "authors": [
-      "Rebekah Duke",
-      "Amelia Kaye Sweet",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "et al. (ed. )"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2024,
-    "venue": "Iowa State University Digital Repository (Iowa State University)",
-    "doi": "",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "other"
-  },
-  {
     "bibkey": "feuer2024zero",
     "title": "Zero‐shot insect detection via weak language supervision",
     "authors": [
@@ -2103,30 +2024,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "gamdha2024gratev2",
-    "title": "GRATEV2.0: Computational Tools for Real-time Analysis of High-throughput High-resolution TEM (HRTEM) Images of Conjugated Polymers",
-    "authors": [
-      "Dhruv Gamdha",
-      "Ryan Fair",
-      "Adarsh Krishnamurthy",
-      "Enrique D. Gomez",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "dhruv-gamdha"
-    ],
-    "year": 2024,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2411.03474",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "ganapathysubramanian2024aiira",
@@ -2207,30 +2104,6 @@
       "sciml"
     ],
     "summary": "We test how well large language models can read, debug, and manipulate G-code, the language that controls 3D printers, toward more reliable additive manufacturing.",
-    "selected": false,
-    "preview": "",
-    "status": "published"
-  },
-  {
-    "bibkey": "jignasu2024sdfconnect",
-    "title": "SDFConnect: Neural Implicit Surface Reconstruction of a Sparse Point Cloud with Topological Constraints",
-    "authors": [
-      "Anushrut Jignasu",
-      "Aditya Balu",
-      "Soumik Sarkar",
-      "Chinmay Hegde",
-      "B. Ganapathysubramanian",
-      "Adarsh Krishnamurthy"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2024,
-    "venue": "",
-    "doi": "10.1109/cvprw63382.2024.00536",
-    "url": "",
-    "themes": [],
-    "summary": "",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -2417,33 +2290,6 @@
     "status": "preprint"
   },
   {
-    "bibkey": "kim2024soybean",
-    "title": "Soybean Maturity Prediction using 2D Contour Plots from Drone based Time\\n Series Imagery",
-    "authors": [
-      "Bitgoeul (Chloe) Kim",
-      "Samuel W. Blair",
-      "Zaki Jubery",
-      "Soumik Sarkar",
-      "Arti Singh",
-      "Asheesh Kumar Singh",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "bitgoeul-kim",
-      "zaki-jubery"
-    ],
-    "year": 2024,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2412.09696",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "liu2024active",
     "title": "Active learning for regression of structure–property mapping: the importance of sampling and representation",
     "authors": [
@@ -2495,32 +2341,6 @@
       "phenotyping"
     ],
     "summary": "We separate genotype-specific and environment-specific features when predicting plant traits, improving trait prediction over standard dimensionality-reduction methods.",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "rabeh2024geometry",
-    "title": "Geometry Matters: Benchmarking Scientific ML Approaches for Flow Prediction around Complex Geometries",
-    "authors": [
-      "Ali Rabeh",
-      "Ethan Herron",
-      "Aditya Balu",
-      "Soumik Sarkar",
-      "Chinmay Hegde",
-      "Adarsh Krishnamurthy",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "ali-rabeh",
-      "baskar"
-    ],
-    "year": 2024,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2501.01453",
-    "url": "",
-    "themes": [],
-    "summary": "",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -2872,33 +2692,6 @@
     "status": "published"
   },
   {
-    "bibkey": "chiteri2023dissectingb",
-    "title": "Dissecting the genetic architecture of leaf morphology traits in mungbean (Vigna radiata (L.) Wizcek) using genome-wide association study",
-    "authors": [
-      "Kevin O. Chiteri",
-      "Shivani Chiranjeevi",
-      "Zaki Jubery",
-      "Ashlyn Rairdin",
-      "Somak Dutta",
-      "B. Ganapathysubramanian",
-      "Arti Singh"
-    ],
-    "members": [
-      "baskar",
-      "shivani-chiranjeevi",
-      "zaki-jubery"
-    ],
-    "year": 2023,
-    "venue": "Iowa State University Digital Repository (Iowa State University)",
-    "doi": "",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "other"
-  },
-  {
     "bibkey": "dong2023self",
     "title": "Self-supervised maize kernel classification and segmentation for embryo identification",
     "authors": [
@@ -3198,7 +2991,7 @@
     "summary": "We build CyRSoXS, a GPU-accelerated virtual instrument that simulates polarized resonant soft X-ray scattering, letting researchers link molecular structure to scattering signatures far faster than before.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "saurabh2023scalable",
@@ -3368,34 +3161,6 @@
     "status": "published"
   },
   {
-    "bibkey": "berzina2022electrokinetic",
-    "title": "Electrokinetic Enrichment and Label-Free Electrochemical Detection of Nucleic Acids by Conduction of Ions Along the Surface of Bioconjugated Beads for Point-of-Care Testing",
-    "authors": [
-      "Beatrise Bērziņa",
-      "Umesha Peramune",
-      "Echo L. Claus",
-      "Sungu Kim",
-      "Kumar Saurabh",
-      "Madison Strait",
-      "B. Ganapathysubramanian",
-      "Robbyn K. Anand"
-    ],
-    "members": [
-      "baskar",
-      "kumar-saurabh",
-      "sungu-kim"
-    ],
-    "year": 2022,
-    "venue": "ChemRxiv",
-    "doi": "10.26434/chemrxiv-2022-n3qsl",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "berzina2022out",
     "title": "Out-of-plane faradaic ion concentration polarization: stable focusing of charged analytes at a three-dimensional porous electrode",
     "authors": [
@@ -3478,35 +3243,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "chiteri2022nappn",
-    "title": "NAPPN Annual Conference Abstract: Combining Image Analysis and GWAS to Dissect the Genetic Architecture of Mung Bean Leaf Morphology Traits",
-    "authors": [
-      "Kevin O. Chiteri",
-      "Shivani Chiranjeevi",
-      "Zaki Jubery",
-      "Ashlyn Rairdin",
-      "B. Ganapathysubramanian",
-      "Arti Singh"
-    ],
-    "members": [
-      "baskar",
-      "shivani-chiranjeevi",
-      "zaki-jubery"
-    ],
-    "year": 2022,
-    "venue": "",
-    "doi": "10.22541/au.166497110.08549156/v1",
-    "url": "",
-    "themes": [
-      "phenotyping",
-      "cyberag"
-    ],
-    "summary": "We combine image-based leaf trait measurement with genome-wide association to dissect the genetics of mung bean leaf morphology.",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "hashemi2022feature",
@@ -3799,7 +3535,7 @@
     "summary": "We release PARyOpt, a Python Bayesian optimization library built for remote, asynchronous, and expensive function evaluations such as large simulations.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "pokuri2022computational",
@@ -3862,33 +3598,6 @@
     "status": "published"
   },
   {
-    "bibkey": "rairdin2022nappn",
-    "title": "NAPPN Annual Conference Abstract: Genome wide association study of sudden death syndrome in soybean using deep learning-based phenotyping",
-    "authors": [
-      "Ashlyn Rairdin",
-      "Fateme Fotouhi",
-      "Jiaoping Zhang",
-      "Daren S. Mueller",
-      "B. Ganapathysubramanian",
-      "Asheesh K. Singh",
-      "Somak Dutta",
-      "Soumik Sarkar",
-      "Arti Singh"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2022,
-    "venue": "",
-    "doi": "10.22541/au.166497104.42473667/v1",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "reynolds2022simulation",
     "title": "Simulation-guided analysis of resonant soft X-ray scattering for determining the microstructure of triblock copolymers",
     "authors": [
@@ -3921,37 +3630,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "saurabh2022cyrsoxs",
-    "title": "CyRSoXS: A GPU-accelerated virtual instrument for Polarized Resonant Soft X-ray Scattering (P-RSoXS)",
-    "authors": [
-      "Kumar Saurabh",
-      "Peter J. Dudenas",
-      "Eliot Gann",
-      "Veronica G. Reynolds",
-      "S. Mukherjee",
-      "Daniel F. Sunday",
-      "Tyler B. Martin",
-      "Peter A. Beaucage",
-      "Michael L. Chabinyc",
-      "Dean M. DeLongchamp",
-      "Adarsh Krishnamurthy",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "kumar-saurabh"
-    ],
-    "year": 2022,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2209.13121",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "sudharsan2022vorticity",
@@ -4087,57 +3765,6 @@
     "selected": false,
     "preview": "",
     "status": "preprint"
-  },
-  {
-    "bibkey": "chiteri2021dissecting",
-    "title": "Dissecting the root phenotypic and genotypic variability of the Iowa mungbean diversity panel",
-    "authors": [
-      "Kevin O. Chiteri",
-      "Arti Singh",
-      "Zaki Jubery",
-      "Steven B. Cannon",
-      "Somak Dutta",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "zaki-jubery"
-    ],
-    "year": 2021,
-    "venue": "",
-    "doi": "10.1002/essoar.10508311.1",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "cho2021differentiable",
-    "title": "Differentiable Programming for Piecewise Polynomial Functions",
-    "authors": [
-      "Minsu Cho",
-      "Ameya Joshi",
-      "Xian Yeow Lee",
-      "Aditya Balu",
-      "Adarsh Krishnamurthy",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "Chinmay Hegde"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2021,
-    "venue": "Iowa State University Digital Repository (Iowa State University)",
-    "doi": "",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "other"
   },
   {
     "bibkey": "cho2021differentiableb",
@@ -4518,7 +4145,7 @@
     "summary": "We fuse multiple drone-image views with deep learning to estimate soybean seed yield in breeding trials, giving a faster alternative to manual harvest measurement.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "ryno2021following",
@@ -4833,33 +4460,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "botelho2020deep",
-    "title": "Deep Generative Models that Solve PDEs: Distributed Computing for Training Large Data-Free Models",
-    "authors": [
-      "Sergio Botelho",
-      "Ameya Joshi",
-      "Biswajit Khara",
-      "Vinay Rao",
-      "Soumik Sarkar",
-      "Chinmay Hegde",
-      "Santi Adavani",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "biswajit-khara"
-    ],
-    "year": 2020,
-    "venue": "",
-    "doi": "10.1109/mlhpcai4s51975.2020.00013",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "botelho2020deepb",
@@ -5345,64 +4945,6 @@
     "status": "published"
   },
   {
-    "bibkey": "riera2020deep",
-    "title": "Deep Multi-view Image Fusion for Soybean Yield Estimation in Breeding Applications Deep Multi-view Image Fusion for Soybean Yield Estimation in Breeding Applications",
-    "authors": [
-      "Luis G. Riera",
-      "Matthew E. Carroll",
-      "Zhisheng Zhang",
-      "Johnathon M. Shook",
-      "Sambuddha Ghosal",
-      "Tianshuang Gao",
-      "Arti Singh",
-      "Sourabh Bhattacharya",
-      "B. Ganapathysubramanian",
-      "Asheesh K. Singh",
-      "Soumik Sarkar"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2020,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2011.07118",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "riera2020deepb",
-    "title": "Deep Multi-view Image Fusion for Soybean Yield Estimation in Breeding\\n Applications Deep Multi-view Image Fusion for Soybean Yield Estimation in\\n Breeding Applications",
-    "authors": [
-      "Luis G Riera",
-      "Matthew E. Carroll",
-      "Zhisheng Zhang",
-      "Johnathon M. Shook",
-      "Sambuddha Ghosal",
-      "Tianshuang Gao",
-      "Arti Singh",
-      "Sourabh Bhattacharya",
-      "B. Ganapathysubramanian",
-      "Asheesh K. Singh",
-      "Soumik Sarkar"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2020,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.2011.07118",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "singh2020challenges",
     "title": "Challenges and Opportunities in Machine-Augmented Plant Stress Phenotyping",
     "authors": [
@@ -5733,28 +5275,6 @@
     "status": "preprint"
   },
   {
-    "bibkey": "kommajosula2019highb",
-    "title": "High throughput, automated prediction of focusing patterns for inertial\\n microfluidics",
-    "authors": [
-      "Aditya Kommajosula",
-      "Jeong-Ah Kim",
-      "Wonhee Lee",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2019,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1901.05561",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "kommajosula2019shape",
     "title": "Shape-design for stabilizing micro-particles in inertial microfluidic flows",
     "authors": [
@@ -5921,7 +5441,7 @@
     "summary": "We identify plant diseases with an explainable 3D deep learning model on hyperspectral images, improving accuracy while revealing which spectral bands drive the prediction.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "noruzi2019nurbs",
@@ -6076,7 +5596,7 @@
     "summary": "We use interpretable deep learning to link the microstructure of organic solar cell films to their photovoltaic performance, guiding the search for better morphologies.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "shah2019encoding",
@@ -6528,35 +6048,6 @@
     "summary": "We build a parallel-in-space-and-time adaptive finite element framework for nonlinear time-dependent PDEs, tailored for massively parallel computation.",
     "selected": false,
     "preview": "",
-    "status": "published"
-  },
-  {
-    "bibkey": "gao2018multirobot",
-    "title": "A Novel Multirobot System for Distributed Phenotyping",
-    "authors": [
-      "Tianshuang Gao",
-      "Homagni Saha",
-      "Hamid Emadi",
-      "Jiaoping Zhang",
-      "Alec Lofquist",
-      "Arti Singh",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "Asheesh K. Singh",
-      "Sourabh Bhattacharya"
-    ],
-    "members": [
-      "alec-lofquist",
-      "baskar"
-    ],
-    "year": 2018,
-    "venue": "Preprints.org",
-    "doi": "10.20944/preprints201807.0614.v1",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
     "status": "preprint"
   },
   {
@@ -6781,31 +6272,6 @@
     "status": "preprint"
   },
   {
-    "bibkey": "nagasubramanian2018explaining",
-    "title": "Explaining hyperspectral imaging based plant disease identification: 3D CNN and saliency maps",
-    "authors": [
-      "Koushik Nagasubramanian",
-      "Sarah E. Jones",
-      "Asheesh K. Singh",
-      "Arti Singh",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar"
-    ],
-    "members": [
-      "baskar",
-      "koushik-nagasubramanian"
-    ],
-    "year": 2018,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1804.08831",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "nagasubramanian2018hyperspectral",
     "title": "Hyperspectral band selection using genetic algorithm and support vector machines for early identification of charcoal rot disease in soybean stems",
     "authors": [
@@ -6833,7 +6299,7 @@
     "summary": "We select the most informative hyperspectral bands with a genetic algorithm and support vector machine to detect charcoal rot in soybean, simplifying disease sensing.",
     "selected": false,
     "preview": "",
-    "status": "published"
+    "status": "preprint"
   },
   {
     "bibkey": "pfeifer2018process",
@@ -6859,78 +6325,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "pokuri2018interpretable",
-    "title": "Interpretable deep learning for guided structure-property explorations in photovoltaics",
-    "authors": [
-      "Balaji Pokuri",
-      "Sambuddha Ghosal",
-      "Apurva Kokate",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar"
-    ],
-    "members": [
-      "balaji-pokuri",
-      "baskar"
-    ],
-    "year": 2018,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1811.06067",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "pokuri2018paryopt",
-    "title": "PARyOpt: A software for Parallel Asynchronous Remote Bayesian Optimization",
-    "authors": [
-      "Balaji Pokuri",
-      "Alec Lofquist",
-      "Chad Risko",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "alec-lofquist",
-      "balaji-pokuri",
-      "baskar"
-    ],
-    "year": 2018,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1809.04668",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "pokuri2018paryoptb",
-    "title": "PARyOpt: A software for Parallel Asynchronous Remote Bayesian\\n Optimization",
-    "authors": [
-      "Balaji Pokuri",
-      "Alec Lofquist",
-      "Chad M Risko",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "alec-lofquist",
-      "balaji-pokuri",
-      "baskar"
-    ],
-    "year": 2018,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1809.04668",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "senthilarumugamveilukandammal2018big",
@@ -6982,30 +6376,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "sharma2018transfer",
-    "title": "Transfer Operator Theoretic Framework for Monitoring Building Indoor Environment in Uncertain Operating Conditions",
-    "authors": [
-      "Himanshu Sharma",
-      "Anthony Fontanini",
-      "Umesh Vaidya",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "anthony-fontanini",
-      "baskar",
-      "himanshu-sharma"
-    ],
-    "year": 2018,
-    "venue": "",
-    "doi": "10.23919/acc.2018.8430963",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "sharma2018transferb",
@@ -7061,30 +6431,6 @@
     "selected": false,
     "preview": "",
     "status": "published"
-  },
-  {
-    "bibkey": "shook2018integrating",
-    "title": "Integrating genotype and weather variables for soybean yield prediction using deep learning",
-    "authors": [
-      "Johnathon M. Shook",
-      "Linjiang Wu",
-      "Tryambak Gangopadhyay",
-      "B. Ganapathysubramanian",
-      "Soumik Sarkar",
-      "Asheesh K. Singh"
-    ],
-    "members": [
-      "baskar"
-    ],
-    "year": 2018,
-    "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-    "doi": "10.1101/331561",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
   },
   {
     "bibkey": "siemianowski2018homes",
@@ -7584,56 +6930,6 @@
     "status": "published"
   },
   {
-    "bibkey": "nagasubramanian2017hyperspectral",
-    "title": "Hyperspectral band selection using genetic algorithm and support vector machines for early identification of charcoal rot disease in soybean",
-    "authors": [
-      "Koushik Nagasubramanian",
-      "Sarah E. Jones",
-      "Soumik Sarkar",
-      "Asheesh K. Singh",
-      "Arti Singh",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "koushik-nagasubramanian"
-    ],
-    "year": 2017,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1710.04681",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "nagasubramanian2017hyperspectralb",
-    "title": "Hyperspectral band selection using genetic algorithm and support vector\\n machines for early identification of charcoal rot disease in soybean",
-    "authors": [
-      "Koushik Nagasubramanian",
-      "Sarah Jones",
-      "Soumik Sarkar",
-      "Asheesh K. Singh",
-      "Arti Singh",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "koushik-nagasubramanian"
-    ],
-    "year": 2017,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1710.04681",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
     "bibkey": "naik2017real",
     "title": "A real-time phenotyping framework using machine learning for plant stress severity rating in soybean",
     "authors": [
@@ -7902,28 +7198,6 @@
       "phenotyping"
     ],
     "summary": "We predict county-level corn yields before harvest with a Bayesian network, giving probabilistic forecasts useful for production and market decisions.",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "dyja2016massively",
-    "title": "Massively parallel-in-space-time, adaptive finite element framework for non-linear parabolic equations",
-    "authors": [
-      "Robert Dyja",
-      "B. Ganapathysubramanian",
-      "Kristoffer G. van der Zee"
-    ],
-    "members": [
-      "baskar",
-      "robert-dyja"
-    ],
-    "year": 2016,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1608.08066",
-    "url": "",
-    "themes": [],
-    "summary": "",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -9607,29 +8881,6 @@
     "status": "preprint"
   },
   {
-    "bibkey": "busch2011rapid",
-    "title": "Rapid online quantification of tip-sample interaction for high-speed dynamic-mode atomic force microscope imaging",
-    "authors": [
-      "David Busch",
-      "Juan Ren",
-      "Qingze Zou",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "david-busch"
-    ],
-    "year": 2011,
-    "venue": "",
-    "doi": "10.1109/acc.2011.5991007",
-    "url": "",
-    "themes": [],
-    "summary": "",
-    "selected": false,
-    "preview": "",
-    "status": "published"
-  },
-  {
     "bibkey": "fontanini2011thermal",
     "title": "Thermal comparison between ceiling diffusers and fabric ductwork diffusers for green buildings",
     "authors": [
@@ -9764,29 +9015,6 @@
       "sciml"
     ],
     "summary": "We introduce a graph-based formulation to characterize the morphology of organic solar cells, turning complex nanostructure into quantitative descriptors.",
-    "selected": false,
-    "preview": "",
-    "status": "preprint"
-  },
-  {
-    "bibkey": "wodo2011graphb",
-    "title": "A novel graph-based formulation for characterizing morphology with\\n application to organic solar cells",
-    "authors": [
-      "Olga Wodo",
-      "Srikanta Tirthapura",
-      "Sumit Chaudhary",
-      "B. Ganapathysubramanian"
-    ],
-    "members": [
-      "baskar",
-      "olga-wodo"
-    ],
-    "year": 2011,
-    "venue": "arXiv (Cornell University)",
-    "doi": "10.48550/arxiv.1106.3536",
-    "url": "",
-    "themes": [],
-    "summary": "",
     "selected": false,
     "preview": "",
     "status": "preprint"
