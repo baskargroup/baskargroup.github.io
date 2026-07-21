@@ -4209,8 +4209,10 @@
     "venue": "ACS Applied Materials \\& Interfaces",
     "doi": "10.1021/acsami.1c17243",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We fabricate and model an impedance-based, label-free biosensor built on nanoporous anodized alumina and ITO, achieving sensitive detection without redox labels.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4237,8 +4239,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2021/9840192",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We review how unmanned aircraft systems enable flexible, high-throughput plant phenotyping for research and breeding, surveying platforms, sensors, and analysis workflows.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4264,8 +4269,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2021/9834746",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build a fully automated machine learning pipeline that acquires and counts soybean root nodules from images, quantifying a key nitrogen-fixation trait at scale.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4293,8 +4301,11 @@
     "venue": "",
     "doi": "10.1002/essoar.10508841.1",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We use self-supervised learning to classify agricultural insect pests when labeled data is limited, easing automated pest monitoring for farmers.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4319,8 +4330,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We introduce DiffNet, a mesh-based neural network that predicts full-field solutions to parametric partial differential equations, offering a differentiable alternative to conventional solvers.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4401,8 +4415,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2021/4238701",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We detect the progression of anthesis in field maize tassels from images, capturing the timing of pollen shed that matters for breeding and reproduction studies.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4462,8 +4479,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.20020",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We evaluate whether active learning reduces the labeling burden for image-based plant phenotyping, identifying where it helps and where it does not.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4491,8 +4511,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2021/9846470",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We fuse multiple drone-image views with deep learning to estimate soybean seed yield in breeding trials, giving a faster alternative to manual harvest measurement.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4518,8 +4541,11 @@
     "venue": "Molecular Systems Design \\& Engineering",
     "doi": "10.1039/d1me00157d",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We combine atomistic molecular dynamics with graph analysis to follow how organic semiconductor crystals grow from the melt, linking processing to structure.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4547,8 +4573,11 @@
     "venue": "",
     "doi": "10.1109/scws55283.2021.00020",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "numerics"
+    ],
+    "summary": "We assess indoor SARS-CoV-2 transmission risk using accessible high-fidelity flow simulation, showing how airflow shapes exposure in occupied spaces.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4610,8 +4639,11 @@
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
     "doi": "10.1145/3458817.3476220",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "hpc"
+    ],
+    "summary": "We build scalable, highly adaptive finite element solvers for PDEs in and around arbitrary geometries, enabling accurate simulation on complex domains at large scale.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4632,8 +4664,11 @@
     "venue": "Energies",
     "doi": "10.3390/en14206729",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "numerics"
+    ],
+    "summary": "We identify the source of an airborne contaminant from sparse sensor data using a Perron-Frobenius operator approach, helping keep built environments safe.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4656,8 +4691,11 @@
     "venue": "PLoS ONE",
     "doi": "10.1371/journal.pone.0252402",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We predict crop yield by integrating genotype and weather data with recurrent neural networks, capturing how varieties respond across climates for breeding and monitoring.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4731,8 +4769,11 @@
     "venue": "Frontiers in Big Data",
     "doi": "10.3389/fdata.2021.662186",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "built-env",
+      "cyberag"
+    ],
+    "summary": "We integrate social and biophysical models into an Iowa urban food-energy-water framework, letting stakeholders explore how cities can become more sustainable.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4784,8 +4825,11 @@
     "venue": "The Plant Cell",
     "doi": "10.1093/plcell/koab134",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We show that errors in automated trait measurement are themselves heritable and map their genetic basis, improving the reliability of high-throughput phenotyping for genetic studies.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4837,8 +4881,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2007.12792",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "hpc"
+    ],
+    "summary": "We train deep generative neural networks that solve partial differential equations, using distributed computing to scale training to large scientific problems.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -4901,8 +4948,11 @@
     "venue": "Plant Methods",
     "doi": "10.1186/s13007-019-0550-5",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build a computer vision and machine learning pipeline that measures soybean root architecture traits from images, replacing slow and variable manual scoring.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4927,8 +4977,11 @@
     "venue": "Plant Phenomics",
     "doi": "10.34133/2020/1925495",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We study root system architecture across a large soybean accession set, linking root trait diversity to genotype and phenotype for breeding.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -4975,8 +5028,11 @@
     "venue": "Scientific Reports",
     "doi": "10.1038/s41598-020-71898-8",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We predict maize yields at county scale from publicly available weather and soil data using machine learning, supporting large-area monitoring and decisions.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5003,8 +5059,10 @@
     "venue": "Proceedings of the National Academy of Sciences",
     "doi": "10.1073/pnas.2002821117",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We simulate how thinner tissue in aortic heart valves induces leaflet flutter, connecting valve mechanics to durability and the design of replacements.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5029,8 +5087,11 @@
     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
     "doi": "10.1609/aaai.v34i04.5863",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "design-opt"
+    ],
+    "summary": "We build InvNet, a generative model that encodes geometric and statistical invariances so deep generative methods can respect the constraints of scientific design problems.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5076,8 +5137,10 @@
     "venue": "Journal of the American Chemical Society",
     "doi": "10.1021/jacs.9b13268",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We achieve concentration enrichment, separation, and cation exchange inside nanoliter droplets, expanding what droplet chemistry can do with tiny fluid volumes.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5101,8 +5164,10 @@
     "venue": "Biomicrofluidics",
     "doi": "10.1063/1.5133640",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "microfluidics"
+    ],
+    "summary": "We study inertial focusing of particles in triangular microchannels, showing how the apex angle controls the number and location of focusing positions.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5125,8 +5190,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2010.08778",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics",
+      "microfluidics"
+    ],
+    "summary": "We model electrochemical systems with weakly imposed Dirichlet boundary conditions in finite elements, improving the analysis and design of electrochemical devices.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -5151,8 +5219,11 @@
     "venue": "Journal of Chemical Information and Modeling",
     "doi": "10.1021/acs.jcim.9b01113",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We determine the free energies of mixing of organic solutions from molecular simulation, providing data needed to design printing formulations for solution-processed semiconductors.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5183,8 +5254,11 @@
     "venue": "Applications in Plant Sciences",
     "doi": "10.1002/aps3.11375",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We automate trichome counting in soybean with image processing, quantifying these protective leaf hairs that influence resistance to herbivores.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -5207,8 +5281,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2007.05729",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "sciml"
+    ],
+    "summary": "We test whether interpretability methods truly explain deep learning models for plant stress, assessing how much to trust their explanations.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -5258,8 +5335,11 @@
     "venue": "Applications in Plant Sciences",
     "doi": "10.1002/aps3.11385",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We build Leaf Angle eXtractor, a high-throughput image pipeline that measures maize leaf angle, a trait central to planting density and light capture.",
     "selected": false,
     "preview": "",
     "status": "published"

@@ -20,6 +20,9 @@ version, merge identifiers, and remove the rest.
 | `rairdin2022deep` (Frontiers Plant Sci.) | `rairdin2022nappn` (NAPPN conf. abstract) | Deep-learning phenotyping + GWAS of soybean sudden death syndrome |
 | `cho2021differentiableb` (NeurIPS) | `cho2021differentiable` (ISU repo, "Piecewise Polynomial Functions") | Differentiable spline approximations |
 
+| `riera2021deep` (Plant Phenomics) | `riera2020deep`, `riera2020deepb` (both arXiv) | Deep multiview image fusion for soybean yield estimation |
+| `botelho2020deepb` (arXiv) | `botelho2020deep` (ISU repo) | Deep generative models that solve PDEs (distributed training) |
+
 Also note: `chiteri2022nappn` (NAPPN conf. abstract, already enriched) is the conference-abstract precursor of `chiteri2023dissecting` (leaf morphology GWAS) and is a dedup candidate too.
 
 Note: a fuller dedup pass over the whole bibliography (fuzzy-title, arXiv-vs-DOI)
