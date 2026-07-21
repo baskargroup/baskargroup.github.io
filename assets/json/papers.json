@@ -725,8 +725,10 @@
     "venue": "Manufacturing Letters",
     "doi": "10.1016/j.mfglet.2025.06.138",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "design-opt"
+    ],
+    "summary": "We use large language models to probe the cybersecurity of networked 3D printers, showing how tampered instructions can compromise additive manufacturing and how such attacks might be detected.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -752,8 +754,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2512.11925",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "sciml"
+    ],
+    "summary": "We introduce FloraForge, which uses a language model to generate editable, analysis-ready 3D plant models from natural language, avoiding the heavy training data and expertise other methods need.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -808,8 +813,11 @@
     "venue": "Crop Science",
     "doi": "10.1002/csc2.70098",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We screen a diverse soybean panel for drought response using sensor-based field measurements, identifying traits and metrics that help breed for drought resilience.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -913,8 +921,10 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2512.21773",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "numerics"
+    ],
+    "summary": "We develop a fast, stable finite element method for incompressible flow that linearizes the equations at each step, making large flow simulations more efficient.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -994,8 +1004,11 @@
     "venue": "The Plant Phenome Journal",
     "doi": "10.1002/ppj2.70036",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We predict soybean days to maturity from drone image time series using two-dimensional contour plots, giving breeders an automated alternative to visual maturity ratings.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1021,8 +1034,10 @@
     "venue": "",
     "doi": "10.1109/cvprw67362.2025.00544",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping"
+    ],
+    "summary": "We reconstruct 3D plant point clouds from a single fixed camera and a rotating sample, making high-throughput phenotyping practical where moving cameras are not.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1049,8 +1064,11 @@
     "venue": "The Plant Genome",
     "doi": "10.1002/tpg2.70002",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We combine genomic and image-based phenomic prediction to forecast soybean yield, protein, and oil, improving how breeders select promising varieties.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1075,8 +1093,11 @@
     "venue": "MRS Communications",
     "doi": "10.1557/s43579-025-00873-z",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "energymat",
+      "sciml"
+    ],
+    "summary": "We test whether models linking material microstructure to properties can transfer across very different microstructure types, a step toward general data-driven materials design.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1137,8 +1158,11 @@
     "venue": "Theoretical and Applied Genetics",
     "doi": "10.1007/s00122-025-04928-6",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "sciml"
+    ],
+    "summary": "We propose a framework for combining symbolic and machine-learning prediction in crop improvement, showing how it can sharpen predictions as biological systems grow more complex.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1188,8 +1212,11 @@
     "venue": "Frontiers in Plant Science",
     "doi": "10.3389/fpls.2025.1617831",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "cyberag",
+      "phenotyping"
+    ],
+    "summary": "We improve in-season crop yield prediction from plot-level satellite imagery by separating genotype and environment signals, helping breeders and growers allocate resources.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1210,8 +1237,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2503.17289",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We build neural operator surrogates that predict 3D fluid flow around complex shapes from a signed distance representation, cutting the cost of high-fidelity simulation for design.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1236,8 +1266,11 @@
     "venue": "Communications Engineering",
     "doi": "10.1038/s44172-025-00513-3",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We benchmark scientific machine learning methods for predicting flow around complex geometries, moving the field beyond the simple shapes most studies rely on.",
     "selected": false,
     "preview": "",
     "status": "published"
@@ -1260,8 +1293,11 @@
     "venue": "arXiv (Cornell University)",
     "doi": "10.48550/arxiv.2512.04434",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "sciml",
+      "numerics"
+    ],
+    "summary": "We present a geometry-aware operator network that predicts unsteady flow over complex shapes from a signed distance field and flow history, generalizing across geometries.",
     "selected": false,
     "preview": "",
     "status": "preprint"
@@ -1288,8 +1324,11 @@
     "venue": "Smart Agricultural Technology",
     "doi": "10.1016/j.atech.2025.101566",
     "url": "",
-    "themes": [],
-    "summary": "",
+    "themes": [
+      "phenotyping",
+      "cyberag"
+    ],
+    "summary": "We study how maize leaf arrangement and planting density affect light capture in the field, using 3D models to understand how dense planting can still yield well.",
     "selected": false,
     "preview": "",
     "status": "published"
