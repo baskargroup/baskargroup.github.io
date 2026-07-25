@@ -6,7 +6,8 @@ started: "Aug 2022"
 start_sort: "2022-08"
 coadvisors: ""
 photo: /assets/img/people/ronak-tali.webp
-links:            # TODO(baskar): scholar, github, site
+links:
+  site: "https://ronaktali.vercel.app/"
 social:           # opt-in only: linkedin, bluesky, x, blog
 themes: []
 ---

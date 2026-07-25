@@ -6,7 +6,9 @@ started: "Aug 2022"
 start_sort: "2022-08"
 coadvisors: ""
 photo: /assets/img/people/hossein-zaremehrjerdi.webp
-links:            # TODO(baskar): scholar, github, site
-social:           # opt-in only: linkedin, bluesky, x, blog
+links:
+  site: "https://mhzarem.github.io/"
+social:
+  linkedin: "https://www.linkedin.com/in/hosseinzarem/"
 themes: []
 ---

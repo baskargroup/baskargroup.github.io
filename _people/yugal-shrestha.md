@@ -5,8 +5,9 @@ role: phd
 started: "May 2026"
 start_sort: "2026-05"
 coadvisors: ""
-photo:            # TODO(baskar): assets/img/people/<slug>.webp
+photo: /assets/img/people/yugal-shrestha.webp
 links:            # TODO(baskar): scholar, github, site
-social:           # opt-in only: linkedin, bluesky, x, blog
+social:
+  linkedin: "https://www.linkedin.com/in/yugal-shrestha-1930641a0"
 themes: []
 ---

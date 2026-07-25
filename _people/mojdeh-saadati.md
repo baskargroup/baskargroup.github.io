@@ -7,6 +7,7 @@ start_sort: "2022-05"
 coadvisors: ""
 photo: /assets/img/people/mojdeh-saadati.webp
 links:            # TODO(baskar): scholar, github, site
-social:           # opt-in only: linkedin, bluesky, x, blog
+social:
+  linkedin: "https://www.linkedin.com/in/mojdeh-saadati"
 themes: []
 ---

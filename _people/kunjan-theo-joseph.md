@@ -5,7 +5,7 @@ role: phd
 started: "Jan 2026"
 start_sort: "2026-01"
 coadvisors: ""
-photo:            # TODO(baskar): assets/img/people/<slug>.webp
+photo: /assets/img/people/kunjan-theo-joseph.webp
 links:            # TODO(baskar): scholar, github, site
 social:           # opt-in only: linkedin, bluesky, x, blog
 themes: []

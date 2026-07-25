@@ -21,13 +21,18 @@ is on GitHub yet, and it stays that way until Baskar says go live.
 
 ## ⏳ In flight — waiting on Baskar / group members
 
-1. **Member photos — email sent 2026-07-21.** Members were asked for a recent head-and-shoulders
-   photo (any format, high-res, face centered). **18 of 91 people files have a photo; the rest do
-   not.** When photos arrive, follow **"Photo intake workflow"** below.
-2. **Personal links (optional)** were requested in the same email (personal site / Google Scholar /
-   LinkedIn). These go in the `links:` / `social:` frontmatter of each `_people/<slug>.md`.
-   Note: link rendering on the People page may still need to be wired up — check `_pages/people.md`
-   (currently it renders photo + name only; `links:`/`social:` fields exist but may not display yet).
+1. **Member photos — first batch processed 2026-07-25** (branch `member-photos-links`). 11 new/updated
+   photos landed (6 filled empty slots, 5 replaced low-res scraped versions). **Current members still
+   without a photo (7):** antriksh-srivatsava, meherpal-singh-bhatti, nicole-hayungs,
+   prashant-kumar-gupta, raja-s-n-y-y-kataru, ravi-p-singh, sai-harish-uthravalli. When more arrive,
+   follow **"Photo intake workflow"** below.
+2. **Personal links — now rendered.** The People page shows small LinkedIn / Google Scholar / website
+   icons under each member, only for links a member provided (`_pages/people.md`; data in each
+   `_people/<slug>.md` under `social.linkedin`, `links.scholar`, `links.site`).
+3. **Bios held.** Hossein, Hasan, and James sent short bios / research-interest blurbs. Not rendered
+   (the grid has no bio slot); saved in the `member-photos-links` PR notes for a future member-profile
+   decision. Ritwesh Kumar (alumni) sent a photo + site; kept as alumni, so his photo is unused and
+   his site link is held until/unless alumni links render.
 
 ---
 

@@ -184,9 +184,10 @@
   person: marjan-saadati
   variants:
     - "Marjan Saadati"
-- canonical: "Md Mohammadul Hasan Mollah"
-  person: md-mohammadul-hasan-mollah
+- canonical: "Md Mahmudul Hasan Mollah"
+  person: md-mahmudul-hasan-mollah
   variants:
+    - "Md Mahmudul Hasan Mollah"
     - "Md Mohammadul Hasan Mollah"
 - canonical: "Mehdi Shadkhah"
   person: mehdi-shadkhah
