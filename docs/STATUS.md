@@ -102,11 +102,12 @@ Current members are the priority; many of the 91 people files are alumni who may
    Remaining manual steps (Baskar): create a repo named `baskargroup.github.io` in the `baskargroup`
    org, add it as a git remote + push `main`, enable Pages (Settings -> Pages -> Source: GitHub
    Actions, since al-folio deploys via `.github/workflows/deploy.yml`), make the repo public.
-   Content is launch-ready after the 2026-07-25 cleanup. Remaining pre-public considerations (not
-   blockers): (a) ~20 al-folio CI workflows will activate on GitHub (docker image builds,
-   lighthouse-badger, visual-regression, codeql, etc.) -- prune to just deploy/validate if unwanted;
-   (b) `/news/` renders an empty page (no `_news` items yet, unlinked from nav); (c) impact stat
-   "Open tools and datasets released: 12" vs 16 product pages -- reconcile if desired.
+   Content is launch-ready after the 2026-07-25 cleanup. CI workflows pruned 2026-07-25 to 4
+   essentials (deploy, unit-tests, broken-links, broken-links-site); 14 template workflows (docker,
+   lighthouse-badger, visual-regression, codeql, prettier, etc.) removed so the Actions tab stays
+   clean at launch. Remaining pre-public considerations (not blockers): (a) `/news/` renders an empty
+   page (no `_news` items yet, unlinked from nav); (b) impact stat "Open tools and datasets released:
+   12" vs 16 product pages -- reconcile if desired.
 6. **Optional — 122 abstract-less papers:** currently pending (no OpenAlex/Crossref abstract). Could
    source abstracts another way (publisher pages / Semantic Scholar / manual) for fuller coverage,
    or leave them un-enriched. 7 more are pending as no-theme/junk (DEI/education, tribology,
