@@ -39,9 +39,10 @@
   person: anthony-fontanini
   variants:
     - "Anthony Fontanini"
-- canonical: "Antriksh Srivatsava"
-  person: antriksh-srivatsava
+- canonical: "Antriksh Srivastava"
+  person: antriksh-srivastava
   variants:
+    - "Antriksh Srivastava"
     - "Antriksh Srivatsava"
 - canonical: "Badrinath Balasubramaniam"
   person: badrinath-balasubramaniam

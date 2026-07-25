@@ -26,10 +26,6 @@ is on GitHub yet, and it stays that way until Baskar says go live.
    without a photo (3):** meherpal-singh-bhatti, nicole-hayungs, sai-harish-uthravalli. When more
    arrive, follow **"Photo intake workflow"** below. (Ravi P Singh and Raja Kataru were removed on
    2026-07-25 pending their official Aug 2026 start; re-add them then.)
-
-   Note: `antriksh-srivatsava` name may be misspelled. His own site
-   (sites.google.com/view/cropsystemmodelling) spells it "Antriksh **Srivastava**"; our file/slug use
-   "Srivatsava". Flag for Baskar to confirm before renaming the slug + authors.yml.
 2. **Personal links — now rendered.** The People page shows small LinkedIn / Google Scholar / website
    icons under each member, only for links a member provided (`_pages/people.md`; data in each
    `_people/<slug>.md` under `social.linkedin`, `links.scholar`, `links.site`).
