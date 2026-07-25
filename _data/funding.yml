@@ -12,7 +12,7 @@
     - name: "DARPA"
     - name: "Office of Naval Research (ONR)"
     - name: "U.S. Department of Defense (DoD)"
-- category: State
+- category: State and farmer groups
   funders:
     - name: "Iowa Economic Development Authority"
     - name: "Iowa Soybean Association"
@@ -20,10 +20,9 @@
   funders:
     - name: "ISU Plant Science Institute"
     - name: "Institute for Physical Research and Technology (IPRT)"
-- category: Industry
+- category: Industry / public-private partnerships
   funders:
     - name: "Bayer"
     - name: "John Deere"
     - name: "Corteva"
-    - name: "Principal"
-    - name: "Pella Corporation"
+    - name: "MxD"

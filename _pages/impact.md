@@ -67,7 +67,7 @@ Our research is made possible by the generous support of federal, state, institu
   .impact-cta h3 { margin: 0 0 .4rem; font-size: 1.2rem; }
   .impact-cta p { margin: 0; }
   .funding { margin: 1rem 0 1.5rem; }
-  .funding-group { display: grid; grid-template-columns: 7.5rem 1fr; gap: .75rem 1rem; align-items: start; padding: .7rem 0; border-top: 1px solid var(--global-divider-color, #e0e0e0); }
+  .funding-group { display: grid; grid-template-columns: 10rem 1fr; gap: .75rem 1rem; align-items: start; padding: .7rem 0; border-top: 1px solid var(--global-divider-color, #e0e0e0); }
   .funding-group:first-child { border-top: none; }
   .funding-cat { font-size: .78rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--global-text-color-light, #828282); padding-top: .2rem; }
   .funding-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .45rem; }
