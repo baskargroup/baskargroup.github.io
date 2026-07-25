@@ -5,8 +5,9 @@ role: postdoc
 started: "Jun 2026"
 start_sort: "2026-06"
 coadvisors: ""
-photo:            # TODO(baskar): assets/img/people/<slug>.webp
-links:            # TODO(baskar): scholar, github, site
+photo: /assets/img/people/antriksh-srivatsava.webp
+links:
+  site: "https://sites.google.com/view/cropsystemmodelling/home"
 social:           # opt-in only: linkedin, bluesky, x, blog
 themes: []
 ---
