@@ -31,6 +31,27 @@ Our research does not stay in journals. We turn computational advances into tool
 
 **Training the AI workforce.** More than fifty PhD and MS graduates have gone on to national laboratories (NASA, Argonne, ORNL, PNNL), to industry (Bayer, John Deere, Corning, Micron, Intel), and to faculty positions worldwide. See the [alumni wall](/people/).
 
+## Funding and support
+
+Our research is made possible by the generous support of federal, state, institutional, and industry sponsors.
+
+<div class="funding">
+{% for group in site.data.funding %}
+  <div class="funding-group">
+    <div class="funding-cat">{{ group.category }}</div>
+    <ul class="funding-list">
+      {% for f in group.funders %}
+      <li class="funding-item">
+        {% if f.logo %}<img class="funding-logo" src="{{ f.logo | relative_url }}" alt="{{ f.name }}" loading="lazy">
+        {% elsif f.url %}<a href="{{ f.url }}" target="_blank" rel="noopener">{{ f.name }}</a>
+        {% else %}{{ f.name }}{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
+
 <div class="impact-cta">
   <h3>Let's build what comes next</h3>
   <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="mailto:{{ 'baskarg@iastate.edu' | encode_email }}?subject=Connecting%20with%20the%20Baskar%20Group">email Baskar Ganapathysubramanian</a> to start the discussion.</p>
@@ -45,5 +66,14 @@ Our research does not stay in journals. We turn computational advances into tool
   .impact-cta { border: 1px solid var(--global-divider-color, #e0e0e0); border-left: 4px solid var(--global-highlight, #0e7490); border-radius: 8px; padding: 1.1rem 1.3rem; margin: 2rem 0 1rem; background: rgba(14, 116, 144, .05); }
   .impact-cta h3 { margin: 0 0 .4rem; font-size: 1.2rem; }
   .impact-cta p { margin: 0; }
-  .impact-todo { margin-top: 1.5rem; font-size: .85rem; color: var(--global-text-color-light, #828282); }
+  .funding { margin: 1rem 0 1.5rem; }
+  .funding-group { display: grid; grid-template-columns: 7.5rem 1fr; gap: .75rem 1rem; align-items: start; padding: .7rem 0; border-top: 1px solid var(--global-divider-color, #e0e0e0); }
+  .funding-group:first-child { border-top: none; }
+  .funding-cat { font-size: .78rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--global-text-color-light, #828282); padding-top: .2rem; }
+  .funding-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .45rem; }
+  .funding-item { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 999px; padding: .28rem .7rem; font-size: .85rem; line-height: 1.3; }
+  .funding-item a { text-decoration: none; color: inherit; }
+  .funding-item a:hover { color: var(--global-theme-color, #0e7490); }
+  .funding-logo { height: 1.4rem; width: auto; display: block; }
+  @media (max-width: 576px) { .funding-group { grid-template-columns: 1fr; gap: .4rem; } }
 </style>

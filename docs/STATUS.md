@@ -73,6 +73,7 @@ Current members are the priority; many of the 91 people files are alumni who may
 - **Homepage:** old-site text, selected works, hero from Proteus repo, Baskar's photo removed.
 - **PI details:** Distinguished Professor; connected to AIIRA (aiira.iastate.edu) and
   TrAC (trac-ai.iastate.edu); "Staff" (not "Research Staff"); "societal" (not "national") challenges.
+- **Impact page:** added a "Funding and support" section (grouped funder name chips by Federal/State/Institutional/Industry, from _data/funding.yml, sourced from the July 2026 CV). Logo-wall upgrade deferred (company/state logos need official brand assets; template already supports a per-funder `logo:` field).
 - **Launch-readiness cleanup (2026-07-25):** removed all al-folio demo debris that would have shipped
   publicly: the demo CV page (`/cv/` John Doe + `_data/cv.yml` + rendercv assets incl. Einstein PDF +
   `.github/workflows/render-cv.yml`), `assets/plotly/demo.html`, `assets/html/relativity.html`, demo
