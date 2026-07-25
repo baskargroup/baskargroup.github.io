@@ -8,6 +8,7 @@ coadvisors: "Aishwarya Pawar"
 photo: /assets/img/people/prashant-kumar-gupta.webp
 links:
   scholar: "https://scholar.google.com/citations?hl=en&user=5jgeTdwAAAAJ"
-social:           # opt-in only: linkedin, bluesky, x, blog
+social:
+  linkedin: "https://www.linkedin.com/in/prashant-kumar-gupta-iitr/"
 themes: []
 ---
