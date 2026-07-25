@@ -31,6 +31,11 @@ Our research does not stay in journals. We turn computational advances into tool
 
 **Training the AI workforce.** More than fifty PhD and MS graduates have gone on to national laboratories (NASA, Argonne, ORNL, PNNL), to industry (Bayer, John Deere, Corning, Micron, Intel), and to faculty positions worldwide. See the [alumni wall](/people/).
 
+<div class="impact-cta">
+  <h3>Let's build what comes next</h3>
+  <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="mailto:{{ 'baskarg@iastate.edu' | encode_email }}?subject=Connecting%20with%20the%20Baskar%20Group">email Baskar Ganapathysubramanian</a> to start the discussion.</p>
+</div>
+
 ## Funding and support
 
 Our research is made possible by the generous support of federal, state, institutional, and industry sponsors.
@@ -50,11 +55,6 @@ Our research is made possible by the generous support of federal, state, institu
     </ul>
   </div>
 {% endfor %}
-</div>
-
-<div class="impact-cta">
-  <h3>Let's build what comes next</h3>
-  <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="mailto:{{ 'baskarg@iastate.edu' | encode_email }}?subject=Connecting%20with%20the%20Baskar%20Group">email Baskar Ganapathysubramanian</a> to start the discussion.</p>
 </div>
 
 <style>
