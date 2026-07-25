@@ -23,9 +23,10 @@ is on GitHub yet, and it stays that way until Baskar says go live.
 
 1. **Member photos — first batch processed 2026-07-25** (branch `member-photos-links`). 11 new/updated
    photos landed (6 filled empty slots, 5 replaced low-res scraped versions). **Current members still
-   without a photo (7):** antriksh-srivatsava, meherpal-singh-bhatti, nicole-hayungs,
-   prashant-kumar-gupta, raja-s-n-y-y-kataru, ravi-p-singh, sai-harish-uthravalli. When more arrive,
-   follow **"Photo intake workflow"** below.
+   without a photo (5):** antriksh-srivatsava, meherpal-singh-bhatti, nicole-hayungs,
+   prashant-kumar-gupta, sai-harish-uthravalli. When more arrive, follow **"Photo intake workflow"**
+   below. (Ravi P Singh and Raja Kataru were removed on 2026-07-25 pending their official Aug 2026
+   start; re-add them then.)
 2. **Personal links — now rendered.** The People page shows small LinkedIn / Google Scholar / website
    icons under each member, only for links a member provided (`_pages/people.md`; data in each
    `_people/<slug>.md` under `social.linkedin`, `links.scholar`, `links.site`).
