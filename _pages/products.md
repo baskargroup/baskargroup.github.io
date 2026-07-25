@@ -36,7 +36,7 @@ description: Software, apps, datasets, and models from the Baskar Group.
   {% endif %}
 {% endfor %}
 
-<p class="prod-note">Live links are from the group's GitHub repositories. TODO(baskar): product preview images; add FASTEST and any other tools that have a public site or repo.</p>
+<p class="prod-note">Live links point to the group's public repositories, project pages, datasets, and demos.</p>
 
 <style>
   .prod-type { margin-top: 2rem; }

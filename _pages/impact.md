@@ -36,8 +36,6 @@ Our research does not stay in journals. We turn computational advances into tool
   <p>We have bold new plans taking shape. If you are a <strong>policy maker</strong> or a <strong>philanthropic partner</strong>, we would welcome a conversation, whether about the work described here or where we intend to take it next. Please <a href="mailto:{{ 'baskarg@iastate.edu' | encode_email }}?subject=Connecting%20with%20the%20Baskar%20Group">email Baskar Ganapathysubramanian</a> to start the discussion.</p>
 </div>
 
-<p class="impact-todo">TODO(baskar): specific reach numbers (growers, acres, people reached) and two or three full impact stories with a hero image each.</p>
-
 <style>
   .stats-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1.5rem 0 2rem; }
   .stat { border: 1px solid var(--global-divider-color, #e0e0e0); border-radius: 10px; padding: 1rem; text-align: center; }

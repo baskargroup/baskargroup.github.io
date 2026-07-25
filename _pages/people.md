@@ -62,8 +62,6 @@ description: Members of the Baskar Group.
   {% endif %}
 {% endfor %}
 
-<p class="people-note">TODO(baskar): a few current members still need a photo or personal links. Alumni placements are from the July 2026 CV; update any that have changed.</p>
-
 <style>
   .people-role { margin-top: 2.2rem; }
   .people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 1.25rem; margin-bottom: 1rem; }

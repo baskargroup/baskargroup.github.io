@@ -73,6 +73,15 @@ Current members are the priority; many of the 91 people files are alumni who may
 - **Homepage:** old-site text, selected works, hero from Proteus repo, Baskar's photo removed.
 - **PI details:** Distinguished Professor; connected to AIIRA (aiira.iastate.edu) and
   TrAC (trac-ai.iastate.edu); "Staff" (not "Research Staff"); "societal" (not "national") challenges.
+- **Launch-readiness cleanup (2026-07-25):** removed all al-folio demo debris that would have shipped
+  publicly: the demo CV page (`/cv/` John Doe + `_data/cv.yml` + rendercv assets incl. Einstein PDF +
+  `.github/workflows/render-cv.yml`), `assets/plotly/demo.html`, `assets/html/relativity.html`, demo
+  images (`assets/img/1-12.jpg`, `prof_pic*`), demo audio/video (`pexels`, `tutorial_al_folio`), demo
+  JSON (`resume.json`, `table_data.json`), demo bib preview GIFs, and blanked demo `_data/coauthors.yml`
+  / `repositories.yml`. Excluded the theme `test/` dir from the build. Replaced 4 visible `TODO(baskar)`
+  page notes (homepage contact note, People/Impact/Products notes) with real text; dropped the
+  inaccurate "Photos from Unsplash" footer credit and set real SEO keywords. **Verified: 0 rendered
+  TODO/placeholder text, 0 plaintext email, build + validate clean.**
 
 ---
 
@@ -86,7 +95,12 @@ Current members are the priority; many of the 91 people files are alumni who may
 4. **Hiring** (for the Join page): looking to hire **1-2 PhD students next year** and a
    **back-end HPC/GPU engineer**.
 5. **Go-live** — GitHub org + Pages at `baskar-group.github.io`. Needs Baskar's manual steps
-   (org access, decision on the `BaskarGroup.github.io` root repo). PR-only; never push to `main`.
+   (org access, decision on the `BaskarGroup.github.io` root repo, add the git remote and push).
+   Content is launch-ready after the 2026-07-25 cleanup. Remaining pre-public considerations (not
+   blockers): (a) ~20 al-folio CI workflows will activate on GitHub (docker image builds,
+   lighthouse-badger, visual-regression, codeql, etc.) -- prune to just deploy/validate if unwanted;
+   (b) `/news/` renders an empty page (no `_news` items yet, unlinked from nav); (c) impact stat
+   "Open tools and datasets released: 12" vs 16 product pages -- reconcile if desired.
 6. **Optional — 122 abstract-less papers:** currently pending (no OpenAlex/Crossref abstract). Could
    source abstracts another way (publisher pages / Semantic Scholar / manual) for fuller coverage,
    or leave them un-enriched. 7 more are pending as no-theme/junk (DEI/education, tribology,
