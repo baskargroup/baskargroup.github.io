@@ -23,7 +23,7 @@ is on GitHub yet, and it stays that way until Baskar says go live.
 
 1. **Member photos — first batch processed 2026-07-25** (branch `member-photos-links`). 11 new/updated
    photos landed (6 filled empty slots, 5 replaced low-res scraped versions). **Current members still
-   without a photo (3):** meherpal-singh-bhatti, nicole-hayungs, sai-harish-uthravalli. When more
+   without a photo (2):** meherpal-singh-bhatti, nicole-hayungs. When more
    arrive, follow **"Photo intake workflow"** below. (Ravi P Singh and Raja Kataru were removed on
    2026-07-25 pending their official Aug 2026 start; re-add them then.)
 2. **Personal links — now rendered.** The People page shows small LinkedIn / Google Scholar / website
