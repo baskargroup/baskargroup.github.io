@@ -95,8 +95,13 @@ Current members are the priority; many of the 91 people files are alumni who may
    AAAS-Fellow nomination docs.
 4. **Hiring** (for the Join page): looking to hire **1-2 PhD students next year** and a
    **back-end HPC/GPU engineer**.
-5. **Go-live** — GitHub org + Pages at `baskar-group.github.io`. Needs Baskar's manual steps
-   (org access, decision on the `BaskarGroup.github.io` root repo, add the git remote and push).
+5. **Go-live** — **decided 2026-07-25:** publish as the org-root site under the EXISTING
+   `baskargroup` GitHub org at **`https://baskargroup.github.io/`** (not a new `baskar-group` org),
+   so the main site and the project pages (`baskargroup.github.io/<project>/`) share one org/domain.
+   Site `url`/`og_image` and about.md JSON-LD updated from `baskar-group` to `baskargroup`.
+   Remaining manual steps (Baskar): create a repo named `baskargroup.github.io` in the `baskargroup`
+   org, add it as a git remote + push `main`, enable Pages (Settings -> Pages -> Source: GitHub
+   Actions, since al-folio deploys via `.github/workflows/deploy.yml`), make the repo public.
    Content is launch-ready after the 2026-07-25 cleanup. Remaining pre-public considerations (not
    blockers): (a) ~20 al-folio CI workflows will activate on GitHub (docker image builds,
    lighthouse-badger, visual-regression, codeql, etc.) -- prune to just deploy/validate if unwanted;

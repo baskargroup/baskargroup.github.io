@@ -63,7 +63,7 @@ We are always looking for curious students, postdocs, and collaborators. See [Jo
   "@type": "Organization",
   "name": "Baskar Group",
   "alternateName": "Ganapathysubramanian Group",
-  "url": "https://baskar-group.github.io/",
+  "url": "https://baskargroup.github.io/",
   "description": "Computational tools for societal challenges in food, energy, environment, and health, at Iowa State University.",
   "parentOrganization": { "@type": "CollegeOrUniversity", "name": "Iowa State University", "url": "https://www.iastate.edu/" },
   "founder": {
