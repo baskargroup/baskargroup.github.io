@@ -11,6 +11,6 @@ links:
   data: https://huggingface.co/datasets/BGLab/MaizeField3D
 image:    # TODO(baskar): assets/img/products/<slug>.webp
 themes: [phenotyping]
-papers: []
+papers: [kimara2026maizefield]
 people: [baskar]
 ---

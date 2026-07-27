@@ -39,7 +39,7 @@ We are always looking for curious students, postdocs, and collaborators. See [Jo
 <div class="home-themes">
 {% for theme in site.data.themes %}
   {% assign cnt = site.data.theme_counts[theme.slug] %}
-  <a class="home-theme" href="{{ '/research/#' | append: theme.slug | relative_url }}">
+  <a class="home-theme" href="{{ '/publications/?theme=' | append: theme.slug | relative_url }}">
     <span class="home-theme-name">{{ theme.name }}</span>
     {% if cnt %}<span class="home-theme-count">{{ cnt }}</span>{% endif %}
   </a>

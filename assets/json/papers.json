@@ -115,6 +115,39 @@
     "status": "preprint"
   },
   {
+    "bibkey": "kimara2026maizefield",
+    "title": "MaizeField3D: A curated 3D point cloud and procedural model dataset of field-grown maize from a diversity panel",
+    "authors": [
+      "Elvis Kimara",
+      "Mozhgan Hadadi",
+      "Jackson Godbersen",
+      "Aditya Balu",
+      "Zaki Jubery",
+      "Yawei Li",
+      "Adarsh Krishnamurthy",
+      "Patrick S. Schnable",
+      "B. Ganapathysubramanian"
+    ],
+    "members": [
+      "baskar",
+      "elvis-kimara",
+      "mozhgan-hadadi",
+      "zaki-jubery"
+    ],
+    "year": 2026,
+    "venue": "Plant Phenomics",
+    "doi": "10.1016/j.plaphe.2025.100108",
+    "url": "",
+    "themes": [
+      "phenotyping",
+      "sciml"
+    ],
+    "summary": "We release a curated dataset of 3D point clouds and procedural leaf models of field-grown maize from a diverse panel, giving researchers ready-to-use data for studying plant structure and phenotyping.",
+    "selected": false,
+    "preview": "",
+    "status": "published"
+  },
+  {
     "bibkey": "ku2026hs",
     "title": "HS-3D-NeRF: 3D Surface and Hyperspectral Reconstruction From Stationary Hyperspectral Images Using Multi-Channel NeRFs",
     "authors": [
