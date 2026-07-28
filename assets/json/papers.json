@@ -143,7 +143,7 @@
       "sciml"
     ],
     "summary": "We release a curated dataset of 3D point clouds and procedural leaf models of field-grown maize from a diverse panel, giving researchers ready-to-use data for studying plant structure and phenotyping.",
-    "selected": false,
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -421,7 +421,7 @@
     "url": "",
     "themes": [],
     "summary": "",
-    "selected": false,
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -736,7 +736,7 @@
       "sciml"
     ],
     "summary": "We lay out how digital twins, virtual models kept in step with real plants, can change how the plant sciences predict, design, and manage crops.",
-    "selected": false,
+    "selected": true,
     "preview": "",
     "status": "published"
   },
@@ -1304,7 +1304,7 @@
       "numerics"
     ],
     "summary": "We benchmark scientific machine learning methods for predicting flow around complex geometries, moving the field beyond the simple shapes most studies rely on.",
-    "selected": false,
+    "selected": true,
     "preview": "",
     "status": "preprint"
   },
